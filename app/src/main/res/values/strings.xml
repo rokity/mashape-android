@@ -3,4 +3,7 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="explore">Explore API</string>
+    <string name="find">Find API</string>
+    <string name="tags">Explore for Tags </string>
 </resources>

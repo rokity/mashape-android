@@ -1,11 +1,49 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
-    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity">
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity">
 
-    <TextView android:text="@string/hello_world" android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+    <com.rey.material.widget.Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tags"
+        app:rd_enable="true"
+        android:layout_marginTop="30dp"
+        android:id="@+id/explore"
+        android:background="#0A88B9"
+        android:textColor="#FFF"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+    <com.rey.material.widget.Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/find"
+        app:rd_enable="true"
+        android:layout_marginTop="30dp"
+        android:id="@+id/find"
+        android:background="#0A88B9"
+        android:textColor="#FFF"
+        android:layout_above="@+id/explore"
+        android:layout_alignLeft="@+id/explore"
+        android:layout_alignStart="@+id/explore" />
+    <com.rey.material.widget.Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/explore"
+        app:rd_enable="true"
+        android:onclick="explore"
+        android:layout_marginTop="30dp"
+        android:id="@+id/tags"
+        android:background="#0A88B9"
+        android:textColor="#FFF"
+        android:layout_above="@+id/find"
+        android:layout_alignLeft="@+id/find"
+        android:layout_alignStart="@+id/find" />
 
 </RelativeLayout>

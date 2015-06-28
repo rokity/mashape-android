@@ -11,28 +11,24 @@ public final class R {
     public static final class anim {
         public static final int abc_fade_in=0x7f050000;
         public static final int abc_fade_out=0x7f050001;
-        public static final int abc_grow_fade_in_from_bottom=0x7f050002;
-        public static final int abc_popup_enter=0x7f050003;
-        public static final int abc_popup_exit=0x7f050004;
-        public static final int abc_shrink_fade_out_from_bottom=0x7f050005;
-        public static final int abc_slide_in_bottom=0x7f050006;
-        public static final int abc_slide_in_top=0x7f050007;
-        public static final int abc_slide_out_bottom=0x7f050008;
-        public static final int abc_slide_out_top=0x7f050009;
+        public static final int abc_slide_in_bottom=0x7f050002;
+        public static final int abc_slide_in_top=0x7f050003;
+        public static final int abc_slide_out_bottom=0x7f050004;
+        public static final int abc_slide_out_top=0x7f050005;
     }
     public static final class attr {
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionBarDivider=0x7f010064;
+        public static final int actionBarDivider=0x7f010175;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionBarItemBackground=0x7f010065;
+        public static final int actionBarItemBackground=0x7f010176;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionBarPopupTheme=0x7f01005e;
+        public static final int actionBarPopupTheme=0x7f01016f;
         /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -50,117 +46,117 @@ containing a value of this type.
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
          */
-        public static final int actionBarSize=0x7f010063;
+        public static final int actionBarSize=0x7f010174;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionBarSplitStyle=0x7f010060;
+        public static final int actionBarSplitStyle=0x7f010171;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionBarStyle=0x7f01005f;
+        public static final int actionBarStyle=0x7f010170;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionBarTabBarStyle=0x7f01005a;
+        public static final int actionBarTabBarStyle=0x7f01016b;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionBarTabStyle=0x7f010059;
+        public static final int actionBarTabStyle=0x7f01016a;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionBarTabTextStyle=0x7f01005b;
+        public static final int actionBarTabTextStyle=0x7f01016c;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionBarTheme=0x7f010061;
+        public static final int actionBarTheme=0x7f010172;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionBarWidgetTheme=0x7f010062;
+        public static final int actionBarWidgetTheme=0x7f010173;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionButtonStyle=0x7f01007e;
+        public static final int actionButtonStyle=0x7f01018d;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionDropDownStyle=0x7f01007a;
+        public static final int actionDropDownStyle=0x7f010188;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionLayout=0x7f010031;
+        public static final int actionLayout=0x7f0100d0;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionMenuTextAppearance=0x7f010066;
+        public static final int actionMenuTextAppearance=0x7f010177;
         /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
          */
-        public static final int actionMenuTextColor=0x7f010067;
+        public static final int actionMenuTextColor=0x7f010178;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeBackground=0x7f01006a;
+        public static final int actionModeBackground=0x7f01017b;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeCloseButtonStyle=0x7f010069;
+        public static final int actionModeCloseButtonStyle=0x7f01017a;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeCloseDrawable=0x7f01006c;
+        public static final int actionModeCloseDrawable=0x7f01017d;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeCopyDrawable=0x7f01006e;
+        public static final int actionModeCopyDrawable=0x7f01017f;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeCutDrawable=0x7f01006d;
+        public static final int actionModeCutDrawable=0x7f01017e;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeFindDrawable=0x7f010072;
+        public static final int actionModeFindDrawable=0x7f010183;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModePasteDrawable=0x7f01006f;
+        public static final int actionModePasteDrawable=0x7f010180;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModePopupWindowStyle=0x7f010074;
+        public static final int actionModePopupWindowStyle=0x7f010185;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeSelectAllDrawable=0x7f010070;
+        public static final int actionModeSelectAllDrawable=0x7f010181;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeShareDrawable=0x7f010071;
+        public static final int actionModeShareDrawable=0x7f010182;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeSplitBackground=0x7f01006b;
+        public static final int actionModeSplitBackground=0x7f01017c;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeStyle=0x7f010068;
+        public static final int actionModeStyle=0x7f010179;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionModeWebSearchDrawable=0x7f010073;
+        public static final int actionModeWebSearchDrawable=0x7f010184;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionOverflowButtonStyle=0x7f01005c;
+        public static final int actionOverflowButtonStyle=0x7f01016d;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int actionOverflowMenuStyle=0x7f01005d;
+        public static final int actionOverflowMenuStyle=0x7f01016e;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -168,7 +164,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int actionProviderClass=0x7f010033;
+        public static final int actionProviderClass=0x7f0100d2;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -176,51 +172,45 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int actionViewClass=0x7f010032;
+        public static final int actionViewClass=0x7f0100d1;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int activityChooserViewStyle=0x7f010086;
+        public static final int activityChooserViewStyle=0x7f010194;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int alertDialogButtonGroupStyle=0x7f0100a7;
-        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+        public static final int background=0x7f010022;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int backgroundSplit=0x7f010024;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int backgroundStacked=0x7f010023;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int alertDialogCenterButtons=0x7f0100a8;
+        public static final int barSize=0x7f010088;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int alertDialogStyle=0x7f0100a6;
+        public static final int buttonBarButtonStyle=0x7f01018f;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int alertDialogTheme=0x7f0100a9;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int autoCompleteTextViewStyle=0x7f0100ae;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int background=0x7f01000c;
-        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-         */
-        public static final int backgroundSplit=0x7f01000e;
-        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-         */
-        public static final int backgroundStacked=0x7f01000d;
+        public static final int buttonBarStyle=0x7f01018e;
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -229,246 +219,599 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int backgroundTint=0x7f0100c7;
-        /** <p>Must be one of the following constant values.</p>
+        public static final int cardBackgroundColor=0x7f010035;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int cardCornerRadius=0x7f010036;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int cardElevation=0x7f010037;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int cardMaxElevation=0x7f010038;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int cardPreventCornerOverlap=0x7f01003a;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int cardUseCompatPadding=0x7f010039;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int cbd_animDuration=0x7f010047;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int cbd_boxSize=0x7f010042;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int cbd_cornerRadius=0x7f010043;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int cbd_height=0x7f010041;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int cbd_strokeColor=0x7f010045;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int cbd_strokeSize=0x7f010044;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int cbd_tickColor=0x7f010046;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int cbd_width=0x7f010040;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int closeIcon=0x7f0100f9;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int closeItemLayout=0x7f010032;
+        /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int collapseContentDescription=0x7f0101d5;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int collapseIcon=0x7f0101d4;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int color=0x7f010082;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int colorAccent=0x7f0101af;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int colorButtonNormal=0x7f0101b3;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int colorControlActivated=0x7f0101b1;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int colorControlHighlight=0x7f0101b2;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int colorControlNormal=0x7f0101b0;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int colorPrimary=0x7f0101ad;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int colorPrimaryDark=0x7f0101ae;
+        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int colorSwitchThumbNormal=0x7f0101b4;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int commitIcon=0x7f0100fd;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int contentInsetEnd=0x7f01002d;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int contentInsetLeft=0x7f01002e;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int contentInsetRight=0x7f01002f;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int contentInsetStart=0x7f01002c;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int contentPadding=0x7f01003b;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int contentPaddingBottom=0x7f01003f;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int contentPaddingLeft=0x7f01003c;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int contentPaddingRight=0x7f01003d;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int contentPaddingTop=0x7f01003e;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int cpd_inAnimDuration=0x7f010055;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int cpd_inStepColors=0x7f010057;
+        /** <p>Must be a floating point value, such as "<code>1.2</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int cpd_inStepPercent=0x7f010058;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int cpd_initialAngle=0x7f010049;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int cpd_keepDuration=0x7f010053;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int cpd_maxSweepAngle=0x7f01004a;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int cpd_minSweepAngle=0x7f01004b;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int cpd_outAnimDuration=0x7f010056;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int cpd_padding=0x7f010048;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int cpd_reverse=0x7f010050;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int cpd_rotateDuration=0x7f010051;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int cpd_strokeColor=0x7f01004d;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int cpd_strokeColors=0x7f01004f;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int cpd_strokeSecondaryColor=0x7f01004e;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int cpd_strokeSize=0x7f01004c;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int cpd_transformDuration=0x7f010052;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int cpd_transformInterpolator=0x7f010054;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int customNavigationLayout=0x7f010025;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int di_actionBackground=0x7f01006c;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int di_actionRipple=0x7f01006d;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int di_actionTextAppearance=0x7f01006e;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int di_actionTextColor=0x7f01006f;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int di_backgroundColor=0x7f010065;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int di_cancelable=0x7f010080;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int di_canceledOnTouchOutside=0x7f010081;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int di_checkBoxStyle=0x7f010104;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int di_cornerRadius=0x7f010068;
+        /** <p>Must be a floating point value, such as "<code>1.2</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int di_dimAmount=0x7f010064;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int di_dividerColor=0x7f01007c;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int di_dividerHeight=0x7f01007d;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int di_elevation=0x7f010066;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int di_inAnimation=0x7f01007e;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int di_itemHeight=0x7f010105;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int di_itemTextAppearance=0x7f010106;
+        /** <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
 <table>
 <colgroup align="left" />
 <colgroup align="left" />
 <colgroup align="left" />
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-<tr><td><code>src_over</code></td><td>3</td><td></td></tr>
-<tr><td><code>src_in</code></td><td>5</td><td></td></tr>
-<tr><td><code>src_atop</code></td><td>9</td><td></td></tr>
-<tr><td><code>multiply</code></td><td>14</td><td></td></tr>
-<tr><td><code>screen</code></td><td>15</td><td></td></tr>
+<tr><td><code>ltr</code></td><td>0</td><td></td></tr>
+<tr><td><code>rtl</code></td><td>1</td><td></td></tr>
+<tr><td><code>locale</code></td><td>3</td><td></td></tr>
 </table>
          */
-        public static final int backgroundTintMode=0x7f0100c8;
-        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+        public static final int di_layoutDirection=0x7f010069;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
          */
-        public static final int barSize=0x7f01002b;
+        public static final int di_maxElevation=0x7f010067;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int borderlessButtonStyle=0x7f010083;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+        public static final int di_messageTextAppearance=0x7f010101;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int buttonBarButtonStyle=0x7f010080;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int buttonBarNegativeButtonStyle=0x7f0100ac;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int buttonBarNeutralButtonStyle=0x7f0100ad;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int buttonBarPositiveButtonStyle=0x7f0100ab;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int buttonBarStyle=0x7f01007f;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int buttonPanelSideLayout=0x7f01001f;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int buttonStyle=0x7f0100af;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int buttonStyleSmall=0x7f0100b0;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int checkboxStyle=0x7f0100b1;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int checkedTextViewStyle=0x7f0100b2;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int closeIcon=0x7f01003b;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int closeItemLayout=0x7f01001c;
-        /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int collapseContentDescription=0x7f0100c1;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int collapseIcon=0x7f0100c0;
-        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
          */
-        public static final int color=0x7f010025;
-        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int colorAccent=0x7f0100a0;
-        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int colorButtonNormal=0x7f0100a4;
-        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int colorControlActivated=0x7f0100a2;
-        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int colorControlHighlight=0x7f0100a3;
-        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int colorControlNormal=0x7f0100a1;
-        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int colorPrimary=0x7f01009e;
-        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int colorPrimaryDark=0x7f01009f;
-        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int colorSwitchThumbNormal=0x7f0100a5;
+        public static final int di_messageTextColor=0x7f010102;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int commitIcon=0x7f010040;
-        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int contentInsetEnd=0x7f010017;
-        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int contentInsetLeft=0x7f010018;
-        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int contentInsetRight=0x7f010019;
-        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int contentInsetStart=0x7f010016;
+        public static final int di_negativeActionBackground=0x7f010074;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int customNavigationLayout=0x7f01000f;
-        /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int defaultQueryHint=0x7f01003a;
-        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int dialogPreferredPadding=0x7f010078;
+        public static final int di_negativeActionRipple=0x7f010075;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int dialogTheme=0x7f010077;
+        public static final int di_negativeActionTextAppearance=0x7f010076;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int di_negativeActionTextColor=0x7f010077;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int di_neutralActionBackground=0x7f010078;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int di_neutralActionRipple=0x7f010079;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int di_neutralActionTextAppearance=0x7f01007a;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int di_neutralActionTextColor=0x7f01007b;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int di_outAnimation=0x7f01007f;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int di_positiveActionBackground=0x7f010070;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int di_positiveActionRipple=0x7f010071;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int di_positiveActionTextAppearance=0x7f010072;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int di_positiveActionTextColor=0x7f010073;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int di_radioButtonStyle=0x7f010103;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int di_titleTextAppearance=0x7f01006a;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int di_titleTextColor=0x7f01006b;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -476,7 +819,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int disableChildrenWhenDisabled=0x7f010047;
+        public static final int disableChildrenWhenDisabled=0x7f01013a;
         /** <p>Must be one or more (separated by '|') of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -492,15 +835,15 @@ containing a value of this type.
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
          */
-        public static final int displayOptions=0x7f010005;
+        public static final int displayOptions=0x7f01001b;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int divider=0x7f01000b;
+        public static final int divider=0x7f010021;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int dividerHorizontal=0x7f010085;
+        public static final int dividerHorizontal=0x7f010193;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -510,53 +853,217 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int dividerPadding=0x7f01002f;
+        public static final int dividerPadding=0x7f0100c0;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int dividerVertical=0x7f010084;
-        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
+        public static final int dividerVertical=0x7f010192;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int dp_animDuration=0x7f010000;
+        /** <p>Must be an integer value, such as "<code>100</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int drawableSize=0x7f010027;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int drawerArrowStyle=0x7f010000;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int dropDownListViewStyle=0x7f010096;
-        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
+        public static final int dp_day=0x7f010001;
+        /** <p>Must be an integer value, such as "<code>100</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int dropdownListPreferredItemHeight=0x7f01007b;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+        public static final int dp_dayMax=0x7f010002;
+        /** <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
          */
-        public static final int editTextBackground=0x7f01008c;
+        public static final int dp_dayMin=0x7f010003;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int dp_dayTextSize=0x7f01005a;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+         */
+        public static final int dp_fontFamily=0x7f010004;
         /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
          */
-        public static final int editTextColor=0x7f01008b;
+        public static final int dp_headerPrimaryColor=0x7f01005e;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int dp_headerPrimaryHeight=0x7f01005d;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int dp_headerPrimaryTextSize=0x7f010061;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int dp_headerSecondaryColor=0x7f010060;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int dp_headerSecondaryHeight=0x7f01005f;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int dp_headerSecondaryTextSize=0x7f010062;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int editTextStyle=0x7f0100b3;
+        public static final int dp_inInterpolator=0x7f010005;
+        /** <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int dp_month=0x7f010006;
+        /** <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int dp_monthMax=0x7f010007;
+        /** <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int dp_monthMin=0x7f010008;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int dp_outInterpolator=0x7f010009;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int dp_selectionColor=0x7f01000a;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int dp_textColor=0x7f01000b;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int dp_textDisableColor=0x7f01005c;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int dp_textHeaderColor=0x7f010063;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int dp_textHighlightColor=0x7f01000c;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int dp_textLabelColor=0x7f01005b;
+        /** <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>normal</code></td><td>0</td><td></td></tr>
+<tr><td><code>bold</code></td><td>1</td><td></td></tr>
+<tr><td><code>italic</code></td><td>2</td><td></td></tr>
+<tr><td><code>bold_italic</code></td><td>3</td><td></td></tr>
+</table>
+         */
+        public static final int dp_textStyle=0x7f01000d;
+        /** <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int dp_year=0x7f01000e;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int dp_yearItemHeight=0x7f0101db;
+        /** <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int dp_yearMax=0x7f01000f;
+        /** <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int dp_yearMin=0x7f010010;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int dp_yearTextSize=0x7f0101da;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -566,11 +1073,15 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int elevation=0x7f01001a;
+        public static final int drawableSize=0x7f010084;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int expandActivityOverflowButtonDrawable=0x7f01001e;
+        public static final int drawerArrowStyle=0x7f010011;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int dropDownListViewStyle=0x7f0101a5;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -580,11 +1091,17 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int gapBetweenBars=0x7f010028;
+        public static final int dropdownListPreferredItemHeight=0x7f010189;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int goIcon=0x7f01003c;
+        public static final int editTextBackground=0x7f01019a;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int editTextColor=0x7f010199;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -594,7 +1111,36 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int height=0x7f010001;
+        public static final int elevation=0x7f010030;
+        /** <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>none</code></td><td>0</td><td></td></tr>
+<tr><td><code>single</code></td><td>1</td><td></td></tr>
+<tr><td><code>multi</code></td><td>2</td><td></td></tr>
+</table>
+         */
+        public static final int et_autoCompleteMode=0x7f0100a6;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int et_dividerAnimDuration=0x7f0100a4;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int et_dividerColor=0x7f0100a0;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -602,19 +1148,60 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int hideOnContentScroll=0x7f010015;
+        public static final int et_dividerCompoundPadding=0x7f0100a5;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int et_dividerErrorColor=0x7f0100a1;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int et_dividerHeight=0x7f0100a2;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int et_dividerPadding=0x7f0100a3;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+         */
+        public static final int et_error=0x7f010096;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+         */
+        public static final int et_helper=0x7f010095;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int homeAsUpIndicator=0x7f01007d;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+        public static final int et_inputId=0x7f01008a;
+        /** <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>start</code></td><td>0x00000001</td><td></td></tr>
+<tr><td><code>middle</code></td><td>0x00000002</td><td></td></tr>
+<tr><td><code>end</code></td><td>0x00000003</td><td></td></tr>
+<tr><td><code>marquee</code></td><td>0x00000004</td><td></td></tr>
+</table>
          */
-        public static final int homeLayout=0x7f010010;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int icon=0x7f010009;
+        public static final int et_labelEllipsize=0x7f010090;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -622,11 +1209,234 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int iconifiedByDefault=0x7f010038;
+        public static final int et_labelEnable=0x7f01008b;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int indeterminateProgressStyle=0x7f010012;
+        public static final int et_labelInAnim=0x7f010091;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int et_labelOutAnim=0x7f010092;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int et_labelPadding=0x7f01008c;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int et_labelTextAppearance=0x7f01008f;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int et_labelTextColor=0x7f01008e;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int et_labelTextSize=0x7f01008d;
+        /** <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>start</code></td><td>0x00000001</td><td></td></tr>
+<tr><td><code>middle</code></td><td>0x00000002</td><td></td></tr>
+<tr><td><code>end</code></td><td>0x00000003</td><td></td></tr>
+<tr><td><code>marquee</code></td><td>0x00000004</td><td></td></tr>
+</table>
+         */
+        public static final int et_supportEllipsize=0x7f01009f;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int et_supportLines=0x7f01009e;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int et_supportMaxChars=0x7f010094;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int et_supportMaxLines=0x7f01009d;
+        /** <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>none</code></td><td>0x00000000</td><td></td></tr>
+<tr><td><code>helper</code></td><td>0x00000001</td><td></td></tr>
+<tr><td><code>helperWithError</code></td><td>0x00000002</td><td></td></tr>
+<tr><td><code>charCounter</code></td><td>0x00000003</td><td></td></tr>
+</table>
+         */
+        public static final int et_supportMode=0x7f010093;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int et_supportPadding=0x7f010097;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int et_supportSingleLine=0x7f01009c;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int et_supportTextAppearance=0x7f01009b;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int et_supportTextColor=0x7f010099;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int et_supportTextErrorColor=0x7f01009a;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int et_supportTextSize=0x7f010098;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int expandActivityOverflowButtonDrawable=0x7f010034;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int fab_animDuration=0x7f0100ae;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int fab_backgroundColor=0x7f0100a7;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int fab_elevation=0x7f0100a9;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int fab_iconLineMorphing=0x7f0100ab;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int fab_iconSize=0x7f0100ac;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int fab_iconSrc=0x7f0100aa;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int fab_interpolator=0x7f0100ad;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int fab_radius=0x7f0100a8;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int gapBetweenBars=0x7f010085;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int goIcon=0x7f0100fa;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int height=0x7f010012;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int hideOnContentScroll=0x7f01002b;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int homeAsUpIndicator=0x7f01018c;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int homeLayout=0x7f010026;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int icon=0x7f01001f;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int iconifiedByDefault=0x7f0100f7;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int indeterminateProgressStyle=0x7f010028;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -634,7 +1444,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int initialActivityCount=0x7f01001d;
+        public static final int initialActivityCount=0x7f010033;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -642,7 +1452,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int isLightTheme=0x7f010002;
+        public static final int isLightTheme=0x7f010013;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -652,31 +1462,19 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int itemPadding=0x7f010014;
+        public static final int itemPadding=0x7f01002a;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int layout=0x7f010037;
+        public static final int layout=0x7f0100f6;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int listChoiceBackgroundIndicator=0x7f01009d;
+        public static final int listChoiceBackgroundIndicator=0x7f0101ac;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int listDividerAlertDialog=0x7f010079;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int listItemLayout=0x7f010023;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int listLayout=0x7f010020;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int listPopupWindowStyle=0x7f010097;
+        public static final int listPopupWindowStyle=0x7f0101a6;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -686,7 +1484,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int listPreferredItemHeight=0x7f010091;
+        public static final int listPreferredItemHeight=0x7f0101a0;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -696,7 +1494,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int listPreferredItemHeightLarge=0x7f010093;
+        public static final int listPreferredItemHeightLarge=0x7f0101a2;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -706,7 +1504,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int listPreferredItemHeightSmall=0x7f010092;
+        public static final int listPreferredItemHeightSmall=0x7f0101a1;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -716,7 +1514,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int listPreferredItemPaddingLeft=0x7f010094;
+        public static final int listPreferredItemPaddingLeft=0x7f0101a3;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -726,21 +1524,12 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int listPreferredItemPaddingRight=0x7f010095;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+        public static final int listPreferredItemPaddingRight=0x7f0101a4;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
          */
-        public static final int logo=0x7f01000a;
-        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int maxButtonHeight=0x7f0100bf;
+        public static final int lmd_animDuration=0x7f0100b6;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -748,7 +1537,227 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int measureWithLargestChild=0x7f01002d;
+        public static final int lmd_clockwise=0x7f0100bc;
+        /** <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int lmd_curState=0x7f0100b0;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int lmd_interpolator=0x7f0100b7;
+        /** <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>ltr</code></td><td>0x00000000</td><td></td></tr>
+<tr><td><code>rtl</code></td><td>0x00000001</td><td></td></tr>
+<tr><td><code>locale</code></td><td>0x00000003</td><td></td></tr>
+</table>
+         */
+        public static final int lmd_layoutDirection=0x7f0100bd;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int lmd_padding=0x7f0100b1;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int lmd_paddingBottom=0x7f0100b5;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int lmd_paddingLeft=0x7f0100b2;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int lmd_paddingRight=0x7f0100b4;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int lmd_paddingTop=0x7f0100b3;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int lmd_state=0x7f0100af;
+        /** <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>butt</code></td><td>0x00000000</td><td></td></tr>
+<tr><td><code>round</code></td><td>0x00000001</td><td></td></tr>
+<tr><td><code>square</code></td><td>0x00000002</td><td></td></tr>
+</table>
+         */
+        public static final int lmd_strokeCap=0x7f0100ba;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int lmd_strokeColor=0x7f0100b9;
+        /** <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>miter</code></td><td>0x00000000</td><td></td></tr>
+<tr><td><code>round</code></td><td>0x00000001</td><td></td></tr>
+<tr><td><code>bevel</code></td><td>0x00000002</td><td></td></tr>
+</table>
+         */
+        public static final int lmd_strokeJoin=0x7f0100bb;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int lmd_strokeSize=0x7f0100b8;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int logo=0x7f010020;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int lpd_inAnimDuration=0x7f0100cc;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int lpd_keepDuration=0x7f0100ca;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+some parent container.
+         */
+        public static final int lpd_maxLineWidth=0x7f0100c1;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+some parent container.
+         */
+        public static final int lpd_minLineWidth=0x7f0100c2;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int lpd_outAnimDuration=0x7f0100cd;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int lpd_reverse=0x7f0100c7;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int lpd_strokeColor=0x7f0100c4;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int lpd_strokeColors=0x7f0100c6;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int lpd_strokeSecondaryColor=0x7f0100c5;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int lpd_strokeSize=0x7f0100c3;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int lpd_transformDuration=0x7f0100c9;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int lpd_transformInterpolator=0x7f0100cb;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int lpd_travelDuration=0x7f0100c8;
+        /** <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>top</code></td><td>0x00000000</td><td></td></tr>
+<tr><td><code>center</code></td><td>0x00000001</td><td></td></tr>
+<tr><td><code>bottom</code></td><td>0x00000002</td><td></td></tr>
+</table>
+         */
+        public static final int lpd_verticalAlign=0x7f0100ce;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -758,11 +1767,25 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int middleBarArrowSize=0x7f01002a;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+        public static final int maxButtonHeight=0x7f0101d2;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
          */
-        public static final int multiChoiceItemLayout=0x7f010021;
+        public static final int measureWithLargestChild=0x7f0100be;
+        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int middleBarArrowSize=0x7f010087;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -770,11 +1793,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int navigationContentDescription=0x7f0100c3;
+        public static final int navigationContentDescription=0x7f0101d7;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int navigationIcon=0x7f0100c2;
+        public static final int navigationIcon=0x7f0101d6;
         /** <p>Must be one of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -786,7 +1809,15 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
          */
-        public static final int navigationMode=0x7f010004;
+        public static final int navigationMode=0x7f01001a;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int nd_icon=0x7f0100d5;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int nd_ripple=0x7f0100d4;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -794,7 +1825,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int overlapAnchor=0x7f010035;
+        public static final int overlapAnchor=0x7f0100d6;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -804,7 +1835,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int paddingEnd=0x7f0100c5;
+        public static final int paddingEnd=0x7f0101d9;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -814,15 +1845,15 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int paddingStart=0x7f0100c4;
+        public static final int paddingStart=0x7f0101d8;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int panelBackground=0x7f01009a;
+        public static final int panelBackground=0x7f0101a9;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int panelMenuListTheme=0x7f01009c;
+        public static final int panelMenuListTheme=0x7f0101ab;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -832,23 +1863,23 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int panelMenuListWidth=0x7f01009b;
+        public static final int panelMenuListWidth=0x7f0101aa;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int popupMenuStyle=0x7f010089;
+        public static final int popupMenuStyle=0x7f010197;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int popupPromptView=0x7f010046;
+        public static final int popupPromptView=0x7f010139;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int popupTheme=0x7f01001b;
+        public static final int popupTheme=0x7f010031;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int popupWindowStyle=0x7f01008a;
+        public static final int popupWindowStyle=0x7f010198;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -856,7 +1887,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int preserveIconSpacing=0x7f010034;
+        public static final int preserveIconSpacing=0x7f0100d3;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -866,19 +1897,74 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int progressBarPadding=0x7f010013;
+        public static final int progressBarPadding=0x7f010029;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int progressBarStyle=0x7f010011;
+        public static final int progressBarStyle=0x7f010027;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int prompt=0x7f010044;
+        public static final int prompt=0x7f010137;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int pv_autostart=0x7f0100d8;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int pv_circular=0x7f0100d9;
+        /** <p>Must be a floating point value, such as "<code>1.2</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int pv_progress=0x7f010014;
+        /** <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>determinate</code></td><td>0x00000000</td><td></td></tr>
+<tr><td><code>indeterminate</code></td><td>0x00000001</td><td></td></tr>
+<tr><td><code>buffer</code></td><td>0x00000002</td><td></td></tr>
+<tr><td><code>query</code></td><td>0x00000003</td><td></td></tr>
+</table>
+         */
+        public static final int pv_progressMode=0x7f010015;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int queryBackground=0x7f010042;
+        public static final int pv_progressStyle=0x7f0100da;
+        /** <p>Must be a floating point value, such as "<code>1.2</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int pv_secondaryProgress=0x7f010016;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int queryBackground=0x7f0100ff;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -886,35 +1972,458 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int queryHint=0x7f010039;
+        public static final int queryHint=0x7f0100f8;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int rbd_animDuration=0x7f0100e1;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int rbd_height=0x7f0100dc;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int rbd_innerRadius=0x7f0100df;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int rbd_radius=0x7f0100de;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int rbd_strokeColor=0x7f0100e0;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int rbd_strokeSize=0x7f0100dd;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int rbd_width=0x7f0100db;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int rd_backgroundAnimDuration=0x7f0100e3;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int rd_backgroundColor=0x7f0100e2;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int rd_bottomLeftCornerRadius=0x7f0100ee;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int rd_bottomPadding=0x7f0100f4;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int rd_bottomRightCornerRadius=0x7f0100ef;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int rd_cornerRadius=0x7f0100eb;
+        /** <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>none</code></td><td>0x00000000</td><td></td></tr>
+<tr><td><code>untilRelease</code></td><td>0x00000001</td><td></td></tr>
+<tr><td><code>afterRelease</code></td><td>0x00000002</td><td></td></tr>
+</table>
+         */
+        public static final int rd_delayClick=0x7f0100f5;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int rd_enable=0x7f010017;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int radioButtonStyle=0x7f0100b4;
+        public static final int rd_inInterpolator=0x7f0100e7;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int rd_leftPadding=0x7f0100f1;
+        /** <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>rectangle</code></td><td>0x00000000</td><td></td></tr>
+<tr><td><code>oval</code></td><td>0x00000001</td><td></td></tr>
+</table>
+         */
+        public static final int rd_maskType=0x7f0100e9;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>match_view</code></td><td>0x00000000</td><td></td></tr>
+</table>
+         */
+        public static final int rd_maxRippleRadius=0x7f0100e4;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int ratingBarStyle=0x7f0100b5;
+        public static final int rd_outInterpolator=0x7f0100e8;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int rd_padding=0x7f0100f0;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int rd_rightPadding=0x7f0100f3;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int rd_rippleAnimDuration=0x7f0100e6;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int rd_rippleColor=0x7f0100e5;
+        /** <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>touch</code></td><td>0x00000000</td><td></td></tr>
+<tr><td><code>wave</code></td><td>0x00000001</td><td></td></tr>
+</table>
+         */
+        public static final int rd_rippleType=0x7f0100ea;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int searchHintIcon=0x7f01003e;
+        public static final int rd_style=0x7f010018;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int rd_topLeftCornerRadius=0x7f0100ec;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int rd_topPadding=0x7f0100f2;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int rd_topRightCornerRadius=0x7f0100ed;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int searchIcon=0x7f01003d;
+        public static final int sb_actionRipple=0x7f010132;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+         */
+        public static final int sb_actionText=0x7f010131;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int searchViewStyle=0x7f010090;
+        public static final int sb_actionTextAppearance=0x7f010130;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int sb_actionTextColor=0x7f01012f;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int sb_actionTextSize=0x7f01012e;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int sb_backgroundColor=0x7f01011a;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int sb_backgroundCornerRadius=0x7f01011b;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int sb_duration=0x7f010133;
+        /** <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>start</code></td><td>0x00000001</td><td></td></tr>
+<tr><td><code>middle</code></td><td>0x00000002</td><td></td></tr>
+<tr><td><code>end</code></td><td>0x00000003</td><td></td></tr>
+<tr><td><code>marquee</code></td><td>0x00000004</td><td></td></tr>
+</table>
+         */
+        public static final int sb_ellipsize=0x7f01012d;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>match_parent</code></td><td>-1</td><td></td></tr>
+<tr><td><code>wrap_content</code></td><td>-2</td><td></td></tr>
+</table>
+         */
+        public static final int sb_height=0x7f010121;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int sb_horizontalPadding=0x7f01011c;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int selectableItemBackground=0x7f010081;
+        public static final int sb_inAnimation=0x7f010134;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int sb_lines=0x7f01012c;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int sb_marginBottom=0x7f010125;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int sb_marginStart=0x7f010124;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int sb_maxHeight=0x7f010123;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int sb_maxLines=0x7f01012b;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int sb_maxWidth=0x7f010120;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int sb_minHeight=0x7f010122;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int sb_minWidth=0x7f01011f;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int selectableItemBackgroundBorderless=0x7f010082;
+        public static final int sb_outAnimation=0x7f010135;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int sb_removeOnDismiss=0x7f010136;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int sb_singleLine=0x7f01012a;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+         */
+        public static final int sb_text=0x7f010129;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int sb_textAppearance=0x7f010128;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int sb_textColor=0x7f010127;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int sb_textSize=0x7f010126;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int sb_verticalPadding=0x7f01011d;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>match_parent</code></td><td>-1</td><td></td></tr>
+<tr><td><code>wrap_content</code></td><td>-2</td><td></td></tr>
+</table>
+         */
+        public static final int sb_width=0x7f01011e;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int searchIcon=0x7f0100fb;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int searchViewStyle=0x7f01019f;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int selectableItemBackground=0x7f010190;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int selectableItemBackgroundBorderless=0x7f010191;
         /** <p>Must be one or more (separated by '|') of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -928,7 +2437,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
          */
-        public static final int showAsAction=0x7f010030;
+        public static final int showAsAction=0x7f0100cf;
         /** <p>Must be one or more (separated by '|') of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -941,7 +2450,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
          */
-        public static final int showDividers=0x7f01002e;
+        public static final int showDividers=0x7f0100bf;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -949,11 +2458,141 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int showText=0x7f01004e;
+        public static final int showText=0x7f01015d;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
+         */
+        public static final int sl_discreteMode=0x7f010115;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+         */
+        public static final int sl_fontFamily=0x7f010116;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int singleChoiceItemLayout=0x7f010022;
+        public static final int sl_interpolator=0x7f010110;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int sl_maxValue=0x7f010112;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int sl_minValue=0x7f010111;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int sl_primaryColor=0x7f010108;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int sl_secondaryColor=0x7f010109;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int sl_stepValue=0x7f010113;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int sl_textColor=0x7f010119;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int sl_textSize=0x7f010118;
+        /** <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>normal</code></td><td>0</td><td></td></tr>
+<tr><td><code>bold</code></td><td>1</td><td></td></tr>
+<tr><td><code>italic</code></td><td>2</td><td></td></tr>
+<tr><td><code>bold_italic</code></td><td>3</td><td></td></tr>
+</table>
+         */
+        public static final int sl_textStyle=0x7f010117;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int sl_thumbBorderSize=0x7f01010b;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int sl_thumbFocusRadius=0x7f01010d;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int sl_thumbRadius=0x7f01010c;
+        /** <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>butt</code></td><td>0x00000000</td><td></td></tr>
+<tr><td><code>round</code></td><td>0x00000001</td><td></td></tr>
+<tr><td><code>square</code></td><td>0x00000002</td><td></td></tr>
+</table>
+         */
+        public static final int sl_trackCap=0x7f01010a;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int sl_trackSize=0x7f010107;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int sl_transformAnimDuration=0x7f01010f;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int sl_travelAnimDuration=0x7f01010e;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int sl_value=0x7f010114;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -961,11 +2600,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int spinBars=0x7f010026;
+        public static final int spinBars=0x7f010083;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int spinnerDropDownItemStyle=0x7f01007c;
+        public static final int spinnerDropDownItemStyle=0x7f01018b;
         /** <p>Must be one of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -976,11 +2615,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>dropdown</code></td><td>1</td><td></td></tr>
 </table>
          */
-        public static final int spinnerMode=0x7f010045;
+        public static final int spinnerMode=0x7f010138;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int spinnerStyle=0x7f0100b6;
+        public static final int spinnerStyle=0x7f01018a;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -988,7 +2627,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int splitTrack=0x7f01004d;
+        public static final int splitTrack=0x7f01015c;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -996,11 +2635,152 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int state_above_anchor=0x7f010036;
+        public static final int spn_arrowAnimClockwise=0x7f010149;
+        /** <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int spn_arrowAnimDuration=0x7f010147;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int spn_arrowColor=0x7f010144;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int submitBackground=0x7f010043;
+        public static final int spn_arrowInterpolator=0x7f010148;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int spn_arrowPadding=0x7f010146;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int spn_arrowSize=0x7f010145;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int spn_arrowSwitchMode=0x7f01014a;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int spn_dividerAnimDuration=0x7f01014e;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int spn_dividerColor=0x7f01014b;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int spn_dividerHeight=0x7f01014c;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int spn_dividerPadding=0x7f01014d;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+         */
+        public static final int spn_label=0x7f010141;
+        /** <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>start</code></td><td>0x00000001</td><td></td></tr>
+<tr><td><code>middle</code></td><td>0x00000002</td><td></td></tr>
+<tr><td><code>end</code></td><td>0x00000003</td><td></td></tr>
+<tr><td><code>marquee</code></td><td>0x00000004</td><td></td></tr>
+</table>
+         */
+        public static final int spn_labelEllipsize=0x7f010140;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int spn_labelEnable=0x7f01013b;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int spn_labelPadding=0x7f01013c;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int spn_labelTextAppearance=0x7f01013f;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int spn_labelTextColor=0x7f01013e;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int spn_labelTextSize=0x7f01013d;
+        /** <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int spn_popupItemAnimOffset=0x7f010143;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int spn_popupItemAnimation=0x7f010142;
+        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int state_above_anchor=0x7f0100d7;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int submitBackground=0x7f010100;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1008,19 +2788,79 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int subtitle=0x7f010006;
+        public static final int subtitle=0x7f01001c;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int subtitleTextAppearance=0x7f0100b9;
+        public static final int subtitleTextAppearance=0x7f0101cc;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int subtitleTextStyle=0x7f010008;
+        public static final int subtitleTextStyle=0x7f01001e;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int suggestionRowLayout=0x7f010041;
+        public static final int suggestionRowLayout=0x7f0100fe;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int sw_animDuration=0x7f010155;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int sw_interpolator=0x7f010156;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int sw_thumbColor=0x7f010152;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int sw_thumbElevation=0x7f010154;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int sw_thumbRadius=0x7f010153;
+        /** <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>butt</code></td><td>0x00000000</td><td></td></tr>
+<tr><td><code>round</code></td><td>0x00000001</td><td></td></tr>
+<tr><td><code>square</code></td><td>0x00000002</td><td></td></tr>
+</table>
+         */
+        public static final int sw_trackCap=0x7f010151;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int sw_trackColor=0x7f010150;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int sw_trackSize=0x7f01014f;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1030,7 +2870,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int switchMinWidth=0x7f01004b;
+        public static final int switchMinWidth=0x7f01015a;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1040,60 +2880,54 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int switchPadding=0x7f01004c;
+        public static final int switchPadding=0x7f01015b;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int switchStyle=0x7f0100b7;
+        public static final int switchStyle=0x7f01019b;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int switchTextAppearance=0x7f01004a;
+        public static final int switchTextAppearance=0x7f010159;
         /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
          */
-        public static final int textAllCaps=0x7f010024;
+        public static final int textAllCaps=0x7f010059;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int textAppearanceLargePopupMenu=0x7f010075;
+        public static final int textAppearanceLargePopupMenu=0x7f010186;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int textAppearanceListItem=0x7f010098;
+        public static final int textAppearanceListItem=0x7f0101a7;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int textAppearanceListItemSmall=0x7f010099;
+        public static final int textAppearanceListItemSmall=0x7f0101a8;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int textAppearanceSearchResultSubtitle=0x7f01008e;
+        public static final int textAppearanceSearchResultSubtitle=0x7f01019d;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int textAppearanceSearchResultTitle=0x7f01008d;
+        public static final int textAppearanceSearchResultTitle=0x7f01019c;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int textAppearanceSmallPopupMenu=0x7f010076;
+        public static final int textAppearanceSmallPopupMenu=0x7f010187;
         /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
          */
-        public static final int textColorAlertDialogListItem=0x7f0100aa;
-        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-         */
-        public static final int textColorSearchUrl=0x7f01008f;
+        public static final int textColorSearchUrl=0x7f01019e;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int theme=0x7f0100c6;
+        public static final int theme=0x7f0101d3;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1103,7 +2937,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int thickness=0x7f01002c;
+        public static final int thickness=0x7f010089;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1113,7 +2947,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int thumbTextPadding=0x7f010049;
+        public static final int thumbTextPadding=0x7f010158;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1121,7 +2955,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int title=0x7f010003;
+        public static final int title=0x7f010019;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1131,7 +2965,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int titleMarginBottom=0x7f0100be;
+        public static final int titleMarginBottom=0x7f0101d1;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1141,7 +2975,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int titleMarginEnd=0x7f0100bc;
+        public static final int titleMarginEnd=0x7f0101cf;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1151,7 +2985,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int titleMarginStart=0x7f0100bb;
+        public static final int titleMarginStart=0x7f0101ce;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1161,7 +2995,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int titleMarginTop=0x7f0100bd;
+        public static final int titleMarginTop=0x7f0101d0;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1171,23 +3005,23 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int titleMargins=0x7f0100ba;
+        public static final int titleMargins=0x7f0101cd;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int titleTextAppearance=0x7f0100b8;
+        public static final int titleTextAppearance=0x7f0101cb;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int titleTextStyle=0x7f010007;
+        public static final int titleTextStyle=0x7f01001d;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int toolbarNavigationButtonStyle=0x7f010088;
+        public static final int toolbarNavigationButtonStyle=0x7f010196;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int toolbarStyle=0x7f010087;
+        public static final int toolbarStyle=0x7f010195;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1197,15 +3031,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int topBottomBarArrowSize=0x7f010029;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int track=0x7f010048;
-        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-         */
-        public static final int voiceIcon=0x7f01003f;
+        public static final int topBottomBarArrowSize=0x7f010086;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1213,7 +3039,206 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int windowActionBar=0x7f01004f;
+        public static final int tp_24Hour=0x7f0101c2;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+         */
+        public static final int tp_am=0x7f0101c8;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+         */
+        public static final int tp_animDuration=0x7f0101be;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int tp_backgroundColor=0x7f0101b5;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+         */
+        public static final int tp_fontFamily=0x7f0101b9;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int tp_headerHeight=0x7f0101c5;
+        /** <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int tp_hour=0x7f0101c3;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int tp_inInterpolator=0x7f0101bf;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
+         */
+        public static final int tp_leadingZero=0x7f0101ca;
+        /** <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int tp_minute=0x7f0101c4;
+        /** <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>hour</code></td><td>0</td><td></td></tr>
+<tr><td><code>minute</code></td><td>1</td><td></td></tr>
+</table>
+         */
+        public static final int tp_mode=0x7f0101c1;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int tp_outInterpolator=0x7f0101c0;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+         */
+        public static final int tp_pm=0x7f0101c9;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int tp_selectionColor=0x7f0101b6;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int tp_selectionRadius=0x7f0101b7;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int tp_textColor=0x7f0101bc;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int tp_textHighlightColor=0x7f0101bd;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int tp_textSize=0x7f0101bb;
+        /** <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>normal</code></td><td>0</td><td></td></tr>
+<tr><td><code>bold</code></td><td>1</td><td></td></tr>
+<tr><td><code>italic</code></td><td>2</td><td></td></tr>
+<tr><td><code>bold_italic</code></td><td>3</td><td></td></tr>
+</table>
+         */
+        public static final int tp_textStyle=0x7f0101ba;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int tp_textTimeColor=0x7f0101c6;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int tp_textTimeSize=0x7f0101c7;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int tp_tickSize=0x7f0101b8;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         */
+        public static final int tpi_indicatorColor=0x7f010160;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int tpi_indicatorHeight=0x7f010161;
+        /** <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>scroll</code></td><td>0x00000000</td><td></td></tr>
+<tr><td><code>fixed</code></td><td>0x00000001</td><td></td></tr>
+</table>
+         */
+        public static final int tpi_mode=0x7f010162;
+        /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+         */
+        public static final int tpi_tabPadding=0x7f01015e;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int tpi_tabRipple=0x7f01015f;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int track=0x7f010157;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int voiceIcon=0x7f0100fc;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1221,7 +3246,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int windowActionBarOverlay=0x7f010051;
+        public static final int windowActionBar=0x7f010163;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1229,85 +3254,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int windowActionModeOverlay=0x7f010052;
-        /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int windowFixedHeightMajor=0x7f010056;
-        /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int windowFixedHeightMinor=0x7f010054;
-        /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int windowFixedWidthMajor=0x7f010053;
-        /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int windowFixedWidthMinor=0x7f010055;
-        /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int windowMinWidthMajor=0x7f010057;
-        /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int windowMinWidthMinor=0x7f010058;
+        public static final int windowActionBarOverlay=0x7f010164;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1315,317 +3262,343 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int windowNoTitle=0x7f010050;
+        public static final int windowActionModeOverlay=0x7f010165;
+        /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+some parent container.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int windowFixedHeightMajor=0x7f010169;
+        /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+some parent container.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int windowFixedHeightMinor=0x7f010167;
+        /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+some parent container.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int windowFixedWidthMajor=0x7f010166;
+        /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+some parent container.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int windowFixedWidthMinor=0x7f010168;
     }
     public static final class bool {
-        public static final int abc_action_bar_embed_tabs=0x7f090002;
-        public static final int abc_action_bar_embed_tabs_pre_jb=0x7f090000;
-        public static final int abc_action_bar_expanded_action_views_exclusive=0x7f090003;
-        public static final int abc_config_actionMenuItemAllCaps=0x7f090004;
-        public static final int abc_config_allowActionMenuItemTextWithIcon=0x7f090001;
-        public static final int abc_config_closeDialogWhenTouchOutside=0x7f090005;
-        public static final int abc_config_showMenuShortcutsWhenKeyboardPresent=0x7f090006;
+        public static final int abc_action_bar_embed_tabs=0x7f080002;
+        public static final int abc_action_bar_embed_tabs_pre_jb=0x7f080000;
+        public static final int abc_action_bar_expanded_action_views_exclusive=0x7f080003;
+        public static final int abc_config_actionMenuItemAllCaps=0x7f080004;
+        public static final int abc_config_allowActionMenuItemTextWithIcon=0x7f080001;
+        public static final int abc_config_showMenuShortcutsWhenKeyboardPresent=0x7f080005;
     }
     public static final class color {
-        public static final int abc_background_cache_hint_selector_material_dark=0x7f0b0033;
-        public static final int abc_background_cache_hint_selector_material_light=0x7f0b0034;
-        public static final int abc_input_method_navigation_guard=0x7f0b0000;
-        public static final int abc_primary_text_disable_only_material_dark=0x7f0b0035;
-        public static final int abc_primary_text_disable_only_material_light=0x7f0b0036;
-        public static final int abc_primary_text_material_dark=0x7f0b0037;
-        public static final int abc_primary_text_material_light=0x7f0b0038;
-        public static final int abc_search_url_text=0x7f0b0039;
-        public static final int abc_search_url_text_normal=0x7f0b0001;
-        public static final int abc_search_url_text_pressed=0x7f0b0002;
-        public static final int abc_search_url_text_selected=0x7f0b0003;
-        public static final int abc_secondary_text_material_dark=0x7f0b003a;
-        public static final int abc_secondary_text_material_light=0x7f0b003b;
-        public static final int accent_material_dark=0x7f0b0004;
-        public static final int accent_material_light=0x7f0b0005;
-        public static final int background_floating_material_dark=0x7f0b0006;
-        public static final int background_floating_material_light=0x7f0b0007;
-        public static final int background_material_dark=0x7f0b0008;
-        public static final int background_material_light=0x7f0b0009;
-        public static final int bright_foreground_disabled_material_dark=0x7f0b000a;
-        public static final int bright_foreground_disabled_material_light=0x7f0b000b;
-        public static final int bright_foreground_inverse_material_dark=0x7f0b000c;
-        public static final int bright_foreground_inverse_material_light=0x7f0b000d;
-        public static final int bright_foreground_material_dark=0x7f0b000e;
-        public static final int bright_foreground_material_light=0x7f0b000f;
-        public static final int button_material_dark=0x7f0b0010;
-        public static final int button_material_light=0x7f0b0011;
-        public static final int dim_foreground_disabled_material_dark=0x7f0b0012;
-        public static final int dim_foreground_disabled_material_light=0x7f0b0013;
-        public static final int dim_foreground_material_dark=0x7f0b0014;
-        public static final int dim_foreground_material_light=0x7f0b0015;
-        public static final int highlighted_text_material_dark=0x7f0b0016;
-        public static final int highlighted_text_material_light=0x7f0b0017;
-        public static final int hint_foreground_material_dark=0x7f0b0018;
-        public static final int hint_foreground_material_light=0x7f0b0019;
-        public static final int link_text_material_dark=0x7f0b001a;
-        public static final int link_text_material_light=0x7f0b001b;
-        public static final int material_blue_grey_800=0x7f0b001c;
-        public static final int material_blue_grey_900=0x7f0b001d;
-        public static final int material_blue_grey_950=0x7f0b001e;
-        public static final int material_deep_teal_200=0x7f0b001f;
-        public static final int material_deep_teal_500=0x7f0b0020;
-        public static final int primary_dark_material_dark=0x7f0b0021;
-        public static final int primary_dark_material_light=0x7f0b0022;
-        public static final int primary_material_dark=0x7f0b0023;
-        public static final int primary_material_light=0x7f0b0024;
-        public static final int primary_text_default_material_dark=0x7f0b0025;
-        public static final int primary_text_default_material_light=0x7f0b0026;
-        public static final int primary_text_disabled_material_dark=0x7f0b0027;
-        public static final int primary_text_disabled_material_light=0x7f0b0028;
-        public static final int ripple_material_dark=0x7f0b0029;
-        public static final int ripple_material_light=0x7f0b002a;
-        public static final int secondary_text_default_material_dark=0x7f0b002b;
-        public static final int secondary_text_default_material_light=0x7f0b002c;
-        public static final int secondary_text_disabled_material_dark=0x7f0b002d;
-        public static final int secondary_text_disabled_material_light=0x7f0b002e;
-        public static final int switch_thumb_disabled_material_dark=0x7f0b002f;
-        public static final int switch_thumb_disabled_material_light=0x7f0b0030;
-        public static final int switch_thumb_material_dark=0x7f0b003c;
-        public static final int switch_thumb_material_light=0x7f0b003d;
-        public static final int switch_thumb_normal_material_dark=0x7f0b0031;
-        public static final int switch_thumb_normal_material_light=0x7f0b0032;
+        public static final int abc_background_cache_hint_selector_material_dark=0x7f0c0035;
+        public static final int abc_background_cache_hint_selector_material_light=0x7f0c0036;
+        public static final int abc_input_method_navigation_guard=0x7f0c0000;
+        public static final int abc_primary_text_disable_only_material_dark=0x7f0c0037;
+        public static final int abc_primary_text_disable_only_material_light=0x7f0c0038;
+        public static final int abc_primary_text_material_dark=0x7f0c0039;
+        public static final int abc_primary_text_material_light=0x7f0c003a;
+        public static final int abc_search_url_text=0x7f0c003b;
+        public static final int abc_search_url_text_normal=0x7f0c0001;
+        public static final int abc_search_url_text_pressed=0x7f0c0002;
+        public static final int abc_search_url_text_selected=0x7f0c0003;
+        public static final int abc_secondary_text_material_dark=0x7f0c003c;
+        public static final int abc_secondary_text_material_light=0x7f0c003d;
+        public static final int accent_material_dark=0x7f0c0004;
+        public static final int accent_material_light=0x7f0c0005;
+        public static final int background_floating_material_dark=0x7f0c0006;
+        public static final int background_floating_material_light=0x7f0c0007;
+        public static final int background_material_dark=0x7f0c0008;
+        public static final int background_material_light=0x7f0c0009;
+        public static final int bright_foreground_disabled_material_dark=0x7f0c000a;
+        public static final int bright_foreground_disabled_material_light=0x7f0c000b;
+        public static final int bright_foreground_inverse_material_dark=0x7f0c000c;
+        public static final int bright_foreground_inverse_material_light=0x7f0c000d;
+        public static final int bright_foreground_material_dark=0x7f0c000e;
+        public static final int bright_foreground_material_light=0x7f0c000f;
+        public static final int button_material_dark=0x7f0c0010;
+        public static final int button_material_light=0x7f0c0011;
+        public static final int cardview_dark_background=0x7f0c0012;
+        public static final int cardview_light_background=0x7f0c0013;
+        public static final int cardview_shadow_end_color=0x7f0c0014;
+        public static final int cardview_shadow_start_color=0x7f0c0015;
+        public static final int dim_foreground_disabled_material_dark=0x7f0c0016;
+        public static final int dim_foreground_disabled_material_light=0x7f0c0017;
+        public static final int dim_foreground_material_dark=0x7f0c0018;
+        public static final int dim_foreground_material_light=0x7f0c0019;
+        public static final int highlighted_text_material_dark=0x7f0c001a;
+        public static final int highlighted_text_material_light=0x7f0c001b;
+        public static final int hint_foreground_material_dark=0x7f0c001c;
+        public static final int hint_foreground_material_light=0x7f0c001d;
+        public static final int link_text_material_dark=0x7f0c001e;
+        public static final int link_text_material_light=0x7f0c001f;
+        public static final int material_blue_grey_800=0x7f0c0020;
+        public static final int material_blue_grey_900=0x7f0c0021;
+        public static final int material_blue_grey_950=0x7f0c0022;
+        public static final int material_deep_teal_200=0x7f0c0023;
+        public static final int material_deep_teal_500=0x7f0c0024;
+        public static final int primary_dark_material_dark=0x7f0c0025;
+        public static final int primary_dark_material_light=0x7f0c0026;
+        public static final int primary_material_dark=0x7f0c0027;
+        public static final int primary_material_light=0x7f0c0028;
+        public static final int primary_text_default_material_dark=0x7f0c0029;
+        public static final int primary_text_default_material_light=0x7f0c002a;
+        public static final int primary_text_disabled_material_dark=0x7f0c002b;
+        public static final int primary_text_disabled_material_light=0x7f0c002c;
+        public static final int ripple_material_dark=0x7f0c002d;
+        public static final int ripple_material_light=0x7f0c002e;
+        public static final int secondary_text_default_material_dark=0x7f0c002f;
+        public static final int secondary_text_default_material_light=0x7f0c0030;
+        public static final int secondary_text_disabled_material_dark=0x7f0c0031;
+        public static final int secondary_text_disabled_material_light=0x7f0c0032;
+        public static final int switch_thumb_normal_material_dark=0x7f0c0033;
+        public static final int switch_thumb_normal_material_light=0x7f0c0034;
     }
     public static final class dimen {
-        public static final int abc_action_bar_content_inset_material=0x7f07000c;
-        public static final int abc_action_bar_default_height_material=0x7f070001;
-        public static final int abc_action_bar_default_padding_material=0x7f070002;
-        public static final int abc_action_bar_icon_vertical_padding_material=0x7f070011;
-        public static final int abc_action_bar_navigation_padding_start_material=0x7f07000d;
-        public static final int abc_action_bar_overflow_padding_end_material=0x7f07000e;
-        public static final int abc_action_bar_overflow_padding_start_material=0x7f070012;
-        public static final int abc_action_bar_progress_bar_size=0x7f070003;
-        public static final int abc_action_bar_stacked_max_height=0x7f070013;
-        public static final int abc_action_bar_stacked_tab_max_width=0x7f070014;
-        public static final int abc_action_bar_subtitle_bottom_margin_material=0x7f070015;
-        public static final int abc_action_bar_subtitle_top_margin_material=0x7f070016;
-        public static final int abc_action_button_min_height_material=0x7f070017;
-        public static final int abc_action_button_min_width_material=0x7f070018;
-        public static final int abc_action_button_min_width_overflow_material=0x7f070019;
-        public static final int abc_alert_dialog_button_bar_height=0x7f070000;
-        public static final int abc_button_inset_horizontal_material=0x7f07001a;
-        public static final int abc_button_inset_vertical_material=0x7f07001b;
-        public static final int abc_button_padding_horizontal_material=0x7f07001c;
-        public static final int abc_button_padding_vertical_material=0x7f07001d;
-        public static final int abc_config_prefDialogWidth=0x7f070006;
-        public static final int abc_control_corner_material=0x7f07001e;
-        public static final int abc_control_inset_material=0x7f07001f;
-        public static final int abc_control_padding_material=0x7f070020;
-        public static final int abc_dialog_list_padding_vertical_material=0x7f070021;
-        public static final int abc_dialog_min_width_major=0x7f070022;
-        public static final int abc_dialog_min_width_minor=0x7f070023;
-        public static final int abc_dialog_padding_material=0x7f070024;
-        public static final int abc_dialog_padding_top_material=0x7f070025;
-        public static final int abc_disabled_alpha_material_dark=0x7f070026;
-        public static final int abc_disabled_alpha_material_light=0x7f070027;
-        public static final int abc_dropdownitem_icon_width=0x7f070028;
-        public static final int abc_dropdownitem_text_padding_left=0x7f070029;
-        public static final int abc_dropdownitem_text_padding_right=0x7f07002a;
-        public static final int abc_edit_text_inset_bottom_material=0x7f07002b;
-        public static final int abc_edit_text_inset_horizontal_material=0x7f07002c;
-        public static final int abc_edit_text_inset_top_material=0x7f07002d;
-        public static final int abc_floating_window_z=0x7f07002e;
-        public static final int abc_list_item_padding_horizontal_material=0x7f07002f;
-        public static final int abc_panel_menu_list_width=0x7f070030;
-        public static final int abc_search_view_preferred_width=0x7f070031;
-        public static final int abc_search_view_text_min_width=0x7f070007;
-        public static final int abc_switch_padding=0x7f07000f;
-        public static final int abc_text_size_body_1_material=0x7f070032;
-        public static final int abc_text_size_body_2_material=0x7f070033;
-        public static final int abc_text_size_button_material=0x7f070034;
-        public static final int abc_text_size_caption_material=0x7f070035;
-        public static final int abc_text_size_display_1_material=0x7f070036;
-        public static final int abc_text_size_display_2_material=0x7f070037;
-        public static final int abc_text_size_display_3_material=0x7f070038;
-        public static final int abc_text_size_display_4_material=0x7f070039;
-        public static final int abc_text_size_headline_material=0x7f07003a;
-        public static final int abc_text_size_large_material=0x7f07003b;
-        public static final int abc_text_size_medium_material=0x7f07003c;
-        public static final int abc_text_size_menu_material=0x7f07003d;
-        public static final int abc_text_size_small_material=0x7f07003e;
-        public static final int abc_text_size_subhead_material=0x7f07003f;
-        public static final int abc_text_size_subtitle_material_toolbar=0x7f070004;
-        public static final int abc_text_size_title_material=0x7f070040;
-        public static final int abc_text_size_title_material_toolbar=0x7f070005;
-        public static final int activity_horizontal_margin=0x7f070010;
-        public static final int activity_vertical_margin=0x7f070041;
-        public static final int dialog_fixed_height_major=0x7f070008;
-        public static final int dialog_fixed_height_minor=0x7f070009;
-        public static final int dialog_fixed_width_major=0x7f07000a;
-        public static final int dialog_fixed_width_minor=0x7f07000b;
-        public static final int disabled_alpha_material_dark=0x7f070042;
-        public static final int disabled_alpha_material_light=0x7f070043;
-        public static final int notification_large_icon_height=0x7f070044;
-        public static final int notification_large_icon_width=0x7f070045;
-        public static final int notification_subtext_size=0x7f070046;
+        public static final int abc_action_bar_default_height_material=0x7f090000;
+        public static final int abc_action_bar_default_padding_material=0x7f090001;
+        public static final int abc_action_bar_icon_vertical_padding_material=0x7f09000c;
+        public static final int abc_action_bar_progress_bar_size=0x7f090002;
+        public static final int abc_action_bar_stacked_max_height=0x7f09000d;
+        public static final int abc_action_bar_stacked_tab_max_width=0x7f09000e;
+        public static final int abc_action_bar_subtitle_bottom_margin_material=0x7f09000f;
+        public static final int abc_action_bar_subtitle_top_margin_material=0x7f090010;
+        public static final int abc_action_button_min_height_material=0x7f090011;
+        public static final int abc_action_button_min_width_material=0x7f090012;
+        public static final int abc_action_button_min_width_overflow_material=0x7f090013;
+        public static final int abc_config_prefDialogWidth=0x7f090005;
+        public static final int abc_control_inset_material=0x7f090014;
+        public static final int abc_control_padding_material=0x7f090015;
+        public static final int abc_dropdownitem_icon_width=0x7f090016;
+        public static final int abc_dropdownitem_text_padding_left=0x7f090017;
+        public static final int abc_dropdownitem_text_padding_right=0x7f090018;
+        public static final int abc_panel_menu_list_width=0x7f090019;
+        public static final int abc_search_view_preferred_width=0x7f09001a;
+        public static final int abc_search_view_text_min_width=0x7f090006;
+        public static final int abc_text_size_body_1_material=0x7f09001b;
+        public static final int abc_text_size_body_2_material=0x7f09001c;
+        public static final int abc_text_size_button_material=0x7f09001d;
+        public static final int abc_text_size_caption_material=0x7f09001e;
+        public static final int abc_text_size_display_1_material=0x7f09001f;
+        public static final int abc_text_size_display_2_material=0x7f090020;
+        public static final int abc_text_size_display_3_material=0x7f090021;
+        public static final int abc_text_size_display_4_material=0x7f090022;
+        public static final int abc_text_size_headline_material=0x7f090023;
+        public static final int abc_text_size_large_material=0x7f090024;
+        public static final int abc_text_size_medium_material=0x7f090025;
+        public static final int abc_text_size_menu_material=0x7f090026;
+        public static final int abc_text_size_small_material=0x7f090027;
+        public static final int abc_text_size_subhead_material=0x7f090028;
+        public static final int abc_text_size_subtitle_material_toolbar=0x7f090003;
+        public static final int abc_text_size_title_material=0x7f090029;
+        public static final int abc_text_size_title_material_toolbar=0x7f090004;
+        public static final int activity_horizontal_margin=0x7f09000b;
+        public static final int activity_vertical_margin=0x7f09002a;
+        public static final int cardview_compat_inset_shadow=0x7f09002b;
+        public static final int cardview_default_elevation=0x7f09002c;
+        public static final int cardview_default_radius=0x7f09002d;
+        public static final int dialog_fixed_height_major=0x7f090007;
+        public static final int dialog_fixed_height_minor=0x7f090008;
+        public static final int dialog_fixed_width_major=0x7f090009;
+        public static final int dialog_fixed_width_minor=0x7f09000a;
+        public static final int disabled_alpha_material_dark=0x7f09002e;
+        public static final int disabled_alpha_material_light=0x7f09002f;
     }
     public static final class drawable {
-        public static final int abc_ab_share_pack_mtrl_alpha=0x7f020000;
-        public static final int abc_btn_borderless_material=0x7f020001;
+        public static final int abc_ab_share_pack_holo_dark=0x7f020000;
+        public static final int abc_ab_share_pack_holo_light=0x7f020001;
         public static final int abc_btn_check_material=0x7f020002;
         public static final int abc_btn_check_to_on_mtrl_000=0x7f020003;
         public static final int abc_btn_check_to_on_mtrl_015=0x7f020004;
-        public static final int abc_btn_default_mtrl_shape=0x7f020005;
-        public static final int abc_btn_radio_material=0x7f020006;
-        public static final int abc_btn_radio_to_on_mtrl_000=0x7f020007;
-        public static final int abc_btn_radio_to_on_mtrl_015=0x7f020008;
-        public static final int abc_btn_rating_star_off_mtrl_alpha=0x7f020009;
-        public static final int abc_btn_rating_star_on_mtrl_alpha=0x7f02000a;
-        public static final int abc_btn_switch_to_on_mtrl_00001=0x7f02000b;
-        public static final int abc_btn_switch_to_on_mtrl_00012=0x7f02000c;
-        public static final int abc_cab_background_internal_bg=0x7f02000d;
-        public static final int abc_cab_background_top_material=0x7f02000e;
-        public static final int abc_cab_background_top_mtrl_alpha=0x7f02000f;
-        public static final int abc_dialog_material_background_dark=0x7f020010;
-        public static final int abc_dialog_material_background_light=0x7f020011;
-        public static final int abc_edit_text_material=0x7f020012;
-        public static final int abc_ic_ab_back_mtrl_am_alpha=0x7f020013;
-        public static final int abc_ic_clear_mtrl_alpha=0x7f020014;
-        public static final int abc_ic_commit_search_api_mtrl_alpha=0x7f020015;
-        public static final int abc_ic_go_search_api_mtrl_alpha=0x7f020016;
-        public static final int abc_ic_menu_copy_mtrl_am_alpha=0x7f020017;
-        public static final int abc_ic_menu_cut_mtrl_alpha=0x7f020018;
-        public static final int abc_ic_menu_moreoverflow_mtrl_alpha=0x7f020019;
-        public static final int abc_ic_menu_paste_mtrl_am_alpha=0x7f02001a;
-        public static final int abc_ic_menu_selectall_mtrl_alpha=0x7f02001b;
-        public static final int abc_ic_menu_share_mtrl_alpha=0x7f02001c;
-        public static final int abc_ic_search_api_mtrl_alpha=0x7f02001d;
-        public static final int abc_ic_voice_search_api_mtrl_alpha=0x7f02001e;
-        public static final int abc_item_background_holo_dark=0x7f02001f;
-        public static final int abc_item_background_holo_light=0x7f020020;
-        public static final int abc_list_divider_mtrl_alpha=0x7f020021;
-        public static final int abc_list_focused_holo=0x7f020022;
-        public static final int abc_list_longpressed_holo=0x7f020023;
-        public static final int abc_list_pressed_holo_dark=0x7f020024;
-        public static final int abc_list_pressed_holo_light=0x7f020025;
-        public static final int abc_list_selector_background_transition_holo_dark=0x7f020026;
-        public static final int abc_list_selector_background_transition_holo_light=0x7f020027;
-        public static final int abc_list_selector_disabled_holo_dark=0x7f020028;
-        public static final int abc_list_selector_disabled_holo_light=0x7f020029;
-        public static final int abc_list_selector_holo_dark=0x7f02002a;
-        public static final int abc_list_selector_holo_light=0x7f02002b;
-        public static final int abc_menu_hardkey_panel_mtrl_mult=0x7f02002c;
-        public static final int abc_popup_background_mtrl_mult=0x7f02002d;
-        public static final int abc_ratingbar_full_material=0x7f02002e;
-        public static final int abc_spinner_mtrl_am_alpha=0x7f02002f;
-        public static final int abc_spinner_textfield_background_material=0x7f020030;
-        public static final int abc_switch_thumb_material=0x7f020031;
-        public static final int abc_switch_track_mtrl_alpha=0x7f020032;
-        public static final int abc_tab_indicator_material=0x7f020033;
-        public static final int abc_tab_indicator_mtrl_alpha=0x7f020034;
-        public static final int abc_text_cursor_mtrl_alpha=0x7f020035;
-        public static final int abc_textfield_activated_mtrl_alpha=0x7f020036;
-        public static final int abc_textfield_default_mtrl_alpha=0x7f020037;
-        public static final int abc_textfield_search_activated_mtrl_alpha=0x7f020038;
-        public static final int abc_textfield_search_default_mtrl_alpha=0x7f020039;
-        public static final int abc_textfield_search_material=0x7f02003a;
-        public static final int notification_template_icon_bg=0x7f02003b;
+        public static final int abc_btn_radio_material=0x7f020005;
+        public static final int abc_btn_radio_to_on_mtrl_000=0x7f020006;
+        public static final int abc_btn_radio_to_on_mtrl_015=0x7f020007;
+        public static final int abc_btn_switch_to_on_mtrl_00001=0x7f020008;
+        public static final int abc_btn_switch_to_on_mtrl_00012=0x7f020009;
+        public static final int abc_cab_background_internal_bg=0x7f02000a;
+        public static final int abc_cab_background_top_material=0x7f02000b;
+        public static final int abc_cab_background_top_mtrl_alpha=0x7f02000c;
+        public static final int abc_edit_text_material=0x7f02000d;
+        public static final int abc_ic_ab_back_mtrl_am_alpha=0x7f02000e;
+        public static final int abc_ic_clear_mtrl_alpha=0x7f02000f;
+        public static final int abc_ic_commit_search_api_mtrl_alpha=0x7f020010;
+        public static final int abc_ic_go_search_api_mtrl_alpha=0x7f020011;
+        public static final int abc_ic_menu_copy_mtrl_am_alpha=0x7f020012;
+        public static final int abc_ic_menu_cut_mtrl_alpha=0x7f020013;
+        public static final int abc_ic_menu_moreoverflow_mtrl_alpha=0x7f020014;
+        public static final int abc_ic_menu_paste_mtrl_am_alpha=0x7f020015;
+        public static final int abc_ic_menu_selectall_mtrl_alpha=0x7f020016;
+        public static final int abc_ic_menu_share_mtrl_alpha=0x7f020017;
+        public static final int abc_ic_search_api_mtrl_alpha=0x7f020018;
+        public static final int abc_ic_voice_search_api_mtrl_alpha=0x7f020019;
+        public static final int abc_item_background_holo_dark=0x7f02001a;
+        public static final int abc_item_background_holo_light=0x7f02001b;
+        public static final int abc_list_divider_mtrl_alpha=0x7f02001c;
+        public static final int abc_list_focused_holo=0x7f02001d;
+        public static final int abc_list_longpressed_holo=0x7f02001e;
+        public static final int abc_list_pressed_holo_dark=0x7f02001f;
+        public static final int abc_list_pressed_holo_light=0x7f020020;
+        public static final int abc_list_selector_background_transition_holo_dark=0x7f020021;
+        public static final int abc_list_selector_background_transition_holo_light=0x7f020022;
+        public static final int abc_list_selector_disabled_holo_dark=0x7f020023;
+        public static final int abc_list_selector_disabled_holo_light=0x7f020024;
+        public static final int abc_list_selector_holo_dark=0x7f020025;
+        public static final int abc_list_selector_holo_light=0x7f020026;
+        public static final int abc_menu_hardkey_panel_mtrl_mult=0x7f020027;
+        public static final int abc_popup_background_mtrl_mult=0x7f020028;
+        public static final int abc_spinner_mtrl_am_alpha=0x7f020029;
+        public static final int abc_switch_thumb_material=0x7f02002a;
+        public static final int abc_switch_track_mtrl_alpha=0x7f02002b;
+        public static final int abc_tab_indicator_material=0x7f02002c;
+        public static final int abc_tab_indicator_mtrl_alpha=0x7f02002d;
+        public static final int abc_textfield_activated_mtrl_alpha=0x7f02002e;
+        public static final int abc_textfield_default_mtrl_alpha=0x7f02002f;
+        public static final int abc_textfield_search_activated_mtrl_alpha=0x7f020030;
+        public static final int abc_textfield_search_default_mtrl_alpha=0x7f020031;
+        public static final int abc_textfield_search_material=0x7f020032;
     }
     public static final class id {
-        public static final int action0=0x7f0c004f;
-        public static final int action_bar=0x7f0c0040;
-        public static final int action_bar_activity_content=0x7f0c0000;
-        public static final int action_bar_container=0x7f0c003f;
-        public static final int action_bar_root=0x7f0c003b;
-        public static final int action_bar_spinner=0x7f0c0001;
-        public static final int action_bar_subtitle=0x7f0c0024;
-        public static final int action_bar_title=0x7f0c0023;
-        public static final int action_context_bar=0x7f0c0041;
-        public static final int action_divider=0x7f0c0053;
-        public static final int action_menu_divider=0x7f0c0002;
-        public static final int action_menu_presenter=0x7f0c0003;
-        public static final int action_mode_bar=0x7f0c003d;
-        public static final int action_mode_bar_stub=0x7f0c003c;
-        public static final int action_mode_close_button=0x7f0c0025;
-        public static final int action_settings=0x7f0c005c;
-        public static final int activity_chooser_view_content=0x7f0c0026;
-        public static final int alertTitle=0x7f0c0030;
-        public static final int always=0x7f0c0016;
-        public static final int beginning=0x7f0c0013;
-        public static final int buttonPanel=0x7f0c0036;
-        public static final int cancel_action=0x7f0c0050;
-        public static final int checkbox=0x7f0c0038;
-        public static final int chronometer=0x7f0c0056;
-        public static final int collapseActionView=0x7f0c0017;
-        public static final int contentPanel=0x7f0c0031;
-        public static final int custom=0x7f0c0035;
-        public static final int customPanel=0x7f0c0034;
-        public static final int decor_content_parent=0x7f0c003e;
-        public static final int default_activity_button=0x7f0c0029;
-        public static final int dialog=0x7f0c001b;
-        public static final int disableHome=0x7f0c000c;
-        public static final int dropdown=0x7f0c001c;
-        public static final int edit_query=0x7f0c0042;
-        public static final int end=0x7f0c0014;
-        public static final int end_padder=0x7f0c005b;
-        public static final int expand_activities_button=0x7f0c0027;
-        public static final int expanded_menu=0x7f0c0037;
-        public static final int home=0x7f0c0004;
-        public static final int homeAsUp=0x7f0c000d;
-        public static final int icon=0x7f0c002b;
-        public static final int ifRoom=0x7f0c0018;
-        public static final int image=0x7f0c0028;
-        public static final int info=0x7f0c005a;
-        public static final int line1=0x7f0c0054;
-        public static final int line3=0x7f0c0058;
-        public static final int listMode=0x7f0c0009;
-        public static final int list_item=0x7f0c002a;
-        public static final int media_actions=0x7f0c0052;
-        public static final int middle=0x7f0c0015;
-        public static final int multiply=0x7f0c001e;
-        public static final int never=0x7f0c0019;
-        public static final int none=0x7f0c000e;
-        public static final int normal=0x7f0c000a;
-        public static final int parentPanel=0x7f0c002d;
-        public static final int progress_circular=0x7f0c0005;
-        public static final int progress_horizontal=0x7f0c0006;
-        public static final int radio=0x7f0c003a;
-        public static final int screen=0x7f0c001f;
-        public static final int scrollView=0x7f0c0032;
-        public static final int search_badge=0x7f0c0044;
-        public static final int search_bar=0x7f0c0043;
-        public static final int search_button=0x7f0c0045;
-        public static final int search_close_btn=0x7f0c004a;
-        public static final int search_edit_frame=0x7f0c0046;
-        public static final int search_go_btn=0x7f0c004c;
-        public static final int search_mag_icon=0x7f0c0047;
-        public static final int search_plate=0x7f0c0048;
-        public static final int search_src_text=0x7f0c0049;
-        public static final int search_voice_btn=0x7f0c004d;
-        public static final int select_dialog_listview=0x7f0c004e;
-        public static final int shortcut=0x7f0c0039;
-        public static final int showCustom=0x7f0c000f;
-        public static final int showHome=0x7f0c0010;
-        public static final int showTitle=0x7f0c0011;
-        public static final int split_action_bar=0x7f0c0007;
-        public static final int src_atop=0x7f0c0020;
-        public static final int src_in=0x7f0c0021;
-        public static final int src_over=0x7f0c0022;
-        public static final int status_bar_latest_event_content=0x7f0c0051;
-        public static final int submit_area=0x7f0c004b;
-        public static final int tabMode=0x7f0c000b;
-        public static final int text=0x7f0c0059;
-        public static final int text2=0x7f0c0057;
-        public static final int textSpacerNoButtons=0x7f0c0033;
-        public static final int time=0x7f0c0055;
-        public static final int title=0x7f0c002c;
-        public static final int title_template=0x7f0c002f;
-        public static final int topPanel=0x7f0c002e;
-        public static final int up=0x7f0c0008;
-        public static final int useLogo=0x7f0c0012;
-        public static final int withText=0x7f0c001a;
-        public static final int wrap_content=0x7f0c001d;
+        public static final int action_bar=0x7f0d0056;
+        public static final int action_bar_activity_content=0x7f0d0000;
+        public static final int action_bar_container=0x7f0d0055;
+        public static final int action_bar_root=0x7f0d0051;
+        public static final int action_bar_spinner=0x7f0d0001;
+        public static final int action_bar_subtitle=0x7f0d0044;
+        public static final int action_bar_title=0x7f0d0043;
+        public static final int action_context_bar=0x7f0d0057;
+        public static final int action_menu_divider=0x7f0d0002;
+        public static final int action_menu_presenter=0x7f0d0003;
+        public static final int action_mode_bar=0x7f0d0053;
+        public static final int action_mode_bar_stub=0x7f0d0052;
+        public static final int action_mode_close_button=0x7f0d0045;
+        public static final int action_settings=0x7f0d0067;
+        public static final int activity_chooser_view_content=0x7f0d0046;
+        public static final int afterRelease=0x7f0d0039;
+        public static final int always=0x7f0d002f;
+        public static final int beginning=0x7f0d002b;
+        public static final int bevel=0x7f0d0029;
+        public static final int bold=0x7f0d0009;
+        public static final int bold_italic=0x7f0d000a;
+        public static final int bottom=0x7f0d002c;
+        public static final int buffer=0x7f0d000d;
+        public static final int butt=0x7f0d0026;
+        public static final int center=0x7f0d002d;
+        public static final int charCounter=0x7f0d0021;
+        public static final int checkbox=0x7f0d004e;
+        public static final int collapseActionView=0x7f0d0030;
+        public static final int decor_content_parent=0x7f0d0054;
+        public static final int default_activity_button=0x7f0d0049;
+        public static final int determinate=0x7f0d000e;
+        public static final int dialog=0x7f0d003d;
+        public static final int disableHome=0x7f0d0013;
+        public static final int dropdown=0x7f0d003e;
+        public static final int edit_query=0x7f0d0058;
+        public static final int end=0x7f0d001d;
+        public static final int expand_activities_button=0x7f0d0047;
+        public static final int expanded_menu=0x7f0d004d;
+        public static final int explore=0x7f0d0064;
+        public static final int find=0x7f0d0065;
+        public static final int fixed=0x7f0d003f;
+        public static final int helper=0x7f0d0022;
+        public static final int helperWithError=0x7f0d0023;
+        public static final int home=0x7f0d0004;
+        public static final int homeAsUp=0x7f0d0014;
+        public static final int hour=0x7f0d0041;
+        public static final int icon=0x7f0d004b;
+        public static final int ifRoom=0x7f0d0031;
+        public static final int image=0x7f0d0048;
+        public static final int indeterminate=0x7f0d000f;
+        public static final int italic=0x7f0d000b;
+        public static final int listMode=0x7f0d0011;
+        public static final int list_item=0x7f0d004a;
+        public static final int locale=0x7f0d001a;
+        public static final int ltr=0x7f0d001b;
+        public static final int marquee=0x7f0d001e;
+        public static final int match_parent=0x7f0d003b;
+        public static final int match_view=0x7f0d0034;
+        public static final int middle=0x7f0d001f;
+        public static final int minute=0x7f0d0042;
+        public static final int miter=0x7f0d002a;
+        public static final int multi=0x7f0d0024;
+        public static final int never=0x7f0d0032;
+        public static final int none=0x7f0d0015;
+        public static final int normal=0x7f0d000c;
+        public static final int oval=0x7f0d0035;
+        public static final int progress_circular=0x7f0d0005;
+        public static final int progress_horizontal=0x7f0d0006;
+        public static final int query=0x7f0d0010;
+        public static final int radio=0x7f0d0050;
+        public static final int rectangle=0x7f0d0036;
+        public static final int round=0x7f0d0027;
+        public static final int rtl=0x7f0d001c;
+        public static final int scroll=0x7f0d0040;
+        public static final int search_badge=0x7f0d005a;
+        public static final int search_bar=0x7f0d0059;
+        public static final int search_button=0x7f0d005b;
+        public static final int search_close_btn=0x7f0d0060;
+        public static final int search_edit_frame=0x7f0d005c;
+        public static final int search_go_btn=0x7f0d0062;
+        public static final int search_mag_icon=0x7f0d005d;
+        public static final int search_plate=0x7f0d005e;
+        public static final int search_src_text=0x7f0d005f;
+        public static final int search_voice_btn=0x7f0d0063;
+        public static final int shortcut=0x7f0d004f;
+        public static final int showCustom=0x7f0d0016;
+        public static final int showHome=0x7f0d0017;
+        public static final int showTitle=0x7f0d0018;
+        public static final int single=0x7f0d0025;
+        public static final int split_action_bar=0x7f0d0007;
+        public static final int square=0x7f0d0028;
+        public static final int start=0x7f0d0020;
+        public static final int submit_area=0x7f0d0061;
+        public static final int tabMode=0x7f0d0012;
+        public static final int tags=0x7f0d0066;
+        public static final int title=0x7f0d004c;
+        public static final int top=0x7f0d002e;
+        public static final int touch=0x7f0d0037;
+        public static final int untilRelease=0x7f0d003a;
+        public static final int up=0x7f0d0008;
+        public static final int useLogo=0x7f0d0019;
+        public static final int wave=0x7f0d0038;
+        public static final int withText=0x7f0d0033;
+        public static final int wrap_content=0x7f0d003c;
     }
     public static final class integer {
-        public static final int abc_config_activityDefaultDur=0x7f0a0001;
-        public static final int abc_config_activityShortDur=0x7f0a0002;
         public static final int abc_max_action_buttons=0x7f0a0000;
-        public static final int cancel_button_image_alpha=0x7f0a0003;
-        public static final int status_bar_notification_info_maxnum=0x7f0a0004;
     }
     public static final class layout {
         public static final int abc_action_bar_title_item=0x7f040000;
@@ -1636,362 +3609,366 @@ containing a value of this type.
         public static final int abc_action_mode_bar=0x7f040005;
         public static final int abc_action_mode_close_item_material=0x7f040006;
         public static final int abc_activity_chooser_view=0x7f040007;
-        public static final int abc_activity_chooser_view_list_item=0x7f040008;
-        public static final int abc_alert_dialog_material=0x7f040009;
-        public static final int abc_dialog_title_material=0x7f04000a;
-        public static final int abc_expanded_menu_layout=0x7f04000b;
-        public static final int abc_list_menu_item_checkbox=0x7f04000c;
-        public static final int abc_list_menu_item_icon=0x7f04000d;
-        public static final int abc_list_menu_item_layout=0x7f04000e;
-        public static final int abc_list_menu_item_radio=0x7f04000f;
-        public static final int abc_popup_menu_item_layout=0x7f040010;
-        public static final int abc_screen_content_include=0x7f040011;
-        public static final int abc_screen_simple=0x7f040012;
-        public static final int abc_screen_simple_overlay_action_mode=0x7f040013;
-        public static final int abc_screen_toolbar=0x7f040014;
-        public static final int abc_search_dropdown_item_icons_2line=0x7f040015;
-        public static final int abc_search_view=0x7f040016;
-        public static final int abc_select_dialog_material=0x7f040017;
-        public static final int abc_simple_dropdown_hint=0x7f040018;
-        public static final int activity_main=0x7f040019;
-        public static final int notification_media_action=0x7f04001a;
-        public static final int notification_media_cancel_action=0x7f04001b;
-        public static final int notification_template_big_media=0x7f04001c;
-        public static final int notification_template_big_media_narrow=0x7f04001d;
-        public static final int notification_template_lines=0x7f04001e;
-        public static final int notification_template_media=0x7f04001f;
-        public static final int notification_template_part_chronometer=0x7f040020;
-        public static final int notification_template_part_time=0x7f040021;
-        public static final int select_dialog_item_material=0x7f040022;
-        public static final int select_dialog_multichoice_material=0x7f040023;
-        public static final int select_dialog_singlechoice_material=0x7f040024;
-        public static final int support_simple_spinner_dropdown_item=0x7f040025;
+        public static final int abc_activity_chooser_view_include=0x7f040008;
+        public static final int abc_activity_chooser_view_list_item=0x7f040009;
+        public static final int abc_expanded_menu_layout=0x7f04000a;
+        public static final int abc_list_menu_item_checkbox=0x7f04000b;
+        public static final int abc_list_menu_item_icon=0x7f04000c;
+        public static final int abc_list_menu_item_layout=0x7f04000d;
+        public static final int abc_list_menu_item_radio=0x7f04000e;
+        public static final int abc_popup_menu_item_layout=0x7f04000f;
+        public static final int abc_screen_content_include=0x7f040010;
+        public static final int abc_screen_simple=0x7f040011;
+        public static final int abc_screen_simple_overlay_action_mode=0x7f040012;
+        public static final int abc_screen_toolbar=0x7f040013;
+        public static final int abc_search_dropdown_item_icons_2line=0x7f040014;
+        public static final int abc_search_view=0x7f040015;
+        public static final int abc_simple_dropdown_hint=0x7f040016;
+        public static final int activity_main=0x7f040017;
+        public static final int support_simple_spinner_dropdown_item=0x7f040018;
     }
     public static final class menu {
-        public static final int menu_main=0x7f0d0000;
+        public static final int menu_main=0x7f0e0000;
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;
     }
     public static final class string {
-        public static final int abc_action_bar_home_description=0x7f060000;
-        public static final int abc_action_bar_home_description_format=0x7f06000d;
-        public static final int abc_action_bar_home_subtitle_description_format=0x7f06000e;
-        public static final int abc_action_bar_up_description=0x7f060001;
-        public static final int abc_action_menu_overflow_description=0x7f060002;
-        public static final int abc_action_mode_done=0x7f060003;
-        public static final int abc_activity_chooser_view_see_all=0x7f060004;
-        public static final int abc_activitychooserview_choose_application=0x7f060005;
-        public static final int abc_search_hint=0x7f06000f;
-        public static final int abc_searchview_description_clear=0x7f060006;
-        public static final int abc_searchview_description_query=0x7f060007;
-        public static final int abc_searchview_description_search=0x7f060008;
-        public static final int abc_searchview_description_submit=0x7f060009;
-        public static final int abc_searchview_description_voice=0x7f06000a;
-        public static final int abc_shareactionprovider_share_with=0x7f06000b;
-        public static final int abc_shareactionprovider_share_with_application=0x7f06000c;
-        public static final int abc_toolbar_collapse_description=0x7f060010;
-        public static final int action_settings=0x7f060011;
-        public static final int app_name=0x7f060012;
-        public static final int hello_world=0x7f060013;
-        public static final int status_bar_notification_info_overflow=0x7f060014;
+        public static final int abc_action_bar_home_description=0x7f070000;
+        public static final int abc_action_bar_home_description_format=0x7f070001;
+        public static final int abc_action_bar_home_subtitle_description_format=0x7f070002;
+        public static final int abc_action_bar_up_description=0x7f070003;
+        public static final int abc_action_menu_overflow_description=0x7f070004;
+        public static final int abc_action_mode_done=0x7f070005;
+        public static final int abc_activity_chooser_view_see_all=0x7f070006;
+        public static final int abc_activitychooserview_choose_application=0x7f070007;
+        public static final int abc_searchview_description_clear=0x7f070008;
+        public static final int abc_searchview_description_query=0x7f070009;
+        public static final int abc_searchview_description_search=0x7f07000a;
+        public static final int abc_searchview_description_submit=0x7f07000b;
+        public static final int abc_searchview_description_voice=0x7f07000c;
+        public static final int abc_shareactionprovider_share_with=0x7f07000d;
+        public static final int abc_shareactionprovider_share_with_application=0x7f07000e;
+        public static final int abc_toolbar_collapse_description=0x7f07000f;
+        public static final int action_settings=0x7f070010;
+        public static final int app_name=0x7f070011;
+        public static final int explore=0x7f070012;
+        public static final int find=0x7f070013;
+        public static final int hello_world=0x7f070014;
+        public static final int tags=0x7f070015;
     }
     public static final class style {
-        public static final int AlertDialog_AppCompat=0x7f080073;
-        public static final int AlertDialog_AppCompat_Light=0x7f080074;
-        public static final int Animation_AppCompat_Dialog=0x7f080075;
-        public static final int Animation_AppCompat_DropDownUp=0x7f080076;
         /**  Customize your theme here. 
          */
-        public static final int AppTheme=0x7f080077;
-        public static final int Base_AlertDialog_AppCompat=0x7f080078;
-        public static final int Base_AlertDialog_AppCompat_Light=0x7f080079;
-        public static final int Base_Animation_AppCompat_Dialog=0x7f08007a;
-        public static final int Base_Animation_AppCompat_DropDownUp=0x7f08007b;
-        public static final int Base_DialogWindowTitle_AppCompat=0x7f08007c;
-        public static final int Base_DialogWindowTitleBackground_AppCompat=0x7f08007d;
-        public static final int Base_TextAppearance_AppCompat=0x7f08002e;
-        public static final int Base_TextAppearance_AppCompat_Body1=0x7f08002f;
-        public static final int Base_TextAppearance_AppCompat_Body2=0x7f080030;
-        public static final int Base_TextAppearance_AppCompat_Button=0x7f080018;
-        public static final int Base_TextAppearance_AppCompat_Caption=0x7f080031;
-        public static final int Base_TextAppearance_AppCompat_Display1=0x7f080032;
-        public static final int Base_TextAppearance_AppCompat_Display2=0x7f080033;
-        public static final int Base_TextAppearance_AppCompat_Display3=0x7f080034;
-        public static final int Base_TextAppearance_AppCompat_Display4=0x7f080035;
-        public static final int Base_TextAppearance_AppCompat_Headline=0x7f080036;
-        public static final int Base_TextAppearance_AppCompat_Inverse=0x7f080003;
-        public static final int Base_TextAppearance_AppCompat_Large=0x7f080037;
-        public static final int Base_TextAppearance_AppCompat_Large_Inverse=0x7f080004;
-        public static final int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large=0x7f080038;
-        public static final int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small=0x7f080039;
-        public static final int Base_TextAppearance_AppCompat_Medium=0x7f08003a;
-        public static final int Base_TextAppearance_AppCompat_Medium_Inverse=0x7f080005;
-        public static final int Base_TextAppearance_AppCompat_Menu=0x7f08003b;
-        public static final int Base_TextAppearance_AppCompat_SearchResult=0x7f08007e;
-        public static final int Base_TextAppearance_AppCompat_SearchResult_Subtitle=0x7f08003c;
-        public static final int Base_TextAppearance_AppCompat_SearchResult_Title=0x7f08003d;
-        public static final int Base_TextAppearance_AppCompat_Small=0x7f08003e;
-        public static final int Base_TextAppearance_AppCompat_Small_Inverse=0x7f080006;
-        public static final int Base_TextAppearance_AppCompat_Subhead=0x7f08003f;
-        public static final int Base_TextAppearance_AppCompat_Subhead_Inverse=0x7f080007;
-        public static final int Base_TextAppearance_AppCompat_Title=0x7f080040;
-        public static final int Base_TextAppearance_AppCompat_Title_Inverse=0x7f080008;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Menu=0x7f080041;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle=0x7f080042;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse=0x7f080043;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Title=0x7f080044;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse=0x7f080045;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle=0x7f080046;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionMode_Title=0x7f080047;
-        public static final int Base_TextAppearance_AppCompat_Widget_DropDownItem=0x7f08007f;
-        public static final int Base_TextAppearance_AppCompat_Widget_PopupMenu_Large=0x7f080048;
-        public static final int Base_TextAppearance_AppCompat_Widget_PopupMenu_Small=0x7f080049;
-        public static final int Base_TextAppearance_AppCompat_Widget_Switch=0x7f08004a;
-        public static final int Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem=0x7f08004b;
-        public static final int Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item=0x7f080080;
-        public static final int Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle=0x7f08004c;
-        public static final int Base_TextAppearance_Widget_AppCompat_Toolbar_Title=0x7f08004d;
-        public static final int Base_Theme_AppCompat=0x7f08004e;
-        public static final int Base_Theme_AppCompat_CompactMenu=0x7f080081;
-        public static final int Base_Theme_AppCompat_Dialog=0x7f080009;
-        public static final int Base_Theme_AppCompat_Dialog_Alert=0x7f080082;
-        public static final int Base_Theme_AppCompat_Dialog_FixedSize=0x7f080083;
-        public static final int Base_Theme_AppCompat_Dialog_MinWidth=0x7f080084;
-        public static final int Base_Theme_AppCompat_DialogWhenLarge=0x7f080001;
-        public static final int Base_Theme_AppCompat_Light=0x7f08004f;
-        public static final int Base_Theme_AppCompat_Light_DarkActionBar=0x7f080085;
-        public static final int Base_Theme_AppCompat_Light_Dialog=0x7f08000a;
-        public static final int Base_Theme_AppCompat_Light_Dialog_Alert=0x7f080086;
-        public static final int Base_Theme_AppCompat_Light_Dialog_FixedSize=0x7f080087;
-        public static final int Base_Theme_AppCompat_Light_Dialog_MinWidth=0x7f080088;
-        public static final int Base_Theme_AppCompat_Light_DialogWhenLarge=0x7f080002;
-        public static final int Base_ThemeOverlay_AppCompat=0x7f080089;
-        public static final int Base_ThemeOverlay_AppCompat_ActionBar=0x7f08008a;
-        public static final int Base_ThemeOverlay_AppCompat_Dark=0x7f08008b;
-        public static final int Base_ThemeOverlay_AppCompat_Dark_ActionBar=0x7f08008c;
-        public static final int Base_ThemeOverlay_AppCompat_Light=0x7f08008d;
-        public static final int Base_V11_Theme_AppCompat_Dialog=0x7f08000b;
-        public static final int Base_V11_Theme_AppCompat_Light_Dialog=0x7f08000c;
-        public static final int Base_V12_Widget_AppCompat_AutoCompleteTextView=0x7f080014;
-        public static final int Base_V12_Widget_AppCompat_EditText=0x7f080015;
-        public static final int Base_V21_Theme_AppCompat=0x7f080050;
-        public static final int Base_V21_Theme_AppCompat_Dialog=0x7f080051;
-        public static final int Base_V21_Theme_AppCompat_Light=0x7f080052;
-        public static final int Base_V21_Theme_AppCompat_Light_Dialog=0x7f080053;
-        public static final int Base_V7_Theme_AppCompat=0x7f08008e;
-        public static final int Base_V7_Theme_AppCompat_Dialog=0x7f08008f;
-        public static final int Base_V7_Theme_AppCompat_Light=0x7f080090;
-        public static final int Base_V7_Theme_AppCompat_Light_Dialog=0x7f080091;
-        public static final int Base_V7_Widget_AppCompat_AutoCompleteTextView=0x7f080092;
-        public static final int Base_V7_Widget_AppCompat_EditText=0x7f080093;
-        public static final int Base_Widget_AppCompat_ActionBar=0x7f080094;
-        public static final int Base_Widget_AppCompat_ActionBar_Solid=0x7f080095;
-        public static final int Base_Widget_AppCompat_ActionBar_TabBar=0x7f080096;
-        public static final int Base_Widget_AppCompat_ActionBar_TabText=0x7f080054;
-        public static final int Base_Widget_AppCompat_ActionBar_TabView=0x7f080055;
-        public static final int Base_Widget_AppCompat_ActionButton=0x7f080056;
-        public static final int Base_Widget_AppCompat_ActionButton_CloseMode=0x7f080057;
-        public static final int Base_Widget_AppCompat_ActionButton_Overflow=0x7f080058;
-        public static final int Base_Widget_AppCompat_ActionMode=0x7f080097;
-        public static final int Base_Widget_AppCompat_ActivityChooserView=0x7f080098;
-        public static final int Base_Widget_AppCompat_AutoCompleteTextView=0x7f080016;
-        public static final int Base_Widget_AppCompat_Button=0x7f080059;
-        public static final int Base_Widget_AppCompat_Button_Borderless=0x7f08005a;
-        public static final int Base_Widget_AppCompat_Button_Borderless_Colored=0x7f08005b;
-        public static final int Base_Widget_AppCompat_Button_ButtonBar_AlertDialog=0x7f080099;
-        public static final int Base_Widget_AppCompat_Button_Small=0x7f08005c;
-        public static final int Base_Widget_AppCompat_ButtonBar=0x7f08005d;
-        public static final int Base_Widget_AppCompat_ButtonBar_AlertDialog=0x7f08009a;
-        public static final int Base_Widget_AppCompat_CompoundButton_CheckBox=0x7f08005e;
-        public static final int Base_Widget_AppCompat_CompoundButton_RadioButton=0x7f08005f;
-        public static final int Base_Widget_AppCompat_CompoundButton_Switch=0x7f08009b;
-        public static final int Base_Widget_AppCompat_DrawerArrowToggle=0x7f080000;
-        public static final int Base_Widget_AppCompat_DrawerArrowToggle_Common=0x7f08009c;
-        public static final int Base_Widget_AppCompat_DropDownItem_Spinner=0x7f080060;
-        public static final int Base_Widget_AppCompat_EditText=0x7f080017;
-        public static final int Base_Widget_AppCompat_Light_ActionBar=0x7f08009d;
-        public static final int Base_Widget_AppCompat_Light_ActionBar_Solid=0x7f08009e;
-        public static final int Base_Widget_AppCompat_Light_ActionBar_TabBar=0x7f08009f;
-        public static final int Base_Widget_AppCompat_Light_ActionBar_TabText=0x7f080061;
-        public static final int Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse=0x7f080062;
-        public static final int Base_Widget_AppCompat_Light_ActionBar_TabView=0x7f080063;
-        public static final int Base_Widget_AppCompat_Light_PopupMenu=0x7f080064;
-        public static final int Base_Widget_AppCompat_Light_PopupMenu_Overflow=0x7f080065;
-        public static final int Base_Widget_AppCompat_ListPopupWindow=0x7f080066;
-        public static final int Base_Widget_AppCompat_ListView=0x7f080067;
-        public static final int Base_Widget_AppCompat_ListView_DropDown=0x7f080068;
-        public static final int Base_Widget_AppCompat_ListView_Menu=0x7f080069;
-        public static final int Base_Widget_AppCompat_PopupMenu=0x7f08006a;
-        public static final int Base_Widget_AppCompat_PopupMenu_Overflow=0x7f08006b;
-        public static final int Base_Widget_AppCompat_PopupWindow=0x7f0800a0;
-        public static final int Base_Widget_AppCompat_ProgressBar=0x7f08000d;
-        public static final int Base_Widget_AppCompat_ProgressBar_Horizontal=0x7f08000e;
-        public static final int Base_Widget_AppCompat_RatingBar=0x7f08006c;
-        public static final int Base_Widget_AppCompat_SearchView=0x7f0800a1;
-        public static final int Base_Widget_AppCompat_SearchView_ActionBar=0x7f0800a2;
-        public static final int Base_Widget_AppCompat_Spinner=0x7f08000f;
-        public static final int Base_Widget_AppCompat_Spinner_DropDown_ActionBar=0x7f08006d;
-        public static final int Base_Widget_AppCompat_Spinner_Underlined=0x7f08006e;
-        public static final int Base_Widget_AppCompat_TextView_SpinnerItem=0x7f08006f;
-        public static final int Base_Widget_AppCompat_Toolbar=0x7f0800a3;
-        public static final int Base_Widget_AppCompat_Toolbar_Button_Navigation=0x7f080070;
-        public static final int Platform_AppCompat=0x7f080010;
-        public static final int Platform_AppCompat_Light=0x7f080011;
-        public static final int Platform_ThemeOverlay_AppCompat_Dark=0x7f080071;
-        public static final int Platform_ThemeOverlay_AppCompat_Light=0x7f080072;
-        public static final int Platform_V11_AppCompat=0x7f080012;
-        public static final int Platform_V11_AppCompat_Light=0x7f080013;
-        public static final int Platform_V14_AppCompat=0x7f080019;
-        public static final int Platform_V14_AppCompat_Light=0x7f08001a;
-        public static final int RtlOverlay_DialogWindowTitle_AppCompat=0x7f080020;
-        public static final int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem=0x7f080021;
-        public static final int RtlOverlay_Widget_AppCompat_ActionButton_Overflow=0x7f080022;
-        public static final int RtlOverlay_Widget_AppCompat_DialogTitle_Icon=0x7f080023;
-        public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem=0x7f080024;
-        public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup=0x7f080025;
-        public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text=0x7f080026;
-        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown=0x7f080027;
-        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1=0x7f080028;
-        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2=0x7f080029;
-        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Query=0x7f08002a;
-        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Text=0x7f08002b;
-        public static final int RtlOverlay_Widget_AppCompat_SearchView_MagIcon=0x7f08002c;
-        public static final int RtlOverlay_Widget_AppCompat_Toolbar_Button_Navigation=0x7f08002d;
-        public static final int TextAppearance_AppCompat=0x7f0800a4;
-        public static final int TextAppearance_AppCompat_Body1=0x7f0800a5;
-        public static final int TextAppearance_AppCompat_Body2=0x7f0800a6;
-        public static final int TextAppearance_AppCompat_Button=0x7f0800a7;
-        public static final int TextAppearance_AppCompat_Caption=0x7f0800a8;
-        public static final int TextAppearance_AppCompat_Display1=0x7f0800a9;
-        public static final int TextAppearance_AppCompat_Display2=0x7f0800aa;
-        public static final int TextAppearance_AppCompat_Display3=0x7f0800ab;
-        public static final int TextAppearance_AppCompat_Display4=0x7f0800ac;
-        public static final int TextAppearance_AppCompat_Headline=0x7f0800ad;
-        public static final int TextAppearance_AppCompat_Inverse=0x7f0800ae;
-        public static final int TextAppearance_AppCompat_Large=0x7f0800af;
-        public static final int TextAppearance_AppCompat_Large_Inverse=0x7f0800b0;
-        public static final int TextAppearance_AppCompat_Light_SearchResult_Subtitle=0x7f0800b1;
-        public static final int TextAppearance_AppCompat_Light_SearchResult_Title=0x7f0800b2;
-        public static final int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large=0x7f0800b3;
-        public static final int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small=0x7f0800b4;
-        public static final int TextAppearance_AppCompat_Medium=0x7f0800b5;
-        public static final int TextAppearance_AppCompat_Medium_Inverse=0x7f0800b6;
-        public static final int TextAppearance_AppCompat_Menu=0x7f0800b7;
-        public static final int TextAppearance_AppCompat_SearchResult_Subtitle=0x7f0800b8;
-        public static final int TextAppearance_AppCompat_SearchResult_Title=0x7f0800b9;
-        public static final int TextAppearance_AppCompat_Small=0x7f0800ba;
-        public static final int TextAppearance_AppCompat_Small_Inverse=0x7f0800bb;
-        public static final int TextAppearance_AppCompat_Subhead=0x7f0800bc;
-        public static final int TextAppearance_AppCompat_Subhead_Inverse=0x7f0800bd;
-        public static final int TextAppearance_AppCompat_Title=0x7f0800be;
-        public static final int TextAppearance_AppCompat_Title_Inverse=0x7f0800bf;
-        public static final int TextAppearance_AppCompat_Widget_ActionBar_Menu=0x7f0800c0;
-        public static final int TextAppearance_AppCompat_Widget_ActionBar_Subtitle=0x7f0800c1;
-        public static final int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse=0x7f0800c2;
-        public static final int TextAppearance_AppCompat_Widget_ActionBar_Title=0x7f0800c3;
-        public static final int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse=0x7f0800c4;
-        public static final int TextAppearance_AppCompat_Widget_ActionMode_Subtitle=0x7f0800c5;
-        public static final int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse=0x7f0800c6;
-        public static final int TextAppearance_AppCompat_Widget_ActionMode_Title=0x7f0800c7;
-        public static final int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse=0x7f0800c8;
-        public static final int TextAppearance_AppCompat_Widget_DropDownItem=0x7f0800c9;
-        public static final int TextAppearance_AppCompat_Widget_PopupMenu_Large=0x7f0800ca;
-        public static final int TextAppearance_AppCompat_Widget_PopupMenu_Small=0x7f0800cb;
-        public static final int TextAppearance_AppCompat_Widget_Switch=0x7f0800cc;
-        public static final int TextAppearance_AppCompat_Widget_TextView_SpinnerItem=0x7f0800cd;
-        public static final int TextAppearance_StatusBar_EventContent=0x7f08001b;
-        public static final int TextAppearance_StatusBar_EventContent_Info=0x7f08001c;
-        public static final int TextAppearance_StatusBar_EventContent_Line2=0x7f08001d;
-        public static final int TextAppearance_StatusBar_EventContent_Time=0x7f08001e;
-        public static final int TextAppearance_StatusBar_EventContent_Title=0x7f08001f;
-        public static final int TextAppearance_Widget_AppCompat_ExpandedMenu_Item=0x7f0800ce;
-        public static final int TextAppearance_Widget_AppCompat_Toolbar_Subtitle=0x7f0800cf;
-        public static final int TextAppearance_Widget_AppCompat_Toolbar_Title=0x7f0800d0;
-        public static final int Theme_AppCompat=0x7f0800d1;
-        public static final int Theme_AppCompat_CompactMenu=0x7f0800d2;
-        public static final int Theme_AppCompat_Dialog=0x7f0800d3;
-        public static final int Theme_AppCompat_Dialog_Alert=0x7f0800d4;
-        public static final int Theme_AppCompat_Dialog_MinWidth=0x7f0800d5;
-        public static final int Theme_AppCompat_DialogWhenLarge=0x7f0800d6;
-        public static final int Theme_AppCompat_Light=0x7f0800d7;
-        public static final int Theme_AppCompat_Light_DarkActionBar=0x7f0800d8;
-        public static final int Theme_AppCompat_Light_Dialog=0x7f0800d9;
-        public static final int Theme_AppCompat_Light_Dialog_Alert=0x7f0800da;
-        public static final int Theme_AppCompat_Light_Dialog_MinWidth=0x7f0800db;
-        public static final int Theme_AppCompat_Light_DialogWhenLarge=0x7f0800dc;
-        public static final int Theme_AppCompat_Light_NoActionBar=0x7f0800dd;
-        public static final int Theme_AppCompat_NoActionBar=0x7f0800de;
-        public static final int ThemeOverlay_AppCompat=0x7f0800df;
-        public static final int ThemeOverlay_AppCompat_ActionBar=0x7f0800e0;
-        public static final int ThemeOverlay_AppCompat_Dark=0x7f0800e1;
-        public static final int ThemeOverlay_AppCompat_Dark_ActionBar=0x7f0800e2;
-        public static final int ThemeOverlay_AppCompat_Light=0x7f0800e3;
-        public static final int Widget_AppCompat_ActionBar=0x7f0800e4;
-        public static final int Widget_AppCompat_ActionBar_Solid=0x7f0800e5;
-        public static final int Widget_AppCompat_ActionBar_TabBar=0x7f0800e6;
-        public static final int Widget_AppCompat_ActionBar_TabText=0x7f0800e7;
-        public static final int Widget_AppCompat_ActionBar_TabView=0x7f0800e8;
-        public static final int Widget_AppCompat_ActionButton=0x7f0800e9;
-        public static final int Widget_AppCompat_ActionButton_CloseMode=0x7f0800ea;
-        public static final int Widget_AppCompat_ActionButton_Overflow=0x7f0800eb;
-        public static final int Widget_AppCompat_ActionMode=0x7f0800ec;
-        public static final int Widget_AppCompat_ActivityChooserView=0x7f0800ed;
-        public static final int Widget_AppCompat_AutoCompleteTextView=0x7f0800ee;
-        public static final int Widget_AppCompat_Button=0x7f0800ef;
-        public static final int Widget_AppCompat_Button_Borderless=0x7f0800f0;
-        public static final int Widget_AppCompat_Button_Borderless_Colored=0x7f0800f1;
-        public static final int Widget_AppCompat_Button_ButtonBar_AlertDialog=0x7f0800f2;
-        public static final int Widget_AppCompat_Button_Small=0x7f0800f3;
-        public static final int Widget_AppCompat_ButtonBar=0x7f0800f4;
-        public static final int Widget_AppCompat_ButtonBar_AlertDialog=0x7f0800f5;
-        public static final int Widget_AppCompat_CompoundButton_CheckBox=0x7f0800f6;
-        public static final int Widget_AppCompat_CompoundButton_RadioButton=0x7f0800f7;
-        public static final int Widget_AppCompat_CompoundButton_Switch=0x7f0800f8;
-        public static final int Widget_AppCompat_DrawerArrowToggle=0x7f0800f9;
-        public static final int Widget_AppCompat_DropDownItem_Spinner=0x7f0800fa;
-        public static final int Widget_AppCompat_EditText=0x7f0800fb;
-        public static final int Widget_AppCompat_Light_ActionBar=0x7f0800fc;
-        public static final int Widget_AppCompat_Light_ActionBar_Solid=0x7f0800fd;
-        public static final int Widget_AppCompat_Light_ActionBar_Solid_Inverse=0x7f0800fe;
-        public static final int Widget_AppCompat_Light_ActionBar_TabBar=0x7f0800ff;
-        public static final int Widget_AppCompat_Light_ActionBar_TabBar_Inverse=0x7f080100;
-        public static final int Widget_AppCompat_Light_ActionBar_TabText=0x7f080101;
-        public static final int Widget_AppCompat_Light_ActionBar_TabText_Inverse=0x7f080102;
-        public static final int Widget_AppCompat_Light_ActionBar_TabView=0x7f080103;
-        public static final int Widget_AppCompat_Light_ActionBar_TabView_Inverse=0x7f080104;
-        public static final int Widget_AppCompat_Light_ActionButton=0x7f080105;
-        public static final int Widget_AppCompat_Light_ActionButton_CloseMode=0x7f080106;
-        public static final int Widget_AppCompat_Light_ActionButton_Overflow=0x7f080107;
-        public static final int Widget_AppCompat_Light_ActionMode_Inverse=0x7f080108;
-        public static final int Widget_AppCompat_Light_ActivityChooserView=0x7f080109;
-        public static final int Widget_AppCompat_Light_AutoCompleteTextView=0x7f08010a;
-        public static final int Widget_AppCompat_Light_DropDownItem_Spinner=0x7f08010b;
-        public static final int Widget_AppCompat_Light_ListPopupWindow=0x7f08010c;
-        public static final int Widget_AppCompat_Light_ListView_DropDown=0x7f08010d;
-        public static final int Widget_AppCompat_Light_PopupMenu=0x7f08010e;
-        public static final int Widget_AppCompat_Light_PopupMenu_Overflow=0x7f08010f;
-        public static final int Widget_AppCompat_Light_SearchView=0x7f080110;
-        public static final int Widget_AppCompat_Light_Spinner_DropDown_ActionBar=0x7f080111;
-        public static final int Widget_AppCompat_ListPopupWindow=0x7f080112;
-        public static final int Widget_AppCompat_ListView=0x7f080113;
-        public static final int Widget_AppCompat_ListView_DropDown=0x7f080114;
-        public static final int Widget_AppCompat_ListView_Menu=0x7f080115;
-        public static final int Widget_AppCompat_PopupMenu=0x7f080116;
-        public static final int Widget_AppCompat_PopupMenu_Overflow=0x7f080117;
-        public static final int Widget_AppCompat_PopupWindow=0x7f080118;
-        public static final int Widget_AppCompat_ProgressBar=0x7f080119;
-        public static final int Widget_AppCompat_ProgressBar_Horizontal=0x7f08011a;
-        public static final int Widget_AppCompat_RatingBar=0x7f08011b;
-        public static final int Widget_AppCompat_SearchView=0x7f08011c;
-        public static final int Widget_AppCompat_SearchView_ActionBar=0x7f08011d;
-        public static final int Widget_AppCompat_Spinner=0x7f08011e;
-        public static final int Widget_AppCompat_Spinner_DropDown=0x7f08011f;
-        public static final int Widget_AppCompat_Spinner_DropDown_ActionBar=0x7f080120;
-        public static final int Widget_AppCompat_Spinner_Underlined=0x7f080121;
-        public static final int Widget_AppCompat_TextView_SpinnerItem=0x7f080122;
-        public static final int Widget_AppCompat_Toolbar=0x7f080123;
-        public static final int Widget_AppCompat_Toolbar_Button_Navigation=0x7f080124;
+        public static final int AppTheme=0x7f0b0065;
+        public static final int Base_TextAppearance_AppCompat=0x7f0b0027;
+        public static final int Base_TextAppearance_AppCompat_Body1=0x7f0b0028;
+        public static final int Base_TextAppearance_AppCompat_Body2=0x7f0b0029;
+        public static final int Base_TextAppearance_AppCompat_Button=0x7f0b002a;
+        public static final int Base_TextAppearance_AppCompat_Caption=0x7f0b002b;
+        public static final int Base_TextAppearance_AppCompat_Display1=0x7f0b002c;
+        public static final int Base_TextAppearance_AppCompat_Display2=0x7f0b002d;
+        public static final int Base_TextAppearance_AppCompat_Display3=0x7f0b002e;
+        public static final int Base_TextAppearance_AppCompat_Display4=0x7f0b002f;
+        public static final int Base_TextAppearance_AppCompat_Headline=0x7f0b0030;
+        public static final int Base_TextAppearance_AppCompat_Inverse=0x7f0b0002;
+        public static final int Base_TextAppearance_AppCompat_Large=0x7f0b0031;
+        public static final int Base_TextAppearance_AppCompat_Large_Inverse=0x7f0b0003;
+        public static final int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large=0x7f0b0032;
+        public static final int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small=0x7f0b0033;
+        public static final int Base_TextAppearance_AppCompat_Medium=0x7f0b0034;
+        public static final int Base_TextAppearance_AppCompat_Medium_Inverse=0x7f0b0004;
+        public static final int Base_TextAppearance_AppCompat_Menu=0x7f0b0035;
+        public static final int Base_TextAppearance_AppCompat_SearchResult=0x7f0b0066;
+        public static final int Base_TextAppearance_AppCompat_SearchResult_Subtitle=0x7f0b0036;
+        public static final int Base_TextAppearance_AppCompat_SearchResult_Title=0x7f0b0037;
+        public static final int Base_TextAppearance_AppCompat_Small=0x7f0b0038;
+        public static final int Base_TextAppearance_AppCompat_Small_Inverse=0x7f0b0005;
+        public static final int Base_TextAppearance_AppCompat_Subhead=0x7f0b0039;
+        public static final int Base_TextAppearance_AppCompat_Subhead_Inverse=0x7f0b0006;
+        public static final int Base_TextAppearance_AppCompat_Title=0x7f0b003a;
+        public static final int Base_TextAppearance_AppCompat_Title_Inverse=0x7f0b0007;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Menu=0x7f0b003b;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle=0x7f0b003c;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse=0x7f0b003d;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Title=0x7f0b003e;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse=0x7f0b003f;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle=0x7f0b0040;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionMode_Title=0x7f0b0041;
+        public static final int Base_TextAppearance_AppCompat_Widget_DropDownItem=0x7f0b0067;
+        public static final int Base_TextAppearance_AppCompat_Widget_PopupMenu_Large=0x7f0b0042;
+        public static final int Base_TextAppearance_AppCompat_Widget_PopupMenu_Small=0x7f0b0043;
+        public static final int Base_TextAppearance_AppCompat_Widget_Switch=0x7f0b0044;
+        public static final int Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item=0x7f0b0068;
+        public static final int Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle=0x7f0b0045;
+        public static final int Base_TextAppearance_Widget_AppCompat_Toolbar_Title=0x7f0b0046;
+        public static final int Base_Theme_AppCompat=0x7f0b0008;
+        public static final int Base_Theme_AppCompat_CompactMenu=0x7f0b0069;
+        public static final int Base_Theme_AppCompat_Dialog=0x7f0b0009;
+        public static final int Base_Theme_AppCompat_Dialog_FixedSize=0x7f0b006a;
+        public static final int Base_Theme_AppCompat_DialogWhenLarge=0x7f0b0000;
+        public static final int Base_Theme_AppCompat_Light=0x7f0b000a;
+        public static final int Base_Theme_AppCompat_Light_DarkActionBar=0x7f0b006b;
+        public static final int Base_Theme_AppCompat_Light_Dialog=0x7f0b000b;
+        public static final int Base_Theme_AppCompat_Light_Dialog_FixedSize=0x7f0b006c;
+        public static final int Base_Theme_AppCompat_Light_DialogWhenLarge=0x7f0b0001;
+        public static final int Base_ThemeOverlay_AppCompat=0x7f0b0047;
+        public static final int Base_ThemeOverlay_AppCompat_ActionBar=0x7f0b0048;
+        public static final int Base_ThemeOverlay_AppCompat_Dark=0x7f0b0049;
+        public static final int Base_ThemeOverlay_AppCompat_Dark_ActionBar=0x7f0b004a;
+        public static final int Base_ThemeOverlay_AppCompat_Light=0x7f0b004b;
+        public static final int Base_V11_Theme_AppCompat=0x7f0b000c;
+        public static final int Base_V11_Theme_AppCompat_Dialog=0x7f0b000d;
+        public static final int Base_V11_Theme_AppCompat_Light=0x7f0b000e;
+        public static final int Base_V11_Theme_AppCompat_Light_Dialog=0x7f0b000f;
+        public static final int Base_V14_Theme_AppCompat=0x7f0b0017;
+        public static final int Base_V14_Theme_AppCompat_Dialog=0x7f0b0018;
+        public static final int Base_V14_Theme_AppCompat_Light=0x7f0b0019;
+        public static final int Base_V14_Theme_AppCompat_Light_Dialog=0x7f0b001a;
+        public static final int Base_V21_Theme_AppCompat=0x7f0b004c;
+        public static final int Base_V21_Theme_AppCompat_Dialog=0x7f0b004d;
+        public static final int Base_V21_Theme_AppCompat_Light=0x7f0b004e;
+        public static final int Base_V21_Theme_AppCompat_Light_Dialog=0x7f0b004f;
+        public static final int Base_V7_Theme_AppCompat=0x7f0b006d;
+        public static final int Base_V7_Theme_AppCompat_Dialog=0x7f0b006e;
+        public static final int Base_V7_Theme_AppCompat_Light=0x7f0b006f;
+        public static final int Base_Widget_AppCompat_ActionBar=0x7f0b0070;
+        public static final int Base_Widget_AppCompat_ActionBar_Solid=0x7f0b0071;
+        public static final int Base_Widget_AppCompat_ActionBar_TabBar=0x7f0b0072;
+        public static final int Base_Widget_AppCompat_ActionBar_TabText=0x7f0b0050;
+        public static final int Base_Widget_AppCompat_ActionBar_TabView=0x7f0b0051;
+        public static final int Base_Widget_AppCompat_ActionButton=0x7f0b0052;
+        public static final int Base_Widget_AppCompat_ActionButton_CloseMode=0x7f0b0053;
+        public static final int Base_Widget_AppCompat_ActionButton_Overflow=0x7f0b0054;
+        public static final int Base_Widget_AppCompat_ActionMode=0x7f0b0073;
+        public static final int Base_Widget_AppCompat_ActivityChooserView=0x7f0b0055;
+        public static final int Base_Widget_AppCompat_AutoCompleteTextView=0x7f0b0056;
+        public static final int Base_Widget_AppCompat_CompoundButton_Switch=0x7f0b0074;
+        public static final int Base_Widget_AppCompat_DrawerArrowToggle=0x7f0b0075;
+        public static final int Base_Widget_AppCompat_DropDownItem_Spinner=0x7f0b0057;
+        public static final int Base_Widget_AppCompat_EditText=0x7f0b0076;
+        public static final int Base_Widget_AppCompat_Light_ActionBar=0x7f0b0077;
+        public static final int Base_Widget_AppCompat_Light_ActionBar_Solid=0x7f0b0078;
+        public static final int Base_Widget_AppCompat_Light_ActionBar_TabBar=0x7f0b0079;
+        public static final int Base_Widget_AppCompat_Light_ActionBar_TabText=0x7f0b0058;
+        public static final int Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse=0x7f0b0059;
+        public static final int Base_Widget_AppCompat_Light_ActionBar_TabView=0x7f0b005a;
+        public static final int Base_Widget_AppCompat_Light_ActivityChooserView=0x7f0b007a;
+        public static final int Base_Widget_AppCompat_Light_AutoCompleteTextView=0x7f0b005b;
+        public static final int Base_Widget_AppCompat_Light_PopupMenu=0x7f0b005c;
+        public static final int Base_Widget_AppCompat_Light_PopupMenu_Overflow=0x7f0b005d;
+        public static final int Base_Widget_AppCompat_ListPopupWindow=0x7f0b005e;
+        public static final int Base_Widget_AppCompat_ListView_DropDown=0x7f0b005f;
+        public static final int Base_Widget_AppCompat_ListView_Menu=0x7f0b0060;
+        public static final int Base_Widget_AppCompat_PopupMenu=0x7f0b0061;
+        public static final int Base_Widget_AppCompat_PopupMenu_Overflow=0x7f0b0062;
+        public static final int Base_Widget_AppCompat_PopupWindow=0x7f0b007b;
+        public static final int Base_Widget_AppCompat_ProgressBar=0x7f0b0010;
+        public static final int Base_Widget_AppCompat_ProgressBar_Horizontal=0x7f0b0011;
+        public static final int Base_Widget_AppCompat_SearchView=0x7f0b007c;
+        public static final int Base_Widget_AppCompat_Spinner=0x7f0b0012;
+        public static final int Base_Widget_AppCompat_Spinner_DropDown_ActionBar=0x7f0b0063;
+        public static final int Base_Widget_AppCompat_Toolbar=0x7f0b007d;
+        public static final int Base_Widget_AppCompat_Toolbar_Button_Navigation=0x7f0b0064;
+        public static final int CardView=0x7f0b007e;
+        public static final int CardView_Dark=0x7f0b007f;
+        public static final int CardView_Light=0x7f0b0080;
+        public static final int Material=0x7f0b0081;
+        public static final int Material_App=0x7f0b0082;
+        public static final int Material_App_Dialog=0x7f0b0083;
+        public static final int Material_App_Dialog_DatePicker=0x7f0b0084;
+        public static final int Material_App_Dialog_DatePicker_Light=0x7f0b0085;
+        public static final int Material_App_Dialog_Light=0x7f0b0086;
+        public static final int Material_App_Dialog_Simple=0x7f0b0087;
+        public static final int Material_App_Dialog_Simple_Light=0x7f0b0088;
+        public static final int Material_App_Dialog_TimePicker=0x7f0b0089;
+        public static final int Material_App_Dialog_TimePicker_Light=0x7f0b008a;
+        public static final int Material_Drawable=0x7f0b008b;
+        public static final int Material_Drawable_CheckBox=0x7f0b008c;
+        public static final int Material_Drawable_CircularProgress=0x7f0b008d;
+        public static final int Material_Drawable_CircularProgress_Determinate=0x7f0b008e;
+        public static final int Material_Drawable_LinearProgress=0x7f0b008f;
+        public static final int Material_Drawable_LinearProgress_Buffer=0x7f0b0090;
+        public static final int Material_Drawable_LinearProgress_Determinate=0x7f0b0091;
+        public static final int Material_Drawable_LinearProgress_Query=0x7f0b0092;
+        public static final int Material_Drawable_NavigationDrawer=0x7f0b0093;
+        public static final int Material_Drawable_NavigationDrawer_Light=0x7f0b0094;
+        public static final int Material_Drawable_NavigationDrawerIcon=0x7f0b0095;
+        public static final int Material_Drawable_NavigationDrawerIcon_Light=0x7f0b0096;
+        public static final int Material_Drawable_RadioButton=0x7f0b0097;
+        public static final int Material_Drawable_Ripple=0x7f0b0098;
+        public static final int Material_Drawable_Ripple_Touch=0x7f0b0099;
+        public static final int Material_Drawable_Ripple_Touch_Light=0x7f0b009a;
+        public static final int Material_Drawable_Ripple_Touch_MatchView=0x7f0b009b;
+        public static final int Material_Drawable_Ripple_Touch_MatchView_Light=0x7f0b009c;
+        public static final int Material_Drawable_Ripple_Wave=0x7f0b009d;
+        public static final int Material_Drawable_Ripple_Wave_Light=0x7f0b009e;
+        public static final int Material_TextAppearance=0x7f0b009f;
+        public static final int Material_TextAppearance_SimpleDialog=0x7f0b00a0;
+        public static final int Material_TextAppearance_SimpleDialog_Light=0x7f0b00a1;
+        public static final int Material_Widget=0x7f0b00a2;
+        public static final int Material_Widget_DatePicker=0x7f0b00a3;
+        public static final int Material_Widget_DatePicker_Light=0x7f0b00a4;
+        public static final int Material_Widget_EditText=0x7f0b00a5;
+        public static final int Material_Widget_EditText_Light=0x7f0b00a6;
+        public static final int Material_Widget_FloatingActionButton=0x7f0b00a7;
+        public static final int Material_Widget_FloatingActionButton_Light=0x7f0b00a8;
+        public static final int Material_Widget_FloatingActionButton_Mini=0x7f0b00a9;
+        public static final int Material_Widget_FloatingActionButton_Mini_Light=0x7f0b00aa;
+        public static final int Material_Widget_ProgressView=0x7f0b00ab;
+        public static final int Material_Widget_ProgressView_Circular=0x7f0b00ac;
+        public static final int Material_Widget_ProgressView_Circular_Determinate=0x7f0b00ad;
+        public static final int Material_Widget_ProgressView_Linear=0x7f0b00ae;
+        public static final int Material_Widget_ProgressView_Linear_Buffer=0x7f0b00af;
+        public static final int Material_Widget_ProgressView_Linear_Determinate=0x7f0b00b0;
+        public static final int Material_Widget_ProgressView_Linear_Query=0x7f0b00b1;
+        public static final int Material_Widget_Slider=0x7f0b00b2;
+        public static final int Material_Widget_Slider_Discrete=0x7f0b00b3;
+        public static final int Material_Widget_SnackBar=0x7f0b00b4;
+        public static final int Material_Widget_SnackBar_Mobile=0x7f0b00b5;
+        public static final int Material_Widget_SnackBar_Mobile_MultiLine=0x7f0b00b6;
+        public static final int Material_Widget_SnackBar_Tablet=0x7f0b00b7;
+        public static final int Material_Widget_SnackBar_Tablet_MultiLine=0x7f0b00b8;
+        public static final int Material_Widget_Spinner=0x7f0b00b9;
+        public static final int Material_Widget_Spinner_Light=0x7f0b00ba;
+        public static final int Material_Widget_Switch=0x7f0b00bb;
+        public static final int Material_Widget_TabPageIndicator=0x7f0b00bc;
+        public static final int Material_Widget_TabPageIndicator_Fixed=0x7f0b00bd;
+        public static final int Material_Widget_TabPageIndicator_Fixed_Light=0x7f0b00be;
+        public static final int Material_Widget_TabPageIndicator_Light=0x7f0b00bf;
+        public static final int Material_Widget_TimePicker=0x7f0b00c0;
+        public static final int Material_Widget_TimePicker_Light=0x7f0b00c1;
+        public static final int Material_Widget_YearPicker=0x7f0b00c2;
+        public static final int Material_Widget_YearPicker_Light=0x7f0b00c3;
+        public static final int Platform_AppCompat=0x7f0b0013;
+        public static final int Platform_AppCompat_Dialog=0x7f0b0014;
+        public static final int Platform_AppCompat_Light=0x7f0b0015;
+        public static final int Platform_AppCompat_Light_Dialog=0x7f0b0016;
+        public static final int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem=0x7f0b001b;
+        public static final int RtlOverlay_Widget_AppCompat_ActionButton_CloseMode=0x7f0b001c;
+        public static final int RtlOverlay_Widget_AppCompat_ActionButton_Overflow=0x7f0b001d;
+        public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem=0x7f0b001e;
+        public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup=0x7f0b001f;
+        public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text=0x7f0b0020;
+        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown=0x7f0b0021;
+        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1=0x7f0b0022;
+        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2=0x7f0b0023;
+        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Query=0x7f0b0024;
+        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Text=0x7f0b0025;
+        public static final int RtlOverlay_Widget_AppCompat_SearchView_MagIcon=0x7f0b0026;
+        public static final int TextAppearance_AppCompat=0x7f0b00c4;
+        public static final int TextAppearance_AppCompat_Body1=0x7f0b00c5;
+        public static final int TextAppearance_AppCompat_Body2=0x7f0b00c6;
+        public static final int TextAppearance_AppCompat_Button=0x7f0b00c7;
+        public static final int TextAppearance_AppCompat_Caption=0x7f0b00c8;
+        public static final int TextAppearance_AppCompat_Display1=0x7f0b00c9;
+        public static final int TextAppearance_AppCompat_Display2=0x7f0b00ca;
+        public static final int TextAppearance_AppCompat_Display3=0x7f0b00cb;
+        public static final int TextAppearance_AppCompat_Display4=0x7f0b00cc;
+        public static final int TextAppearance_AppCompat_Headline=0x7f0b00cd;
+        public static final int TextAppearance_AppCompat_Inverse=0x7f0b00ce;
+        public static final int TextAppearance_AppCompat_Large=0x7f0b00cf;
+        public static final int TextAppearance_AppCompat_Large_Inverse=0x7f0b00d0;
+        public static final int TextAppearance_AppCompat_Light_SearchResult_Subtitle=0x7f0b00d1;
+        public static final int TextAppearance_AppCompat_Light_SearchResult_Title=0x7f0b00d2;
+        public static final int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large=0x7f0b00d3;
+        public static final int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small=0x7f0b00d4;
+        public static final int TextAppearance_AppCompat_Medium=0x7f0b00d5;
+        public static final int TextAppearance_AppCompat_Medium_Inverse=0x7f0b00d6;
+        public static final int TextAppearance_AppCompat_Menu=0x7f0b00d7;
+        public static final int TextAppearance_AppCompat_SearchResult_Subtitle=0x7f0b00d8;
+        public static final int TextAppearance_AppCompat_SearchResult_Title=0x7f0b00d9;
+        public static final int TextAppearance_AppCompat_Small=0x7f0b00da;
+        public static final int TextAppearance_AppCompat_Small_Inverse=0x7f0b00db;
+        public static final int TextAppearance_AppCompat_Subhead=0x7f0b00dc;
+        public static final int TextAppearance_AppCompat_Subhead_Inverse=0x7f0b00dd;
+        public static final int TextAppearance_AppCompat_Title=0x7f0b00de;
+        public static final int TextAppearance_AppCompat_Title_Inverse=0x7f0b00df;
+        public static final int TextAppearance_AppCompat_Widget_ActionBar_Menu=0x7f0b00e0;
+        public static final int TextAppearance_AppCompat_Widget_ActionBar_Subtitle=0x7f0b00e1;
+        public static final int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse=0x7f0b00e2;
+        public static final int TextAppearance_AppCompat_Widget_ActionBar_Title=0x7f0b00e3;
+        public static final int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse=0x7f0b00e4;
+        public static final int TextAppearance_AppCompat_Widget_ActionMode_Subtitle=0x7f0b00e5;
+        public static final int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse=0x7f0b00e6;
+        public static final int TextAppearance_AppCompat_Widget_ActionMode_Title=0x7f0b00e7;
+        public static final int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse=0x7f0b00e8;
+        public static final int TextAppearance_AppCompat_Widget_DropDownItem=0x7f0b00e9;
+        public static final int TextAppearance_AppCompat_Widget_PopupMenu_Large=0x7f0b00ea;
+        public static final int TextAppearance_AppCompat_Widget_PopupMenu_Small=0x7f0b00eb;
+        public static final int TextAppearance_AppCompat_Widget_Switch=0x7f0b00ec;
+        public static final int TextAppearance_Widget_AppCompat_ExpandedMenu_Item=0x7f0b00ed;
+        public static final int TextAppearance_Widget_AppCompat_Toolbar_Subtitle=0x7f0b00ee;
+        public static final int TextAppearance_Widget_AppCompat_Toolbar_Title=0x7f0b00ef;
+        public static final int Theme_AppCompat=0x7f0b00f0;
+        public static final int Theme_AppCompat_CompactMenu=0x7f0b00f1;
+        public static final int Theme_AppCompat_Dialog=0x7f0b00f2;
+        public static final int Theme_AppCompat_DialogWhenLarge=0x7f0b00f3;
+        public static final int Theme_AppCompat_Light=0x7f0b00f4;
+        public static final int Theme_AppCompat_Light_DarkActionBar=0x7f0b00f5;
+        public static final int Theme_AppCompat_Light_Dialog=0x7f0b00f6;
+        public static final int Theme_AppCompat_Light_DialogWhenLarge=0x7f0b00f7;
+        public static final int Theme_AppCompat_Light_NoActionBar=0x7f0b00f8;
+        public static final int Theme_AppCompat_NoActionBar=0x7f0b00f9;
+        public static final int ThemeOverlay_AppCompat=0x7f0b00fa;
+        public static final int ThemeOverlay_AppCompat_ActionBar=0x7f0b00fb;
+        public static final int ThemeOverlay_AppCompat_Dark=0x7f0b00fc;
+        public static final int ThemeOverlay_AppCompat_Dark_ActionBar=0x7f0b00fd;
+        public static final int ThemeOverlay_AppCompat_Light=0x7f0b00fe;
+        public static final int Widget_AppCompat_ActionBar=0x7f0b00ff;
+        public static final int Widget_AppCompat_ActionBar_Solid=0x7f0b0100;
+        public static final int Widget_AppCompat_ActionBar_TabBar=0x7f0b0101;
+        public static final int Widget_AppCompat_ActionBar_TabText=0x7f0b0102;
+        public static final int Widget_AppCompat_ActionBar_TabView=0x7f0b0103;
+        public static final int Widget_AppCompat_ActionButton=0x7f0b0104;
+        public static final int Widget_AppCompat_ActionButton_CloseMode=0x7f0b0105;
+        public static final int Widget_AppCompat_ActionButton_Overflow=0x7f0b0106;
+        public static final int Widget_AppCompat_ActionMode=0x7f0b0107;
+        public static final int Widget_AppCompat_ActivityChooserView=0x7f0b0108;
+        public static final int Widget_AppCompat_AutoCompleteTextView=0x7f0b0109;
+        public static final int Widget_AppCompat_CompoundButton_Switch=0x7f0b010a;
+        public static final int Widget_AppCompat_DrawerArrowToggle=0x7f0b010b;
+        public static final int Widget_AppCompat_DropDownItem_Spinner=0x7f0b010c;
+        public static final int Widget_AppCompat_EditText=0x7f0b010d;
+        public static final int Widget_AppCompat_Light_ActionBar=0x7f0b010e;
+        public static final int Widget_AppCompat_Light_ActionBar_Solid=0x7f0b010f;
+        public static final int Widget_AppCompat_Light_ActionBar_Solid_Inverse=0x7f0b0110;
+        public static final int Widget_AppCompat_Light_ActionBar_TabBar=0x7f0b0111;
+        public static final int Widget_AppCompat_Light_ActionBar_TabBar_Inverse=0x7f0b0112;
+        public static final int Widget_AppCompat_Light_ActionBar_TabText=0x7f0b0113;
+        public static final int Widget_AppCompat_Light_ActionBar_TabText_Inverse=0x7f0b0114;
+        public static final int Widget_AppCompat_Light_ActionBar_TabView=0x7f0b0115;
+        public static final int Widget_AppCompat_Light_ActionBar_TabView_Inverse=0x7f0b0116;
+        public static final int Widget_AppCompat_Light_ActionButton=0x7f0b0117;
+        public static final int Widget_AppCompat_Light_ActionButton_CloseMode=0x7f0b0118;
+        public static final int Widget_AppCompat_Light_ActionButton_Overflow=0x7f0b0119;
+        public static final int Widget_AppCompat_Light_ActionMode_Inverse=0x7f0b011a;
+        public static final int Widget_AppCompat_Light_ActivityChooserView=0x7f0b011b;
+        public static final int Widget_AppCompat_Light_AutoCompleteTextView=0x7f0b011c;
+        public static final int Widget_AppCompat_Light_DropDownItem_Spinner=0x7f0b011d;
+        public static final int Widget_AppCompat_Light_ListPopupWindow=0x7f0b011e;
+        public static final int Widget_AppCompat_Light_ListView_DropDown=0x7f0b011f;
+        public static final int Widget_AppCompat_Light_PopupMenu=0x7f0b0120;
+        public static final int Widget_AppCompat_Light_PopupMenu_Overflow=0x7f0b0121;
+        public static final int Widget_AppCompat_Light_SearchView=0x7f0b0122;
+        public static final int Widget_AppCompat_Light_Spinner_DropDown_ActionBar=0x7f0b0123;
+        public static final int Widget_AppCompat_ListPopupWindow=0x7f0b0124;
+        public static final int Widget_AppCompat_ListView_DropDown=0x7f0b0125;
+        public static final int Widget_AppCompat_ListView_Menu=0x7f0b0126;
+        public static final int Widget_AppCompat_PopupMenu=0x7f0b0127;
+        public static final int Widget_AppCompat_PopupMenu_Overflow=0x7f0b0128;
+        public static final int Widget_AppCompat_PopupWindow=0x7f0b0129;
+        public static final int Widget_AppCompat_ProgressBar=0x7f0b012a;
+        public static final int Widget_AppCompat_ProgressBar_Horizontal=0x7f0b012b;
+        public static final int Widget_AppCompat_SearchView=0x7f0b012c;
+        public static final int Widget_AppCompat_Spinner=0x7f0b012d;
+        public static final int Widget_AppCompat_Spinner_DropDown=0x7f0b012e;
+        public static final int Widget_AppCompat_Spinner_DropDown_ActionBar=0x7f0b012f;
+        public static final int Widget_AppCompat_Toolbar=0x7f0b0130;
+        public static final int Widget_AppCompat_Toolbar_Button_Navigation=0x7f0b0131;
+    }
+    public static final class xml {
+        public static final int nav_states=0x7f060000;
     }
     public static final class styleable {
         /** Attributes that can be used with a ActionBar.
@@ -2057,13 +4034,13 @@ containing a value of this type.
            @see #ActionBar_titleTextStyle
          */
         public static final int[] ActionBar = {
-            0x7f010001, 0x7f010003, 0x7f010004, 0x7f010005,
-            0x7f010006, 0x7f010007, 0x7f010008, 0x7f010009,
-            0x7f01000a, 0x7f01000b, 0x7f01000c, 0x7f01000d,
-            0x7f01000e, 0x7f01000f, 0x7f010010, 0x7f010011,
-            0x7f010012, 0x7f010013, 0x7f010014, 0x7f010015,
-            0x7f010016, 0x7f010017, 0x7f010018, 0x7f010019,
-            0x7f01001a, 0x7f01001b, 0x7f01007d
+            0x7f010012, 0x7f010019, 0x7f01001a, 0x7f01001b,
+            0x7f01001c, 0x7f01001d, 0x7f01001e, 0x7f01001f,
+            0x7f010020, 0x7f010021, 0x7f010022, 0x7f010023,
+            0x7f010024, 0x7f010025, 0x7f010026, 0x7f010027,
+            0x7f010028, 0x7f010029, 0x7f01002a, 0x7f01002b,
+            0x7f01002c, 0x7f01002d, 0x7f01002e, 0x7f01002f,
+            0x7f010030, 0x7f010031, 0x7f01018c
         };
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#background}
@@ -2483,8 +4460,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            @see #ActionMode_titleTextStyle
          */
         public static final int[] ActionMode = {
-            0x7f010001, 0x7f010007, 0x7f010008, 0x7f01000c,
-            0x7f01000e, 0x7f01001c
+            0x7f010012, 0x7f01001d, 0x7f01001e, 0x7f010022,
+            0x7f010024, 0x7f010032
         };
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#background}
@@ -2567,7 +4544,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            @see #ActivityChooserView_initialActivityCount
          */
         public static final int[] ActivityChooserView = {
-            0x7f01001d, 0x7f01001e
+            0x7f010033, 0x7f010034
         };
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#expandActivityOverflowButtonDrawable}
@@ -2593,110 +4570,660 @@ containing a value of this type.
           @attr name com.example.riccardo.mashape:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
-        /** Attributes that can be used with a AlertDialog.
+        /** Attributes that can be used with a CardView.
            <p>Includes the following attributes:</p>
            <table>
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.example.riccardo.mashape:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout com.example.riccardo.mashape:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout com.example.riccardo.mashape:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.example.riccardo.mashape:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.example.riccardo.mashape:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardBackgroundColor com.example.riccardo.mashape:cardBackgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardCornerRadius com.example.riccardo.mashape:cardCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardElevation com.example.riccardo.mashape:cardElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardMaxElevation com.example.riccardo.mashape:cardMaxElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.example.riccardo.mashape:cardPreventCornerOverlap}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardUseCompatPadding com.example.riccardo.mashape:cardUseCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPadding com.example.riccardo.mashape:contentPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingBottom com.example.riccardo.mashape:contentPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingLeft com.example.riccardo.mashape:contentPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingRight com.example.riccardo.mashape:contentPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingTop com.example.riccardo.mashape:contentPaddingTop}</code></td><td></td></tr>
            </table>
-           @see #AlertDialog_android_layout
-           @see #AlertDialog_buttonPanelSideLayout
-           @see #AlertDialog_listItemLayout
-           @see #AlertDialog_listLayout
-           @see #AlertDialog_multiChoiceItemLayout
-           @see #AlertDialog_singleChoiceItemLayout
+           @see #CardView_cardBackgroundColor
+           @see #CardView_cardCornerRadius
+           @see #CardView_cardElevation
+           @see #CardView_cardMaxElevation
+           @see #CardView_cardPreventCornerOverlap
+           @see #CardView_cardUseCompatPadding
+           @see #CardView_contentPadding
+           @see #CardView_contentPaddingBottom
+           @see #CardView_contentPaddingLeft
+           @see #CardView_contentPaddingRight
+           @see #CardView_contentPaddingTop
          */
-        public static final int[] AlertDialog = {
-            0x010100f2, 0x7f01001f, 0x7f010020, 0x7f010021,
-            0x7f010022, 0x7f010023
+        public static final int[] CardView = {
+            0x7f010035, 0x7f010036, 0x7f010037, 0x7f010038,
+            0x7f010039, 0x7f01003a, 0x7f01003b, 0x7f01003c,
+            0x7f01003d, 0x7f01003e, 0x7f01003f
         };
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#layout}
-          attribute's value can be found in the {@link #AlertDialog} array.
-          @attr name android:layout
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#cardBackgroundColor}
+          attribute's value can be found in the {@link #CardView} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:cardBackgroundColor
         */
-        public static final int AlertDialog_android_layout = 0;
+        public static final int CardView_cardBackgroundColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#buttonPanelSideLayout}
-          attribute's value can be found in the {@link #AlertDialog} array.
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#cardCornerRadius}
+          attribute's value can be found in the {@link #CardView} array.
 
 
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.riccardo.mashape:buttonPanelSideLayout
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:cardCornerRadius
         */
-        public static final int AlertDialog_buttonPanelSideLayout = 1;
+        public static final int CardView_cardCornerRadius = 1;
         /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#listItemLayout}
-          attribute's value can be found in the {@link #AlertDialog} array.
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#cardElevation}
+          attribute's value can be found in the {@link #CardView} array.
 
 
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.riccardo.mashape:listItemLayout
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:cardElevation
         */
-        public static final int AlertDialog_listItemLayout = 5;
+        public static final int CardView_cardElevation = 2;
         /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#listLayout}
-          attribute's value can be found in the {@link #AlertDialog} array.
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#cardMaxElevation}
+          attribute's value can be found in the {@link #CardView} array.
 
 
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.riccardo.mashape:listLayout
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:cardMaxElevation
         */
-        public static final int AlertDialog_listLayout = 2;
+        public static final int CardView_cardMaxElevation = 3;
         /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#multiChoiceItemLayout}
-          attribute's value can be found in the {@link #AlertDialog} array.
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#cardPreventCornerOverlap}
+          attribute's value can be found in the {@link #CardView} array.
 
 
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.riccardo.mashape:multiChoiceItemLayout
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:cardPreventCornerOverlap
         */
-        public static final int AlertDialog_multiChoiceItemLayout = 3;
+        public static final int CardView_cardPreventCornerOverlap = 5;
         /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#singleChoiceItemLayout}
-          attribute's value can be found in the {@link #AlertDialog} array.
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#cardUseCompatPadding}
+          attribute's value can be found in the {@link #CardView} array.
 
 
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.riccardo.mashape:singleChoiceItemLayout
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:cardUseCompatPadding
         */
-        public static final int AlertDialog_singleChoiceItemLayout = 4;
-        /** Attributes that can be used with a AppCompatTextView.
+        public static final int CardView_cardUseCompatPadding = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#contentPadding}
+          attribute's value can be found in the {@link #CardView} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:contentPadding
+        */
+        public static final int CardView_contentPadding = 6;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#contentPaddingBottom}
+          attribute's value can be found in the {@link #CardView} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:contentPaddingBottom
+        */
+        public static final int CardView_contentPaddingBottom = 10;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#contentPaddingLeft}
+          attribute's value can be found in the {@link #CardView} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:contentPaddingLeft
+        */
+        public static final int CardView_contentPaddingLeft = 7;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#contentPaddingRight}
+          attribute's value can be found in the {@link #CardView} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:contentPaddingRight
+        */
+        public static final int CardView_contentPaddingRight = 8;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#contentPaddingTop}
+          attribute's value can be found in the {@link #CardView} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:contentPaddingTop
+        */
+        public static final int CardView_contentPaddingTop = 9;
+        /** Attributes that can be used with a CheckBoxDrawable.
            <p>Includes the following attributes:</p>
            <table>
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.example.riccardo.mashape:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #CheckBoxDrawable_cbd_animDuration com.example.riccardo.mashape:cbd_animDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CheckBoxDrawable_cbd_boxSize com.example.riccardo.mashape:cbd_boxSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #CheckBoxDrawable_cbd_cornerRadius com.example.riccardo.mashape:cbd_cornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #CheckBoxDrawable_cbd_height com.example.riccardo.mashape:cbd_height}</code></td><td></td></tr>
+           <tr><td><code>{@link #CheckBoxDrawable_cbd_strokeColor com.example.riccardo.mashape:cbd_strokeColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CheckBoxDrawable_cbd_strokeSize com.example.riccardo.mashape:cbd_strokeSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #CheckBoxDrawable_cbd_tickColor com.example.riccardo.mashape:cbd_tickColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CheckBoxDrawable_cbd_width com.example.riccardo.mashape:cbd_width}</code></td><td></td></tr>
            </table>
-           @see #AppCompatTextView_android_textAppearance
-           @see #AppCompatTextView_textAllCaps
+           @see #CheckBoxDrawable_cbd_animDuration
+           @see #CheckBoxDrawable_cbd_boxSize
+           @see #CheckBoxDrawable_cbd_cornerRadius
+           @see #CheckBoxDrawable_cbd_height
+           @see #CheckBoxDrawable_cbd_strokeColor
+           @see #CheckBoxDrawable_cbd_strokeSize
+           @see #CheckBoxDrawable_cbd_tickColor
+           @see #CheckBoxDrawable_cbd_width
          */
-        public static final int[] AppCompatTextView = {
-            0x01010034, 0x7f010024
+        public static final int[] CheckBoxDrawable = {
+            0x7f010040, 0x7f010041, 0x7f010042, 0x7f010043,
+            0x7f010044, 0x7f010045, 0x7f010046, 0x7f010047
         };
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#textAppearance}
-          attribute's value can be found in the {@link #AppCompatTextView} array.
-          @attr name android:textAppearance
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#cbd_animDuration}
+          attribute's value can be found in the {@link #CheckBoxDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:cbd_animDuration
         */
-        public static final int AppCompatTextView_android_textAppearance = 0;
+        public static final int CheckBoxDrawable_cbd_animDuration = 7;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#cbd_boxSize}
+          attribute's value can be found in the {@link #CheckBoxDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:cbd_boxSize
+        */
+        public static final int CheckBoxDrawable_cbd_boxSize = 2;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#cbd_cornerRadius}
+          attribute's value can be found in the {@link #CheckBoxDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:cbd_cornerRadius
+        */
+        public static final int CheckBoxDrawable_cbd_cornerRadius = 3;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#cbd_height}
+          attribute's value can be found in the {@link #CheckBoxDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:cbd_height
+        */
+        public static final int CheckBoxDrawable_cbd_height = 1;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#cbd_strokeColor}
+          attribute's value can be found in the {@link #CheckBoxDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:cbd_strokeColor
+        */
+        public static final int CheckBoxDrawable_cbd_strokeColor = 5;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#cbd_strokeSize}
+          attribute's value can be found in the {@link #CheckBoxDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:cbd_strokeSize
+        */
+        public static final int CheckBoxDrawable_cbd_strokeSize = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#cbd_tickColor}
+          attribute's value can be found in the {@link #CheckBoxDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:cbd_tickColor
+        */
+        public static final int CheckBoxDrawable_cbd_tickColor = 6;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#cbd_width}
+          attribute's value can be found in the {@link #CheckBoxDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:cbd_width
+        */
+        public static final int CheckBoxDrawable_cbd_width = 0;
+        /** Attributes that can be used with a CircularProgressDrawable.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_inAnimDuration com.example.riccardo.mashape:cpd_inAnimDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_inStepColors com.example.riccardo.mashape:cpd_inStepColors}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_inStepPercent com.example.riccardo.mashape:cpd_inStepPercent}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_initialAngle com.example.riccardo.mashape:cpd_initialAngle}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_keepDuration com.example.riccardo.mashape:cpd_keepDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_maxSweepAngle com.example.riccardo.mashape:cpd_maxSweepAngle}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_minSweepAngle com.example.riccardo.mashape:cpd_minSweepAngle}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_outAnimDuration com.example.riccardo.mashape:cpd_outAnimDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_padding com.example.riccardo.mashape:cpd_padding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_reverse com.example.riccardo.mashape:cpd_reverse}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_rotateDuration com.example.riccardo.mashape:cpd_rotateDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_strokeColor com.example.riccardo.mashape:cpd_strokeColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_strokeColors com.example.riccardo.mashape:cpd_strokeColors}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_strokeSecondaryColor com.example.riccardo.mashape:cpd_strokeSecondaryColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_strokeSize com.example.riccardo.mashape:cpd_strokeSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_transformDuration com.example.riccardo.mashape:cpd_transformDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_transformInterpolator com.example.riccardo.mashape:cpd_transformInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_pv_progress com.example.riccardo.mashape:pv_progress}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_pv_progressMode com.example.riccardo.mashape:pv_progressMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_pv_secondaryProgress com.example.riccardo.mashape:pv_secondaryProgress}</code></td><td></td></tr>
+           </table>
+           @see #CircularProgressDrawable_cpd_inAnimDuration
+           @see #CircularProgressDrawable_cpd_inStepColors
+           @see #CircularProgressDrawable_cpd_inStepPercent
+           @see #CircularProgressDrawable_cpd_initialAngle
+           @see #CircularProgressDrawable_cpd_keepDuration
+           @see #CircularProgressDrawable_cpd_maxSweepAngle
+           @see #CircularProgressDrawable_cpd_minSweepAngle
+           @see #CircularProgressDrawable_cpd_outAnimDuration
+           @see #CircularProgressDrawable_cpd_padding
+           @see #CircularProgressDrawable_cpd_reverse
+           @see #CircularProgressDrawable_cpd_rotateDuration
+           @see #CircularProgressDrawable_cpd_strokeColor
+           @see #CircularProgressDrawable_cpd_strokeColors
+           @see #CircularProgressDrawable_cpd_strokeSecondaryColor
+           @see #CircularProgressDrawable_cpd_strokeSize
+           @see #CircularProgressDrawable_cpd_transformDuration
+           @see #CircularProgressDrawable_cpd_transformInterpolator
+           @see #CircularProgressDrawable_pv_progress
+           @see #CircularProgressDrawable_pv_progressMode
+           @see #CircularProgressDrawable_pv_secondaryProgress
+         */
+        public static final int[] CircularProgressDrawable = {
+            0x7f010014, 0x7f010015, 0x7f010016, 0x7f010048,
+            0x7f010049, 0x7f01004a, 0x7f01004b, 0x7f01004c,
+            0x7f01004d, 0x7f01004e, 0x7f01004f, 0x7f010050,
+            0x7f010051, 0x7f010052, 0x7f010053, 0x7f010054,
+            0x7f010055, 0x7f010056, 0x7f010057, 0x7f010058
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#cpd_inAnimDuration}
+          attribute's value can be found in the {@link #CircularProgressDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:cpd_inAnimDuration
+        */
+        public static final int CircularProgressDrawable_cpd_inAnimDuration = 16;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#cpd_inStepColors}
+          attribute's value can be found in the {@link #CircularProgressDrawable} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:cpd_inStepColors
+        */
+        public static final int CircularProgressDrawable_cpd_inStepColors = 18;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#cpd_inStepPercent}
+          attribute's value can be found in the {@link #CircularProgressDrawable} array.
+
+
+          <p>Must be a floating point value, such as "<code>1.2</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:cpd_inStepPercent
+        */
+        public static final int CircularProgressDrawable_cpd_inStepPercent = 19;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#cpd_initialAngle}
+          attribute's value can be found in the {@link #CircularProgressDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:cpd_initialAngle
+        */
+        public static final int CircularProgressDrawable_cpd_initialAngle = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#cpd_keepDuration}
+          attribute's value can be found in the {@link #CircularProgressDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:cpd_keepDuration
+        */
+        public static final int CircularProgressDrawable_cpd_keepDuration = 14;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#cpd_maxSweepAngle}
+          attribute's value can be found in the {@link #CircularProgressDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:cpd_maxSweepAngle
+        */
+        public static final int CircularProgressDrawable_cpd_maxSweepAngle = 5;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#cpd_minSweepAngle}
+          attribute's value can be found in the {@link #CircularProgressDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:cpd_minSweepAngle
+        */
+        public static final int CircularProgressDrawable_cpd_minSweepAngle = 6;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#cpd_outAnimDuration}
+          attribute's value can be found in the {@link #CircularProgressDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:cpd_outAnimDuration
+        */
+        public static final int CircularProgressDrawable_cpd_outAnimDuration = 17;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#cpd_padding}
+          attribute's value can be found in the {@link #CircularProgressDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:cpd_padding
+        */
+        public static final int CircularProgressDrawable_cpd_padding = 3;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#cpd_reverse}
+          attribute's value can be found in the {@link #CircularProgressDrawable} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:cpd_reverse
+        */
+        public static final int CircularProgressDrawable_cpd_reverse = 11;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#cpd_rotateDuration}
+          attribute's value can be found in the {@link #CircularProgressDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:cpd_rotateDuration
+        */
+        public static final int CircularProgressDrawable_cpd_rotateDuration = 12;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#cpd_strokeColor}
+          attribute's value can be found in the {@link #CircularProgressDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:cpd_strokeColor
+        */
+        public static final int CircularProgressDrawable_cpd_strokeColor = 8;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#cpd_strokeColors}
+          attribute's value can be found in the {@link #CircularProgressDrawable} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:cpd_strokeColors
+        */
+        public static final int CircularProgressDrawable_cpd_strokeColors = 10;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#cpd_strokeSecondaryColor}
+          attribute's value can be found in the {@link #CircularProgressDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:cpd_strokeSecondaryColor
+        */
+        public static final int CircularProgressDrawable_cpd_strokeSecondaryColor = 9;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#cpd_strokeSize}
+          attribute's value can be found in the {@link #CircularProgressDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:cpd_strokeSize
+        */
+        public static final int CircularProgressDrawable_cpd_strokeSize = 7;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#cpd_transformDuration}
+          attribute's value can be found in the {@link #CircularProgressDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:cpd_transformDuration
+        */
+        public static final int CircularProgressDrawable_cpd_transformDuration = 13;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#cpd_transformInterpolator}
+          attribute's value can be found in the {@link #CircularProgressDrawable} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:cpd_transformInterpolator
+        */
+        public static final int CircularProgressDrawable_cpd_transformInterpolator = 15;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#pv_progress}
+          attribute's value can be found in the {@link #CircularProgressDrawable} array.
+
+
+          <p>Must be a floating point value, such as "<code>1.2</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:pv_progress
+        */
+        public static final int CircularProgressDrawable_pv_progress = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#pv_progressMode}
+          attribute's value can be found in the {@link #CircularProgressDrawable} array.
+
+
+          <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>determinate</code></td><td>0x00000000</td><td></td></tr>
+<tr><td><code>indeterminate</code></td><td>0x00000001</td><td></td></tr>
+<tr><td><code>buffer</code></td><td>0x00000002</td><td></td></tr>
+<tr><td><code>query</code></td><td>0x00000003</td><td></td></tr>
+</table>
+          @attr name com.example.riccardo.mashape:pv_progressMode
+        */
+        public static final int CircularProgressDrawable_pv_progressMode = 1;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#pv_secondaryProgress}
+          attribute's value can be found in the {@link #CircularProgressDrawable} array.
+
+
+          <p>Must be a floating point value, such as "<code>1.2</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:pv_secondaryProgress
+        */
+        public static final int CircularProgressDrawable_pv_secondaryProgress = 2;
+        /** Attributes that can be used with a CompatTextView.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #CompatTextView_textAllCaps com.example.riccardo.mashape:textAllCaps}</code></td><td></td></tr>
+           </table>
+           @see #CompatTextView_textAllCaps
+         */
+        public static final int[] CompatTextView = {
+            0x7f010059
+        };
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#textAllCaps}
-          attribute's value can be found in the {@link #AppCompatTextView} array.
+          attribute's value can be found in the {@link #CompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
@@ -2704,7 +5231,930 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
           @attr name com.example.riccardo.mashape:textAllCaps
         */
-        public static final int AppCompatTextView_textAllCaps = 1;
+        public static final int CompatTextView_textAllCaps = 0;
+        /** Attributes that can be used with a DatePicker.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #DatePicker_android_padding android:padding}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_android_paddingBottom android:paddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_android_paddingLeft android:paddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_android_paddingRight android:paddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_android_paddingTop android:paddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_animDuration com.example.riccardo.mashape:dp_animDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_day com.example.riccardo.mashape:dp_day}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_dayMax com.example.riccardo.mashape:dp_dayMax}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_dayMin com.example.riccardo.mashape:dp_dayMin}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_dayTextSize com.example.riccardo.mashape:dp_dayTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_fontFamily com.example.riccardo.mashape:dp_fontFamily}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_inInterpolator com.example.riccardo.mashape:dp_inInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_month com.example.riccardo.mashape:dp_month}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_monthMax com.example.riccardo.mashape:dp_monthMax}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_monthMin com.example.riccardo.mashape:dp_monthMin}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_outInterpolator com.example.riccardo.mashape:dp_outInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_selectionColor com.example.riccardo.mashape:dp_selectionColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_textColor com.example.riccardo.mashape:dp_textColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_textDisableColor com.example.riccardo.mashape:dp_textDisableColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_textHighlightColor com.example.riccardo.mashape:dp_textHighlightColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_textLabelColor com.example.riccardo.mashape:dp_textLabelColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_textStyle com.example.riccardo.mashape:dp_textStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_year com.example.riccardo.mashape:dp_year}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_yearMax com.example.riccardo.mashape:dp_yearMax}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_yearMin com.example.riccardo.mashape:dp_yearMin}</code></td><td></td></tr>
+           </table>
+           @see #DatePicker_android_padding
+           @see #DatePicker_android_paddingBottom
+           @see #DatePicker_android_paddingLeft
+           @see #DatePicker_android_paddingRight
+           @see #DatePicker_android_paddingTop
+           @see #DatePicker_dp_animDuration
+           @see #DatePicker_dp_day
+           @see #DatePicker_dp_dayMax
+           @see #DatePicker_dp_dayMin
+           @see #DatePicker_dp_dayTextSize
+           @see #DatePicker_dp_fontFamily
+           @see #DatePicker_dp_inInterpolator
+           @see #DatePicker_dp_month
+           @see #DatePicker_dp_monthMax
+           @see #DatePicker_dp_monthMin
+           @see #DatePicker_dp_outInterpolator
+           @see #DatePicker_dp_selectionColor
+           @see #DatePicker_dp_textColor
+           @see #DatePicker_dp_textDisableColor
+           @see #DatePicker_dp_textHighlightColor
+           @see #DatePicker_dp_textLabelColor
+           @see #DatePicker_dp_textStyle
+           @see #DatePicker_dp_year
+           @see #DatePicker_dp_yearMax
+           @see #DatePicker_dp_yearMin
+         */
+        public static final int[] DatePicker = {
+            0x010100d5, 0x010100d6, 0x010100d7, 0x010100d8,
+            0x010100d9, 0x7f010000, 0x7f010001, 0x7f010002,
+            0x7f010003, 0x7f010004, 0x7f010005, 0x7f010006,
+            0x7f010007, 0x7f010008, 0x7f010009, 0x7f01000a,
+            0x7f01000b, 0x7f01000c, 0x7f01000d, 0x7f01000e,
+            0x7f01000f, 0x7f010010, 0x7f01005a, 0x7f01005b,
+            0x7f01005c
+        };
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#padding}
+          attribute's value can be found in the {@link #DatePicker} array.
+          @attr name android:padding
+        */
+        public static final int DatePicker_android_padding = 0;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#paddingBottom}
+          attribute's value can be found in the {@link #DatePicker} array.
+          @attr name android:paddingBottom
+        */
+        public static final int DatePicker_android_paddingBottom = 4;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#paddingLeft}
+          attribute's value can be found in the {@link #DatePicker} array.
+          @attr name android:paddingLeft
+        */
+        public static final int DatePicker_android_paddingLeft = 1;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#paddingRight}
+          attribute's value can be found in the {@link #DatePicker} array.
+          @attr name android:paddingRight
+        */
+        public static final int DatePicker_android_paddingRight = 3;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#paddingTop}
+          attribute's value can be found in the {@link #DatePicker} array.
+          @attr name android:paddingTop
+        */
+        public static final int DatePicker_android_paddingTop = 2;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_animDuration}
+          attribute's value can be found in the {@link #DatePicker} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:dp_animDuration
+        */
+        public static final int DatePicker_dp_animDuration = 5;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_day}
+          attribute's value can be found in the {@link #DatePicker} array.
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:dp_day
+        */
+        public static final int DatePicker_dp_day = 6;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_dayMax}
+          attribute's value can be found in the {@link #DatePicker} array.
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:dp_dayMax
+        */
+        public static final int DatePicker_dp_dayMax = 7;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_dayMin}
+          attribute's value can be found in the {@link #DatePicker} array.
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:dp_dayMin
+        */
+        public static final int DatePicker_dp_dayMin = 8;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_dayTextSize}
+          attribute's value can be found in the {@link #DatePicker} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:dp_dayTextSize
+        */
+        public static final int DatePicker_dp_dayTextSize = 22;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_fontFamily}
+          attribute's value can be found in the {@link #DatePicker} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+          @attr name com.example.riccardo.mashape:dp_fontFamily
+        */
+        public static final int DatePicker_dp_fontFamily = 9;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_inInterpolator}
+          attribute's value can be found in the {@link #DatePicker} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:dp_inInterpolator
+        */
+        public static final int DatePicker_dp_inInterpolator = 10;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_month}
+          attribute's value can be found in the {@link #DatePicker} array.
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:dp_month
+        */
+        public static final int DatePicker_dp_month = 11;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_monthMax}
+          attribute's value can be found in the {@link #DatePicker} array.
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:dp_monthMax
+        */
+        public static final int DatePicker_dp_monthMax = 12;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_monthMin}
+          attribute's value can be found in the {@link #DatePicker} array.
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:dp_monthMin
+        */
+        public static final int DatePicker_dp_monthMin = 13;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_outInterpolator}
+          attribute's value can be found in the {@link #DatePicker} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:dp_outInterpolator
+        */
+        public static final int DatePicker_dp_outInterpolator = 14;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_selectionColor}
+          attribute's value can be found in the {@link #DatePicker} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:dp_selectionColor
+        */
+        public static final int DatePicker_dp_selectionColor = 15;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_textColor}
+          attribute's value can be found in the {@link #DatePicker} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:dp_textColor
+        */
+        public static final int DatePicker_dp_textColor = 16;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_textDisableColor}
+          attribute's value can be found in the {@link #DatePicker} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:dp_textDisableColor
+        */
+        public static final int DatePicker_dp_textDisableColor = 24;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_textHighlightColor}
+          attribute's value can be found in the {@link #DatePicker} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:dp_textHighlightColor
+        */
+        public static final int DatePicker_dp_textHighlightColor = 17;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_textLabelColor}
+          attribute's value can be found in the {@link #DatePicker} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:dp_textLabelColor
+        */
+        public static final int DatePicker_dp_textLabelColor = 23;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_textStyle}
+          attribute's value can be found in the {@link #DatePicker} array.
+
+
+          <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>normal</code></td><td>0</td><td></td></tr>
+<tr><td><code>bold</code></td><td>1</td><td></td></tr>
+<tr><td><code>italic</code></td><td>2</td><td></td></tr>
+<tr><td><code>bold_italic</code></td><td>3</td><td></td></tr>
+</table>
+          @attr name com.example.riccardo.mashape:dp_textStyle
+        */
+        public static final int DatePicker_dp_textStyle = 18;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_year}
+          attribute's value can be found in the {@link #DatePicker} array.
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:dp_year
+        */
+        public static final int DatePicker_dp_year = 19;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_yearMax}
+          attribute's value can be found in the {@link #DatePicker} array.
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:dp_yearMax
+        */
+        public static final int DatePicker_dp_yearMax = 20;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_yearMin}
+          attribute's value can be found in the {@link #DatePicker} array.
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:dp_yearMin
+        */
+        public static final int DatePicker_dp_yearMin = 21;
+        /** Attributes that can be used with a DatePickerDialog.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #DatePickerDialog_dp_headerPrimaryColor com.example.riccardo.mashape:dp_headerPrimaryColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePickerDialog_dp_headerPrimaryHeight com.example.riccardo.mashape:dp_headerPrimaryHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePickerDialog_dp_headerPrimaryTextSize com.example.riccardo.mashape:dp_headerPrimaryTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePickerDialog_dp_headerSecondaryColor com.example.riccardo.mashape:dp_headerSecondaryColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePickerDialog_dp_headerSecondaryHeight com.example.riccardo.mashape:dp_headerSecondaryHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePickerDialog_dp_headerSecondaryTextSize com.example.riccardo.mashape:dp_headerSecondaryTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePickerDialog_dp_textHeaderColor com.example.riccardo.mashape:dp_textHeaderColor}</code></td><td></td></tr>
+           </table>
+           @see #DatePickerDialog_dp_headerPrimaryColor
+           @see #DatePickerDialog_dp_headerPrimaryHeight
+           @see #DatePickerDialog_dp_headerPrimaryTextSize
+           @see #DatePickerDialog_dp_headerSecondaryColor
+           @see #DatePickerDialog_dp_headerSecondaryHeight
+           @see #DatePickerDialog_dp_headerSecondaryTextSize
+           @see #DatePickerDialog_dp_textHeaderColor
+         */
+        public static final int[] DatePickerDialog = {
+            0x7f01005d, 0x7f01005e, 0x7f01005f, 0x7f010060,
+            0x7f010061, 0x7f010062, 0x7f010063
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_headerPrimaryColor}
+          attribute's value can be found in the {@link #DatePickerDialog} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:dp_headerPrimaryColor
+        */
+        public static final int DatePickerDialog_dp_headerPrimaryColor = 1;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_headerPrimaryHeight}
+          attribute's value can be found in the {@link #DatePickerDialog} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:dp_headerPrimaryHeight
+        */
+        public static final int DatePickerDialog_dp_headerPrimaryHeight = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_headerPrimaryTextSize}
+          attribute's value can be found in the {@link #DatePickerDialog} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:dp_headerPrimaryTextSize
+        */
+        public static final int DatePickerDialog_dp_headerPrimaryTextSize = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_headerSecondaryColor}
+          attribute's value can be found in the {@link #DatePickerDialog} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:dp_headerSecondaryColor
+        */
+        public static final int DatePickerDialog_dp_headerSecondaryColor = 3;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_headerSecondaryHeight}
+          attribute's value can be found in the {@link #DatePickerDialog} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:dp_headerSecondaryHeight
+        */
+        public static final int DatePickerDialog_dp_headerSecondaryHeight = 2;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_headerSecondaryTextSize}
+          attribute's value can be found in the {@link #DatePickerDialog} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:dp_headerSecondaryTextSize
+        */
+        public static final int DatePickerDialog_dp_headerSecondaryTextSize = 5;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_textHeaderColor}
+          attribute's value can be found in the {@link #DatePickerDialog} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:dp_textHeaderColor
+        */
+        public static final int DatePickerDialog_dp_textHeaderColor = 6;
+        /** Attributes that can be used with a Dialog.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #Dialog_android_layout_height android:layout_height}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_android_layout_width android:layout_width}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_actionBackground com.example.riccardo.mashape:di_actionBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_actionRipple com.example.riccardo.mashape:di_actionRipple}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_actionTextAppearance com.example.riccardo.mashape:di_actionTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_actionTextColor com.example.riccardo.mashape:di_actionTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_backgroundColor com.example.riccardo.mashape:di_backgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_cancelable com.example.riccardo.mashape:di_cancelable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_canceledOnTouchOutside com.example.riccardo.mashape:di_canceledOnTouchOutside}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_cornerRadius com.example.riccardo.mashape:di_cornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_dimAmount com.example.riccardo.mashape:di_dimAmount}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_dividerColor com.example.riccardo.mashape:di_dividerColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_dividerHeight com.example.riccardo.mashape:di_dividerHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_elevation com.example.riccardo.mashape:di_elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_inAnimation com.example.riccardo.mashape:di_inAnimation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_layoutDirection com.example.riccardo.mashape:di_layoutDirection}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_maxElevation com.example.riccardo.mashape:di_maxElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_negativeActionBackground com.example.riccardo.mashape:di_negativeActionBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_negativeActionRipple com.example.riccardo.mashape:di_negativeActionRipple}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_negativeActionTextAppearance com.example.riccardo.mashape:di_negativeActionTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_negativeActionTextColor com.example.riccardo.mashape:di_negativeActionTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_neutralActionBackground com.example.riccardo.mashape:di_neutralActionBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_neutralActionRipple com.example.riccardo.mashape:di_neutralActionRipple}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_neutralActionTextAppearance com.example.riccardo.mashape:di_neutralActionTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_neutralActionTextColor com.example.riccardo.mashape:di_neutralActionTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_outAnimation com.example.riccardo.mashape:di_outAnimation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_positiveActionBackground com.example.riccardo.mashape:di_positiveActionBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_positiveActionRipple com.example.riccardo.mashape:di_positiveActionRipple}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_positiveActionTextAppearance com.example.riccardo.mashape:di_positiveActionTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_positiveActionTextColor com.example.riccardo.mashape:di_positiveActionTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_titleTextAppearance com.example.riccardo.mashape:di_titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_titleTextColor com.example.riccardo.mashape:di_titleTextColor}</code></td><td></td></tr>
+           </table>
+           @see #Dialog_android_layout_height
+           @see #Dialog_android_layout_width
+           @see #Dialog_di_actionBackground
+           @see #Dialog_di_actionRipple
+           @see #Dialog_di_actionTextAppearance
+           @see #Dialog_di_actionTextColor
+           @see #Dialog_di_backgroundColor
+           @see #Dialog_di_cancelable
+           @see #Dialog_di_canceledOnTouchOutside
+           @see #Dialog_di_cornerRadius
+           @see #Dialog_di_dimAmount
+           @see #Dialog_di_dividerColor
+           @see #Dialog_di_dividerHeight
+           @see #Dialog_di_elevation
+           @see #Dialog_di_inAnimation
+           @see #Dialog_di_layoutDirection
+           @see #Dialog_di_maxElevation
+           @see #Dialog_di_negativeActionBackground
+           @see #Dialog_di_negativeActionRipple
+           @see #Dialog_di_negativeActionTextAppearance
+           @see #Dialog_di_negativeActionTextColor
+           @see #Dialog_di_neutralActionBackground
+           @see #Dialog_di_neutralActionRipple
+           @see #Dialog_di_neutralActionTextAppearance
+           @see #Dialog_di_neutralActionTextColor
+           @see #Dialog_di_outAnimation
+           @see #Dialog_di_positiveActionBackground
+           @see #Dialog_di_positiveActionRipple
+           @see #Dialog_di_positiveActionTextAppearance
+           @see #Dialog_di_positiveActionTextColor
+           @see #Dialog_di_titleTextAppearance
+           @see #Dialog_di_titleTextColor
+         */
+        public static final int[] Dialog = {
+            0x010100f4, 0x010100f5, 0x7f010064, 0x7f010065,
+            0x7f010066, 0x7f010067, 0x7f010068, 0x7f010069,
+            0x7f01006a, 0x7f01006b, 0x7f01006c, 0x7f01006d,
+            0x7f01006e, 0x7f01006f, 0x7f010070, 0x7f010071,
+            0x7f010072, 0x7f010073, 0x7f010074, 0x7f010075,
+            0x7f010076, 0x7f010077, 0x7f010078, 0x7f010079,
+            0x7f01007a, 0x7f01007b, 0x7f01007c, 0x7f01007d,
+            0x7f01007e, 0x7f01007f, 0x7f010080, 0x7f010081
+        };
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#layout_height}
+          attribute's value can be found in the {@link #Dialog} array.
+          @attr name android:layout_height
+        */
+        public static final int Dialog_android_layout_height = 1;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#layout_width}
+          attribute's value can be found in the {@link #Dialog} array.
+          @attr name android:layout_width
+        */
+        public static final int Dialog_android_layout_width = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_actionBackground}
+          attribute's value can be found in the {@link #Dialog} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:di_actionBackground
+        */
+        public static final int Dialog_di_actionBackground = 10;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_actionRipple}
+          attribute's value can be found in the {@link #Dialog} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:di_actionRipple
+        */
+        public static final int Dialog_di_actionRipple = 11;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_actionTextAppearance}
+          attribute's value can be found in the {@link #Dialog} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:di_actionTextAppearance
+        */
+        public static final int Dialog_di_actionTextAppearance = 12;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_actionTextColor}
+          attribute's value can be found in the {@link #Dialog} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:di_actionTextColor
+        */
+        public static final int Dialog_di_actionTextColor = 13;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_backgroundColor}
+          attribute's value can be found in the {@link #Dialog} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:di_backgroundColor
+        */
+        public static final int Dialog_di_backgroundColor = 3;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_cancelable}
+          attribute's value can be found in the {@link #Dialog} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:di_cancelable
+        */
+        public static final int Dialog_di_cancelable = 30;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_canceledOnTouchOutside}
+          attribute's value can be found in the {@link #Dialog} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:di_canceledOnTouchOutside
+        */
+        public static final int Dialog_di_canceledOnTouchOutside = 31;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_cornerRadius}
+          attribute's value can be found in the {@link #Dialog} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:di_cornerRadius
+        */
+        public static final int Dialog_di_cornerRadius = 6;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_dimAmount}
+          attribute's value can be found in the {@link #Dialog} array.
+
+
+          <p>Must be a floating point value, such as "<code>1.2</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:di_dimAmount
+        */
+        public static final int Dialog_di_dimAmount = 2;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_dividerColor}
+          attribute's value can be found in the {@link #Dialog} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:di_dividerColor
+        */
+        public static final int Dialog_di_dividerColor = 26;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_dividerHeight}
+          attribute's value can be found in the {@link #Dialog} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:di_dividerHeight
+        */
+        public static final int Dialog_di_dividerHeight = 27;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_elevation}
+          attribute's value can be found in the {@link #Dialog} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:di_elevation
+        */
+        public static final int Dialog_di_elevation = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_inAnimation}
+          attribute's value can be found in the {@link #Dialog} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:di_inAnimation
+        */
+        public static final int Dialog_di_inAnimation = 28;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_layoutDirection}
+          attribute's value can be found in the {@link #Dialog} array.
+
+
+          <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>ltr</code></td><td>0</td><td></td></tr>
+<tr><td><code>rtl</code></td><td>1</td><td></td></tr>
+<tr><td><code>locale</code></td><td>3</td><td></td></tr>
+</table>
+          @attr name com.example.riccardo.mashape:di_layoutDirection
+        */
+        public static final int Dialog_di_layoutDirection = 7;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_maxElevation}
+          attribute's value can be found in the {@link #Dialog} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:di_maxElevation
+        */
+        public static final int Dialog_di_maxElevation = 5;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_negativeActionBackground}
+          attribute's value can be found in the {@link #Dialog} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:di_negativeActionBackground
+        */
+        public static final int Dialog_di_negativeActionBackground = 18;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_negativeActionRipple}
+          attribute's value can be found in the {@link #Dialog} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:di_negativeActionRipple
+        */
+        public static final int Dialog_di_negativeActionRipple = 19;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_negativeActionTextAppearance}
+          attribute's value can be found in the {@link #Dialog} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:di_negativeActionTextAppearance
+        */
+        public static final int Dialog_di_negativeActionTextAppearance = 20;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_negativeActionTextColor}
+          attribute's value can be found in the {@link #Dialog} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:di_negativeActionTextColor
+        */
+        public static final int Dialog_di_negativeActionTextColor = 21;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_neutralActionBackground}
+          attribute's value can be found in the {@link #Dialog} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:di_neutralActionBackground
+        */
+        public static final int Dialog_di_neutralActionBackground = 22;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_neutralActionRipple}
+          attribute's value can be found in the {@link #Dialog} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:di_neutralActionRipple
+        */
+        public static final int Dialog_di_neutralActionRipple = 23;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_neutralActionTextAppearance}
+          attribute's value can be found in the {@link #Dialog} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:di_neutralActionTextAppearance
+        */
+        public static final int Dialog_di_neutralActionTextAppearance = 24;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_neutralActionTextColor}
+          attribute's value can be found in the {@link #Dialog} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:di_neutralActionTextColor
+        */
+        public static final int Dialog_di_neutralActionTextColor = 25;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_outAnimation}
+          attribute's value can be found in the {@link #Dialog} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:di_outAnimation
+        */
+        public static final int Dialog_di_outAnimation = 29;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_positiveActionBackground}
+          attribute's value can be found in the {@link #Dialog} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:di_positiveActionBackground
+        */
+        public static final int Dialog_di_positiveActionBackground = 14;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_positiveActionRipple}
+          attribute's value can be found in the {@link #Dialog} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:di_positiveActionRipple
+        */
+        public static final int Dialog_di_positiveActionRipple = 15;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_positiveActionTextAppearance}
+          attribute's value can be found in the {@link #Dialog} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:di_positiveActionTextAppearance
+        */
+        public static final int Dialog_di_positiveActionTextAppearance = 16;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_positiveActionTextColor}
+          attribute's value can be found in the {@link #Dialog} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:di_positiveActionTextColor
+        */
+        public static final int Dialog_di_positiveActionTextColor = 17;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_titleTextAppearance}
+          attribute's value can be found in the {@link #Dialog} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:di_titleTextAppearance
+        */
+        public static final int Dialog_di_titleTextAppearance = 8;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_titleTextColor}
+          attribute's value can be found in the {@link #Dialog} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:di_titleTextColor
+        */
+        public static final int Dialog_di_titleTextColor = 9;
         /** Attributes that can be used with a DrawerArrowToggle.
            <p>Includes the following attributes:</p>
            <table>
@@ -2730,8 +6180,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            @see #DrawerArrowToggle_topBottomBarArrowSize
          */
         public static final int[] DrawerArrowToggle = {
-            0x7f010025, 0x7f010026, 0x7f010027, 0x7f010028,
-            0x7f010029, 0x7f01002a, 0x7f01002b, 0x7f01002c
+            0x7f010082, 0x7f010083, 0x7f010084, 0x7f010085,
+            0x7f010086, 0x7f010087, 0x7f010088, 0x7f010089
         };
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#barSize}
@@ -2858,6 +6308,862 @@ containing a value of this type.
           @attr name com.example.riccardo.mashape:topBottomBarArrowSize
         */
         public static final int DrawerArrowToggle_topBottomBarArrowSize = 4;
+        /** Attributes that can be used with a EditText.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #EditText_et_autoCompleteMode com.example.riccardo.mashape:et_autoCompleteMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_dividerAnimDuration com.example.riccardo.mashape:et_dividerAnimDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_dividerColor com.example.riccardo.mashape:et_dividerColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_dividerCompoundPadding com.example.riccardo.mashape:et_dividerCompoundPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_dividerErrorColor com.example.riccardo.mashape:et_dividerErrorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_dividerHeight com.example.riccardo.mashape:et_dividerHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_dividerPadding com.example.riccardo.mashape:et_dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_error com.example.riccardo.mashape:et_error}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_helper com.example.riccardo.mashape:et_helper}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_inputId com.example.riccardo.mashape:et_inputId}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_labelEllipsize com.example.riccardo.mashape:et_labelEllipsize}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_labelEnable com.example.riccardo.mashape:et_labelEnable}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_labelInAnim com.example.riccardo.mashape:et_labelInAnim}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_labelOutAnim com.example.riccardo.mashape:et_labelOutAnim}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_labelPadding com.example.riccardo.mashape:et_labelPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_labelTextAppearance com.example.riccardo.mashape:et_labelTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_labelTextColor com.example.riccardo.mashape:et_labelTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_labelTextSize com.example.riccardo.mashape:et_labelTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_supportEllipsize com.example.riccardo.mashape:et_supportEllipsize}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_supportLines com.example.riccardo.mashape:et_supportLines}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_supportMaxChars com.example.riccardo.mashape:et_supportMaxChars}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_supportMaxLines com.example.riccardo.mashape:et_supportMaxLines}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_supportMode com.example.riccardo.mashape:et_supportMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_supportPadding com.example.riccardo.mashape:et_supportPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_supportSingleLine com.example.riccardo.mashape:et_supportSingleLine}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_supportTextAppearance com.example.riccardo.mashape:et_supportTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_supportTextColor com.example.riccardo.mashape:et_supportTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_supportTextErrorColor com.example.riccardo.mashape:et_supportTextErrorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_supportTextSize com.example.riccardo.mashape:et_supportTextSize}</code></td><td></td></tr>
+           </table>
+           @see #EditText_et_autoCompleteMode
+           @see #EditText_et_dividerAnimDuration
+           @see #EditText_et_dividerColor
+           @see #EditText_et_dividerCompoundPadding
+           @see #EditText_et_dividerErrorColor
+           @see #EditText_et_dividerHeight
+           @see #EditText_et_dividerPadding
+           @see #EditText_et_error
+           @see #EditText_et_helper
+           @see #EditText_et_inputId
+           @see #EditText_et_labelEllipsize
+           @see #EditText_et_labelEnable
+           @see #EditText_et_labelInAnim
+           @see #EditText_et_labelOutAnim
+           @see #EditText_et_labelPadding
+           @see #EditText_et_labelTextAppearance
+           @see #EditText_et_labelTextColor
+           @see #EditText_et_labelTextSize
+           @see #EditText_et_supportEllipsize
+           @see #EditText_et_supportLines
+           @see #EditText_et_supportMaxChars
+           @see #EditText_et_supportMaxLines
+           @see #EditText_et_supportMode
+           @see #EditText_et_supportPadding
+           @see #EditText_et_supportSingleLine
+           @see #EditText_et_supportTextAppearance
+           @see #EditText_et_supportTextColor
+           @see #EditText_et_supportTextErrorColor
+           @see #EditText_et_supportTextSize
+         */
+        public static final int[] EditText = {
+            0x7f01008a, 0x7f01008b, 0x7f01008c, 0x7f01008d,
+            0x7f01008e, 0x7f01008f, 0x7f010090, 0x7f010091,
+            0x7f010092, 0x7f010093, 0x7f010094, 0x7f010095,
+            0x7f010096, 0x7f010097, 0x7f010098, 0x7f010099,
+            0x7f01009a, 0x7f01009b, 0x7f01009c, 0x7f01009d,
+            0x7f01009e, 0x7f01009f, 0x7f0100a0, 0x7f0100a1,
+            0x7f0100a2, 0x7f0100a3, 0x7f0100a4, 0x7f0100a5,
+            0x7f0100a6
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#et_autoCompleteMode}
+          attribute's value can be found in the {@link #EditText} array.
+
+
+          <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>none</code></td><td>0</td><td></td></tr>
+<tr><td><code>single</code></td><td>1</td><td></td></tr>
+<tr><td><code>multi</code></td><td>2</td><td></td></tr>
+</table>
+          @attr name com.example.riccardo.mashape:et_autoCompleteMode
+        */
+        public static final int EditText_et_autoCompleteMode = 28;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#et_dividerAnimDuration}
+          attribute's value can be found in the {@link #EditText} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:et_dividerAnimDuration
+        */
+        public static final int EditText_et_dividerAnimDuration = 26;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#et_dividerColor}
+          attribute's value can be found in the {@link #EditText} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:et_dividerColor
+        */
+        public static final int EditText_et_dividerColor = 22;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#et_dividerCompoundPadding}
+          attribute's value can be found in the {@link #EditText} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:et_dividerCompoundPadding
+        */
+        public static final int EditText_et_dividerCompoundPadding = 27;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#et_dividerErrorColor}
+          attribute's value can be found in the {@link #EditText} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:et_dividerErrorColor
+        */
+        public static final int EditText_et_dividerErrorColor = 23;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#et_dividerHeight}
+          attribute's value can be found in the {@link #EditText} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:et_dividerHeight
+        */
+        public static final int EditText_et_dividerHeight = 24;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#et_dividerPadding}
+          attribute's value can be found in the {@link #EditText} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:et_dividerPadding
+        */
+        public static final int EditText_et_dividerPadding = 25;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#et_error}
+          attribute's value can be found in the {@link #EditText} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+          @attr name com.example.riccardo.mashape:et_error
+        */
+        public static final int EditText_et_error = 12;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#et_helper}
+          attribute's value can be found in the {@link #EditText} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+          @attr name com.example.riccardo.mashape:et_helper
+        */
+        public static final int EditText_et_helper = 11;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#et_inputId}
+          attribute's value can be found in the {@link #EditText} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:et_inputId
+        */
+        public static final int EditText_et_inputId = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#et_labelEllipsize}
+          attribute's value can be found in the {@link #EditText} array.
+
+
+          <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>start</code></td><td>0x00000001</td><td></td></tr>
+<tr><td><code>middle</code></td><td>0x00000002</td><td></td></tr>
+<tr><td><code>end</code></td><td>0x00000003</td><td></td></tr>
+<tr><td><code>marquee</code></td><td>0x00000004</td><td></td></tr>
+</table>
+          @attr name com.example.riccardo.mashape:et_labelEllipsize
+        */
+        public static final int EditText_et_labelEllipsize = 6;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#et_labelEnable}
+          attribute's value can be found in the {@link #EditText} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:et_labelEnable
+        */
+        public static final int EditText_et_labelEnable = 1;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#et_labelInAnim}
+          attribute's value can be found in the {@link #EditText} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:et_labelInAnim
+        */
+        public static final int EditText_et_labelInAnim = 7;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#et_labelOutAnim}
+          attribute's value can be found in the {@link #EditText} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:et_labelOutAnim
+        */
+        public static final int EditText_et_labelOutAnim = 8;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#et_labelPadding}
+          attribute's value can be found in the {@link #EditText} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:et_labelPadding
+        */
+        public static final int EditText_et_labelPadding = 2;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#et_labelTextAppearance}
+          attribute's value can be found in the {@link #EditText} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:et_labelTextAppearance
+        */
+        public static final int EditText_et_labelTextAppearance = 5;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#et_labelTextColor}
+          attribute's value can be found in the {@link #EditText} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:et_labelTextColor
+        */
+        public static final int EditText_et_labelTextColor = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#et_labelTextSize}
+          attribute's value can be found in the {@link #EditText} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:et_labelTextSize
+        */
+        public static final int EditText_et_labelTextSize = 3;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#et_supportEllipsize}
+          attribute's value can be found in the {@link #EditText} array.
+
+
+          <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>start</code></td><td>0x00000001</td><td></td></tr>
+<tr><td><code>middle</code></td><td>0x00000002</td><td></td></tr>
+<tr><td><code>end</code></td><td>0x00000003</td><td></td></tr>
+<tr><td><code>marquee</code></td><td>0x00000004</td><td></td></tr>
+</table>
+          @attr name com.example.riccardo.mashape:et_supportEllipsize
+        */
+        public static final int EditText_et_supportEllipsize = 21;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#et_supportLines}
+          attribute's value can be found in the {@link #EditText} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:et_supportLines
+        */
+        public static final int EditText_et_supportLines = 20;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#et_supportMaxChars}
+          attribute's value can be found in the {@link #EditText} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:et_supportMaxChars
+        */
+        public static final int EditText_et_supportMaxChars = 10;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#et_supportMaxLines}
+          attribute's value can be found in the {@link #EditText} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:et_supportMaxLines
+        */
+        public static final int EditText_et_supportMaxLines = 19;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#et_supportMode}
+          attribute's value can be found in the {@link #EditText} array.
+
+
+          <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>none</code></td><td>0x00000000</td><td></td></tr>
+<tr><td><code>helper</code></td><td>0x00000001</td><td></td></tr>
+<tr><td><code>helperWithError</code></td><td>0x00000002</td><td></td></tr>
+<tr><td><code>charCounter</code></td><td>0x00000003</td><td></td></tr>
+</table>
+          @attr name com.example.riccardo.mashape:et_supportMode
+        */
+        public static final int EditText_et_supportMode = 9;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#et_supportPadding}
+          attribute's value can be found in the {@link #EditText} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:et_supportPadding
+        */
+        public static final int EditText_et_supportPadding = 13;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#et_supportSingleLine}
+          attribute's value can be found in the {@link #EditText} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:et_supportSingleLine
+        */
+        public static final int EditText_et_supportSingleLine = 18;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#et_supportTextAppearance}
+          attribute's value can be found in the {@link #EditText} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:et_supportTextAppearance
+        */
+        public static final int EditText_et_supportTextAppearance = 17;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#et_supportTextColor}
+          attribute's value can be found in the {@link #EditText} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:et_supportTextColor
+        */
+        public static final int EditText_et_supportTextColor = 15;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#et_supportTextErrorColor}
+          attribute's value can be found in the {@link #EditText} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:et_supportTextErrorColor
+        */
+        public static final int EditText_et_supportTextErrorColor = 16;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#et_supportTextSize}
+          attribute's value can be found in the {@link #EditText} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:et_supportTextSize
+        */
+        public static final int EditText_et_supportTextSize = 14;
+        /** Attributes that can be used with a FloatingActionButton.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #FloatingActionButton_fab_animDuration com.example.riccardo.mashape:fab_animDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fab_backgroundColor com.example.riccardo.mashape:fab_backgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fab_elevation com.example.riccardo.mashape:fab_elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fab_iconLineMorphing com.example.riccardo.mashape:fab_iconLineMorphing}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fab_iconSize com.example.riccardo.mashape:fab_iconSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fab_iconSrc com.example.riccardo.mashape:fab_iconSrc}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fab_interpolator com.example.riccardo.mashape:fab_interpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fab_radius com.example.riccardo.mashape:fab_radius}</code></td><td></td></tr>
+           </table>
+           @see #FloatingActionButton_fab_animDuration
+           @see #FloatingActionButton_fab_backgroundColor
+           @see #FloatingActionButton_fab_elevation
+           @see #FloatingActionButton_fab_iconLineMorphing
+           @see #FloatingActionButton_fab_iconSize
+           @see #FloatingActionButton_fab_iconSrc
+           @see #FloatingActionButton_fab_interpolator
+           @see #FloatingActionButton_fab_radius
+         */
+        public static final int[] FloatingActionButton = {
+            0x7f0100a7, 0x7f0100a8, 0x7f0100a9, 0x7f0100aa,
+            0x7f0100ab, 0x7f0100ac, 0x7f0100ad, 0x7f0100ae
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#fab_animDuration}
+          attribute's value can be found in the {@link #FloatingActionButton} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:fab_animDuration
+        */
+        public static final int FloatingActionButton_fab_animDuration = 7;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#fab_backgroundColor}
+          attribute's value can be found in the {@link #FloatingActionButton} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:fab_backgroundColor
+        */
+        public static final int FloatingActionButton_fab_backgroundColor = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#fab_elevation}
+          attribute's value can be found in the {@link #FloatingActionButton} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:fab_elevation
+        */
+        public static final int FloatingActionButton_fab_elevation = 2;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#fab_iconLineMorphing}
+          attribute's value can be found in the {@link #FloatingActionButton} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:fab_iconLineMorphing
+        */
+        public static final int FloatingActionButton_fab_iconLineMorphing = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#fab_iconSize}
+          attribute's value can be found in the {@link #FloatingActionButton} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:fab_iconSize
+        */
+        public static final int FloatingActionButton_fab_iconSize = 5;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#fab_iconSrc}
+          attribute's value can be found in the {@link #FloatingActionButton} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:fab_iconSrc
+        */
+        public static final int FloatingActionButton_fab_iconSrc = 3;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#fab_interpolator}
+          attribute's value can be found in the {@link #FloatingActionButton} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:fab_interpolator
+        */
+        public static final int FloatingActionButton_fab_interpolator = 6;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#fab_radius}
+          attribute's value can be found in the {@link #FloatingActionButton} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:fab_radius
+        */
+        public static final int FloatingActionButton_fab_radius = 1;
+        /** Attributes that can be used with a LineMorphingDrawable.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #LineMorphingDrawable_lmd_animDuration com.example.riccardo.mashape:lmd_animDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #LineMorphingDrawable_lmd_clockwise com.example.riccardo.mashape:lmd_clockwise}</code></td><td></td></tr>
+           <tr><td><code>{@link #LineMorphingDrawable_lmd_curState com.example.riccardo.mashape:lmd_curState}</code></td><td></td></tr>
+           <tr><td><code>{@link #LineMorphingDrawable_lmd_interpolator com.example.riccardo.mashape:lmd_interpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #LineMorphingDrawable_lmd_layoutDirection com.example.riccardo.mashape:lmd_layoutDirection}</code></td><td></td></tr>
+           <tr><td><code>{@link #LineMorphingDrawable_lmd_padding com.example.riccardo.mashape:lmd_padding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LineMorphingDrawable_lmd_paddingBottom com.example.riccardo.mashape:lmd_paddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #LineMorphingDrawable_lmd_paddingLeft com.example.riccardo.mashape:lmd_paddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #LineMorphingDrawable_lmd_paddingRight com.example.riccardo.mashape:lmd_paddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #LineMorphingDrawable_lmd_paddingTop com.example.riccardo.mashape:lmd_paddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #LineMorphingDrawable_lmd_state com.example.riccardo.mashape:lmd_state}</code></td><td></td></tr>
+           <tr><td><code>{@link #LineMorphingDrawable_lmd_strokeCap com.example.riccardo.mashape:lmd_strokeCap}</code></td><td></td></tr>
+           <tr><td><code>{@link #LineMorphingDrawable_lmd_strokeColor com.example.riccardo.mashape:lmd_strokeColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #LineMorphingDrawable_lmd_strokeJoin com.example.riccardo.mashape:lmd_strokeJoin}</code></td><td></td></tr>
+           <tr><td><code>{@link #LineMorphingDrawable_lmd_strokeSize com.example.riccardo.mashape:lmd_strokeSize}</code></td><td></td></tr>
+           </table>
+           @see #LineMorphingDrawable_lmd_animDuration
+           @see #LineMorphingDrawable_lmd_clockwise
+           @see #LineMorphingDrawable_lmd_curState
+           @see #LineMorphingDrawable_lmd_interpolator
+           @see #LineMorphingDrawable_lmd_layoutDirection
+           @see #LineMorphingDrawable_lmd_padding
+           @see #LineMorphingDrawable_lmd_paddingBottom
+           @see #LineMorphingDrawable_lmd_paddingLeft
+           @see #LineMorphingDrawable_lmd_paddingRight
+           @see #LineMorphingDrawable_lmd_paddingTop
+           @see #LineMorphingDrawable_lmd_state
+           @see #LineMorphingDrawable_lmd_strokeCap
+           @see #LineMorphingDrawable_lmd_strokeColor
+           @see #LineMorphingDrawable_lmd_strokeJoin
+           @see #LineMorphingDrawable_lmd_strokeSize
+         */
+        public static final int[] LineMorphingDrawable = {
+            0x7f0100af, 0x7f0100b0, 0x7f0100b1, 0x7f0100b2,
+            0x7f0100b3, 0x7f0100b4, 0x7f0100b5, 0x7f0100b6,
+            0x7f0100b7, 0x7f0100b8, 0x7f0100b9, 0x7f0100ba,
+            0x7f0100bb, 0x7f0100bc, 0x7f0100bd
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#lmd_animDuration}
+          attribute's value can be found in the {@link #LineMorphingDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:lmd_animDuration
+        */
+        public static final int LineMorphingDrawable_lmd_animDuration = 7;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#lmd_clockwise}
+          attribute's value can be found in the {@link #LineMorphingDrawable} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:lmd_clockwise
+        */
+        public static final int LineMorphingDrawable_lmd_clockwise = 13;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#lmd_curState}
+          attribute's value can be found in the {@link #LineMorphingDrawable} array.
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:lmd_curState
+        */
+        public static final int LineMorphingDrawable_lmd_curState = 1;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#lmd_interpolator}
+          attribute's value can be found in the {@link #LineMorphingDrawable} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:lmd_interpolator
+        */
+        public static final int LineMorphingDrawable_lmd_interpolator = 8;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#lmd_layoutDirection}
+          attribute's value can be found in the {@link #LineMorphingDrawable} array.
+
+
+          <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>ltr</code></td><td>0x00000000</td><td></td></tr>
+<tr><td><code>rtl</code></td><td>0x00000001</td><td></td></tr>
+<tr><td><code>locale</code></td><td>0x00000003</td><td></td></tr>
+</table>
+          @attr name com.example.riccardo.mashape:lmd_layoutDirection
+        */
+        public static final int LineMorphingDrawable_lmd_layoutDirection = 14;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#lmd_padding}
+          attribute's value can be found in the {@link #LineMorphingDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:lmd_padding
+        */
+        public static final int LineMorphingDrawable_lmd_padding = 2;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#lmd_paddingBottom}
+          attribute's value can be found in the {@link #LineMorphingDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:lmd_paddingBottom
+        */
+        public static final int LineMorphingDrawable_lmd_paddingBottom = 6;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#lmd_paddingLeft}
+          attribute's value can be found in the {@link #LineMorphingDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:lmd_paddingLeft
+        */
+        public static final int LineMorphingDrawable_lmd_paddingLeft = 3;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#lmd_paddingRight}
+          attribute's value can be found in the {@link #LineMorphingDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:lmd_paddingRight
+        */
+        public static final int LineMorphingDrawable_lmd_paddingRight = 5;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#lmd_paddingTop}
+          attribute's value can be found in the {@link #LineMorphingDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:lmd_paddingTop
+        */
+        public static final int LineMorphingDrawable_lmd_paddingTop = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#lmd_state}
+          attribute's value can be found in the {@link #LineMorphingDrawable} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:lmd_state
+        */
+        public static final int LineMorphingDrawable_lmd_state = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#lmd_strokeCap}
+          attribute's value can be found in the {@link #LineMorphingDrawable} array.
+
+
+          <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>butt</code></td><td>0x00000000</td><td></td></tr>
+<tr><td><code>round</code></td><td>0x00000001</td><td></td></tr>
+<tr><td><code>square</code></td><td>0x00000002</td><td></td></tr>
+</table>
+          @attr name com.example.riccardo.mashape:lmd_strokeCap
+        */
+        public static final int LineMorphingDrawable_lmd_strokeCap = 11;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#lmd_strokeColor}
+          attribute's value can be found in the {@link #LineMorphingDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:lmd_strokeColor
+        */
+        public static final int LineMorphingDrawable_lmd_strokeColor = 10;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#lmd_strokeJoin}
+          attribute's value can be found in the {@link #LineMorphingDrawable} array.
+
+
+          <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>miter</code></td><td>0x00000000</td><td></td></tr>
+<tr><td><code>round</code></td><td>0x00000001</td><td></td></tr>
+<tr><td><code>bevel</code></td><td>0x00000002</td><td></td></tr>
+</table>
+          @attr name com.example.riccardo.mashape:lmd_strokeJoin
+        */
+        public static final int LineMorphingDrawable_lmd_strokeJoin = 12;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#lmd_strokeSize}
+          attribute's value can be found in the {@link #LineMorphingDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:lmd_strokeSize
+        */
+        public static final int LineMorphingDrawable_lmd_strokeSize = 9;
         /** Attributes that can be used with a LinearLayoutCompat.
            <p>Includes the following attributes:</p>
            <table>
@@ -2886,8 +7192,8 @@ containing a value of this type.
          */
         public static final int[] LinearLayoutCompat = {
             0x010100af, 0x010100c4, 0x01010126, 0x01010127,
-            0x01010128, 0x7f01000b, 0x7f01002d, 0x7f01002e,
-            0x7f01002f
+            0x01010128, 0x7f010021, 0x7f0100be, 0x7f0100bf,
+            0x7f0100c0
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#baselineAligned}
@@ -3021,6 +7327,290 @@ containing a value of this type.
           @attr name android:layout_width
         */
         public static final int LinearLayoutCompat_Layout_android_layout_width = 1;
+        /** Attributes that can be used with a LinearProgressDrawable.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_lpd_inAnimDuration com.example.riccardo.mashape:lpd_inAnimDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_lpd_keepDuration com.example.riccardo.mashape:lpd_keepDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_lpd_maxLineWidth com.example.riccardo.mashape:lpd_maxLineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_lpd_minLineWidth com.example.riccardo.mashape:lpd_minLineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_lpd_outAnimDuration com.example.riccardo.mashape:lpd_outAnimDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_lpd_reverse com.example.riccardo.mashape:lpd_reverse}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_lpd_strokeColor com.example.riccardo.mashape:lpd_strokeColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_lpd_strokeColors com.example.riccardo.mashape:lpd_strokeColors}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_lpd_strokeSecondaryColor com.example.riccardo.mashape:lpd_strokeSecondaryColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_lpd_strokeSize com.example.riccardo.mashape:lpd_strokeSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_lpd_transformDuration com.example.riccardo.mashape:lpd_transformDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_lpd_transformInterpolator com.example.riccardo.mashape:lpd_transformInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_lpd_travelDuration com.example.riccardo.mashape:lpd_travelDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_lpd_verticalAlign com.example.riccardo.mashape:lpd_verticalAlign}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_pv_progress com.example.riccardo.mashape:pv_progress}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_pv_progressMode com.example.riccardo.mashape:pv_progressMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_pv_secondaryProgress com.example.riccardo.mashape:pv_secondaryProgress}</code></td><td></td></tr>
+           </table>
+           @see #LinearProgressDrawable_lpd_inAnimDuration
+           @see #LinearProgressDrawable_lpd_keepDuration
+           @see #LinearProgressDrawable_lpd_maxLineWidth
+           @see #LinearProgressDrawable_lpd_minLineWidth
+           @see #LinearProgressDrawable_lpd_outAnimDuration
+           @see #LinearProgressDrawable_lpd_reverse
+           @see #LinearProgressDrawable_lpd_strokeColor
+           @see #LinearProgressDrawable_lpd_strokeColors
+           @see #LinearProgressDrawable_lpd_strokeSecondaryColor
+           @see #LinearProgressDrawable_lpd_strokeSize
+           @see #LinearProgressDrawable_lpd_transformDuration
+           @see #LinearProgressDrawable_lpd_transformInterpolator
+           @see #LinearProgressDrawable_lpd_travelDuration
+           @see #LinearProgressDrawable_lpd_verticalAlign
+           @see #LinearProgressDrawable_pv_progress
+           @see #LinearProgressDrawable_pv_progressMode
+           @see #LinearProgressDrawable_pv_secondaryProgress
+         */
+        public static final int[] LinearProgressDrawable = {
+            0x7f010014, 0x7f010015, 0x7f010016, 0x7f0100c1,
+            0x7f0100c2, 0x7f0100c3, 0x7f0100c4, 0x7f0100c5,
+            0x7f0100c6, 0x7f0100c7, 0x7f0100c8, 0x7f0100c9,
+            0x7f0100ca, 0x7f0100cb, 0x7f0100cc, 0x7f0100cd,
+            0x7f0100ce
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#lpd_inAnimDuration}
+          attribute's value can be found in the {@link #LinearProgressDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:lpd_inAnimDuration
+        */
+        public static final int LinearProgressDrawable_lpd_inAnimDuration = 14;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#lpd_keepDuration}
+          attribute's value can be found in the {@link #LinearProgressDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:lpd_keepDuration
+        */
+        public static final int LinearProgressDrawable_lpd_keepDuration = 12;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#lpd_maxLineWidth}
+          attribute's value can be found in the {@link #LinearProgressDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+some parent container.
+          @attr name com.example.riccardo.mashape:lpd_maxLineWidth
+        */
+        public static final int LinearProgressDrawable_lpd_maxLineWidth = 3;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#lpd_minLineWidth}
+          attribute's value can be found in the {@link #LinearProgressDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+some parent container.
+          @attr name com.example.riccardo.mashape:lpd_minLineWidth
+        */
+        public static final int LinearProgressDrawable_lpd_minLineWidth = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#lpd_outAnimDuration}
+          attribute's value can be found in the {@link #LinearProgressDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:lpd_outAnimDuration
+        */
+        public static final int LinearProgressDrawable_lpd_outAnimDuration = 15;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#lpd_reverse}
+          attribute's value can be found in the {@link #LinearProgressDrawable} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:lpd_reverse
+        */
+        public static final int LinearProgressDrawable_lpd_reverse = 9;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#lpd_strokeColor}
+          attribute's value can be found in the {@link #LinearProgressDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:lpd_strokeColor
+        */
+        public static final int LinearProgressDrawable_lpd_strokeColor = 6;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#lpd_strokeColors}
+          attribute's value can be found in the {@link #LinearProgressDrawable} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:lpd_strokeColors
+        */
+        public static final int LinearProgressDrawable_lpd_strokeColors = 8;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#lpd_strokeSecondaryColor}
+          attribute's value can be found in the {@link #LinearProgressDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:lpd_strokeSecondaryColor
+        */
+        public static final int LinearProgressDrawable_lpd_strokeSecondaryColor = 7;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#lpd_strokeSize}
+          attribute's value can be found in the {@link #LinearProgressDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:lpd_strokeSize
+        */
+        public static final int LinearProgressDrawable_lpd_strokeSize = 5;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#lpd_transformDuration}
+          attribute's value can be found in the {@link #LinearProgressDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:lpd_transformDuration
+        */
+        public static final int LinearProgressDrawable_lpd_transformDuration = 11;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#lpd_transformInterpolator}
+          attribute's value can be found in the {@link #LinearProgressDrawable} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:lpd_transformInterpolator
+        */
+        public static final int LinearProgressDrawable_lpd_transformInterpolator = 13;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#lpd_travelDuration}
+          attribute's value can be found in the {@link #LinearProgressDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:lpd_travelDuration
+        */
+        public static final int LinearProgressDrawable_lpd_travelDuration = 10;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#lpd_verticalAlign}
+          attribute's value can be found in the {@link #LinearProgressDrawable} array.
+
+
+          <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>top</code></td><td>0x00000000</td><td></td></tr>
+<tr><td><code>center</code></td><td>0x00000001</td><td></td></tr>
+<tr><td><code>bottom</code></td><td>0x00000002</td><td></td></tr>
+</table>
+          @attr name com.example.riccardo.mashape:lpd_verticalAlign
+        */
+        public static final int LinearProgressDrawable_lpd_verticalAlign = 16;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#pv_progress}
+          attribute's value can be found in the {@link #LinearProgressDrawable} array.
+
+
+          <p>Must be a floating point value, such as "<code>1.2</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:pv_progress
+        */
+        public static final int LinearProgressDrawable_pv_progress = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#pv_progressMode}
+          attribute's value can be found in the {@link #LinearProgressDrawable} array.
+
+
+          <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>determinate</code></td><td>0x00000000</td><td></td></tr>
+<tr><td><code>indeterminate</code></td><td>0x00000001</td><td></td></tr>
+<tr><td><code>buffer</code></td><td>0x00000002</td><td></td></tr>
+<tr><td><code>query</code></td><td>0x00000003</td><td></td></tr>
+</table>
+          @attr name com.example.riccardo.mashape:pv_progressMode
+        */
+        public static final int LinearProgressDrawable_pv_progressMode = 1;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#pv_secondaryProgress}
+          attribute's value can be found in the {@link #LinearProgressDrawable} array.
+
+
+          <p>Must be a floating point value, such as "<code>1.2</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:pv_secondaryProgress
+        */
+        public static final int LinearProgressDrawable_pv_secondaryProgress = 2;
         /** Attributes that can be used with a ListPopupWindow.
            <p>Includes the following attributes:</p>
            <table>
@@ -3154,8 +7744,8 @@ containing a value of this type.
             0x01010002, 0x0101000e, 0x010100d0, 0x01010106,
             0x01010194, 0x010101de, 0x010101df, 0x010101e1,
             0x010101e2, 0x010101e3, 0x010101e4, 0x010101e5,
-            0x0101026f, 0x7f010030, 0x7f010031, 0x7f010032,
-            0x7f010033
+            0x0101026f, 0x7f0100cf, 0x7f0100d0, 0x7f0100d1,
+            0x7f0100d2
         };
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#actionLayout}
@@ -3319,7 +7909,7 @@ containing a value of this type.
          */
         public static final int[] MenuView = {
             0x010100ae, 0x0101012c, 0x0101012d, 0x0101012e,
-            0x0101012f, 0x01010130, 0x01010131, 0x7f010034
+            0x0101012f, 0x01010130, 0x01010131, 0x7f0100d3
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#headerBackground}
@@ -3377,6 +7967,41 @@ containing a value of this type.
           @attr name com.example.riccardo.mashape:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
+        /** Attributes that can be used with a NavigationDrawerDrawable.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #NavigationDrawerDrawable_nd_icon com.example.riccardo.mashape:nd_icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationDrawerDrawable_nd_ripple com.example.riccardo.mashape:nd_ripple}</code></td><td></td></tr>
+           </table>
+           @see #NavigationDrawerDrawable_nd_icon
+           @see #NavigationDrawerDrawable_nd_ripple
+         */
+        public static final int[] NavigationDrawerDrawable = {
+            0x7f0100d4, 0x7f0100d5
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#nd_icon}
+          attribute's value can be found in the {@link #NavigationDrawerDrawable} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:nd_icon
+        */
+        public static final int NavigationDrawerDrawable_nd_icon = 1;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#nd_ripple}
+          attribute's value can be found in the {@link #NavigationDrawerDrawable} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:nd_ripple
+        */
+        public static final int NavigationDrawerDrawable_nd_ripple = 0;
         /** Attributes that can be used with a PopupWindow.
            <p>Includes the following attributes:</p>
            <table>
@@ -3390,7 +8015,7 @@ containing a value of this type.
            @see #PopupWindow_overlapAnchor
          */
         public static final int[] PopupWindow = {
-            0x01010176, 0x7f010035
+            0x01010176, 0x7f0100d6
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#popupBackground}
@@ -3423,7 +8048,7 @@ containing a value of this type.
            @see #PopupWindowBackgroundState_state_above_anchor
          */
         public static final int[] PopupWindowBackgroundState = {
-            0x7f010036
+            0x7f0100d7
         };
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#state_above_anchor}
@@ -3439,6 +8064,617 @@ containing a value of this type.
           @attr name com.example.riccardo.mashape:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
+        /** Attributes that can be used with a ProgressView.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #ProgressView_pv_autostart com.example.riccardo.mashape:pv_autostart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressView_pv_circular com.example.riccardo.mashape:pv_circular}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressView_pv_progress com.example.riccardo.mashape:pv_progress}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressView_pv_progressMode com.example.riccardo.mashape:pv_progressMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressView_pv_progressStyle com.example.riccardo.mashape:pv_progressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressView_pv_secondaryProgress com.example.riccardo.mashape:pv_secondaryProgress}</code></td><td></td></tr>
+           </table>
+           @see #ProgressView_pv_autostart
+           @see #ProgressView_pv_circular
+           @see #ProgressView_pv_progress
+           @see #ProgressView_pv_progressMode
+           @see #ProgressView_pv_progressStyle
+           @see #ProgressView_pv_secondaryProgress
+         */
+        public static final int[] ProgressView = {
+            0x7f010014, 0x7f010015, 0x7f010016, 0x7f0100d8,
+            0x7f0100d9, 0x7f0100da
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#pv_autostart}
+          attribute's value can be found in the {@link #ProgressView} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:pv_autostart
+        */
+        public static final int ProgressView_pv_autostart = 3;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#pv_circular}
+          attribute's value can be found in the {@link #ProgressView} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:pv_circular
+        */
+        public static final int ProgressView_pv_circular = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#pv_progress}
+          attribute's value can be found in the {@link #ProgressView} array.
+
+
+          <p>Must be a floating point value, such as "<code>1.2</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:pv_progress
+        */
+        public static final int ProgressView_pv_progress = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#pv_progressMode}
+          attribute's value can be found in the {@link #ProgressView} array.
+
+
+          <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>determinate</code></td><td>0x00000000</td><td></td></tr>
+<tr><td><code>indeterminate</code></td><td>0x00000001</td><td></td></tr>
+<tr><td><code>buffer</code></td><td>0x00000002</td><td></td></tr>
+<tr><td><code>query</code></td><td>0x00000003</td><td></td></tr>
+</table>
+          @attr name com.example.riccardo.mashape:pv_progressMode
+        */
+        public static final int ProgressView_pv_progressMode = 1;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#pv_progressStyle}
+          attribute's value can be found in the {@link #ProgressView} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:pv_progressStyle
+        */
+        public static final int ProgressView_pv_progressStyle = 5;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#pv_secondaryProgress}
+          attribute's value can be found in the {@link #ProgressView} array.
+
+
+          <p>Must be a floating point value, such as "<code>1.2</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:pv_secondaryProgress
+        */
+        public static final int ProgressView_pv_secondaryProgress = 2;
+        /** Attributes that can be used with a RadioButtonDrawable.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #RadioButtonDrawable_rbd_animDuration com.example.riccardo.mashape:rbd_animDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #RadioButtonDrawable_rbd_height com.example.riccardo.mashape:rbd_height}</code></td><td></td></tr>
+           <tr><td><code>{@link #RadioButtonDrawable_rbd_innerRadius com.example.riccardo.mashape:rbd_innerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #RadioButtonDrawable_rbd_radius com.example.riccardo.mashape:rbd_radius}</code></td><td></td></tr>
+           <tr><td><code>{@link #RadioButtonDrawable_rbd_strokeColor com.example.riccardo.mashape:rbd_strokeColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #RadioButtonDrawable_rbd_strokeSize com.example.riccardo.mashape:rbd_strokeSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #RadioButtonDrawable_rbd_width com.example.riccardo.mashape:rbd_width}</code></td><td></td></tr>
+           </table>
+           @see #RadioButtonDrawable_rbd_animDuration
+           @see #RadioButtonDrawable_rbd_height
+           @see #RadioButtonDrawable_rbd_innerRadius
+           @see #RadioButtonDrawable_rbd_radius
+           @see #RadioButtonDrawable_rbd_strokeColor
+           @see #RadioButtonDrawable_rbd_strokeSize
+           @see #RadioButtonDrawable_rbd_width
+         */
+        public static final int[] RadioButtonDrawable = {
+            0x7f0100db, 0x7f0100dc, 0x7f0100dd, 0x7f0100de,
+            0x7f0100df, 0x7f0100e0, 0x7f0100e1
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#rbd_animDuration}
+          attribute's value can be found in the {@link #RadioButtonDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:rbd_animDuration
+        */
+        public static final int RadioButtonDrawable_rbd_animDuration = 6;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#rbd_height}
+          attribute's value can be found in the {@link #RadioButtonDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:rbd_height
+        */
+        public static final int RadioButtonDrawable_rbd_height = 1;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#rbd_innerRadius}
+          attribute's value can be found in the {@link #RadioButtonDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:rbd_innerRadius
+        */
+        public static final int RadioButtonDrawable_rbd_innerRadius = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#rbd_radius}
+          attribute's value can be found in the {@link #RadioButtonDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:rbd_radius
+        */
+        public static final int RadioButtonDrawable_rbd_radius = 3;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#rbd_strokeColor}
+          attribute's value can be found in the {@link #RadioButtonDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:rbd_strokeColor
+        */
+        public static final int RadioButtonDrawable_rbd_strokeColor = 5;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#rbd_strokeSize}
+          attribute's value can be found in the {@link #RadioButtonDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:rbd_strokeSize
+        */
+        public static final int RadioButtonDrawable_rbd_strokeSize = 2;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#rbd_width}
+          attribute's value can be found in the {@link #RadioButtonDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:rbd_width
+        */
+        public static final int RadioButtonDrawable_rbd_width = 0;
+        /** Attributes that can be used with a RippleDrawable.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_backgroundAnimDuration com.example.riccardo.mashape:rd_backgroundAnimDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_backgroundColor com.example.riccardo.mashape:rd_backgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_bottomLeftCornerRadius com.example.riccardo.mashape:rd_bottomLeftCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_bottomPadding com.example.riccardo.mashape:rd_bottomPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_bottomRightCornerRadius com.example.riccardo.mashape:rd_bottomRightCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_cornerRadius com.example.riccardo.mashape:rd_cornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_delayClick com.example.riccardo.mashape:rd_delayClick}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_inInterpolator com.example.riccardo.mashape:rd_inInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_leftPadding com.example.riccardo.mashape:rd_leftPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_maskType com.example.riccardo.mashape:rd_maskType}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_maxRippleRadius com.example.riccardo.mashape:rd_maxRippleRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_outInterpolator com.example.riccardo.mashape:rd_outInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_padding com.example.riccardo.mashape:rd_padding}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_rightPadding com.example.riccardo.mashape:rd_rightPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_rippleAnimDuration com.example.riccardo.mashape:rd_rippleAnimDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_rippleColor com.example.riccardo.mashape:rd_rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_rippleType com.example.riccardo.mashape:rd_rippleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_topLeftCornerRadius com.example.riccardo.mashape:rd_topLeftCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_topPadding com.example.riccardo.mashape:rd_topPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_topRightCornerRadius com.example.riccardo.mashape:rd_topRightCornerRadius}</code></td><td></td></tr>
+           </table>
+           @see #RippleDrawable_rd_backgroundAnimDuration
+           @see #RippleDrawable_rd_backgroundColor
+           @see #RippleDrawable_rd_bottomLeftCornerRadius
+           @see #RippleDrawable_rd_bottomPadding
+           @see #RippleDrawable_rd_bottomRightCornerRadius
+           @see #RippleDrawable_rd_cornerRadius
+           @see #RippleDrawable_rd_delayClick
+           @see #RippleDrawable_rd_inInterpolator
+           @see #RippleDrawable_rd_leftPadding
+           @see #RippleDrawable_rd_maskType
+           @see #RippleDrawable_rd_maxRippleRadius
+           @see #RippleDrawable_rd_outInterpolator
+           @see #RippleDrawable_rd_padding
+           @see #RippleDrawable_rd_rightPadding
+           @see #RippleDrawable_rd_rippleAnimDuration
+           @see #RippleDrawable_rd_rippleColor
+           @see #RippleDrawable_rd_rippleType
+           @see #RippleDrawable_rd_topLeftCornerRadius
+           @see #RippleDrawable_rd_topPadding
+           @see #RippleDrawable_rd_topRightCornerRadius
+         */
+        public static final int[] RippleDrawable = {
+            0x7f0100e2, 0x7f0100e3, 0x7f0100e4, 0x7f0100e5,
+            0x7f0100e6, 0x7f0100e7, 0x7f0100e8, 0x7f0100e9,
+            0x7f0100ea, 0x7f0100eb, 0x7f0100ec, 0x7f0100ed,
+            0x7f0100ee, 0x7f0100ef, 0x7f0100f0, 0x7f0100f1,
+            0x7f0100f2, 0x7f0100f3, 0x7f0100f4, 0x7f0100f5
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#rd_backgroundAnimDuration}
+          attribute's value can be found in the {@link #RippleDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:rd_backgroundAnimDuration
+        */
+        public static final int RippleDrawable_rd_backgroundAnimDuration = 1;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#rd_backgroundColor}
+          attribute's value can be found in the {@link #RippleDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:rd_backgroundColor
+        */
+        public static final int RippleDrawable_rd_backgroundColor = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#rd_bottomLeftCornerRadius}
+          attribute's value can be found in the {@link #RippleDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:rd_bottomLeftCornerRadius
+        */
+        public static final int RippleDrawable_rd_bottomLeftCornerRadius = 12;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#rd_bottomPadding}
+          attribute's value can be found in the {@link #RippleDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:rd_bottomPadding
+        */
+        public static final int RippleDrawable_rd_bottomPadding = 18;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#rd_bottomRightCornerRadius}
+          attribute's value can be found in the {@link #RippleDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:rd_bottomRightCornerRadius
+        */
+        public static final int RippleDrawable_rd_bottomRightCornerRadius = 13;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#rd_cornerRadius}
+          attribute's value can be found in the {@link #RippleDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:rd_cornerRadius
+        */
+        public static final int RippleDrawable_rd_cornerRadius = 9;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#rd_delayClick}
+          attribute's value can be found in the {@link #RippleDrawable} array.
+
+
+          <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>none</code></td><td>0x00000000</td><td></td></tr>
+<tr><td><code>untilRelease</code></td><td>0x00000001</td><td></td></tr>
+<tr><td><code>afterRelease</code></td><td>0x00000002</td><td></td></tr>
+</table>
+          @attr name com.example.riccardo.mashape:rd_delayClick
+        */
+        public static final int RippleDrawable_rd_delayClick = 19;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#rd_inInterpolator}
+          attribute's value can be found in the {@link #RippleDrawable} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:rd_inInterpolator
+        */
+        public static final int RippleDrawable_rd_inInterpolator = 5;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#rd_leftPadding}
+          attribute's value can be found in the {@link #RippleDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:rd_leftPadding
+        */
+        public static final int RippleDrawable_rd_leftPadding = 15;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#rd_maskType}
+          attribute's value can be found in the {@link #RippleDrawable} array.
+
+
+          <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>rectangle</code></td><td>0x00000000</td><td></td></tr>
+<tr><td><code>oval</code></td><td>0x00000001</td><td></td></tr>
+</table>
+          @attr name com.example.riccardo.mashape:rd_maskType
+        */
+        public static final int RippleDrawable_rd_maskType = 7;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#rd_maxRippleRadius}
+          attribute's value can be found in the {@link #RippleDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>match_view</code></td><td>0x00000000</td><td></td></tr>
+</table>
+          @attr name com.example.riccardo.mashape:rd_maxRippleRadius
+        */
+        public static final int RippleDrawable_rd_maxRippleRadius = 2;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#rd_outInterpolator}
+          attribute's value can be found in the {@link #RippleDrawable} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:rd_outInterpolator
+        */
+        public static final int RippleDrawable_rd_outInterpolator = 6;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#rd_padding}
+          attribute's value can be found in the {@link #RippleDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:rd_padding
+        */
+        public static final int RippleDrawable_rd_padding = 14;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#rd_rightPadding}
+          attribute's value can be found in the {@link #RippleDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:rd_rightPadding
+        */
+        public static final int RippleDrawable_rd_rightPadding = 17;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#rd_rippleAnimDuration}
+          attribute's value can be found in the {@link #RippleDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:rd_rippleAnimDuration
+        */
+        public static final int RippleDrawable_rd_rippleAnimDuration = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#rd_rippleColor}
+          attribute's value can be found in the {@link #RippleDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:rd_rippleColor
+        */
+        public static final int RippleDrawable_rd_rippleColor = 3;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#rd_rippleType}
+          attribute's value can be found in the {@link #RippleDrawable} array.
+
+
+          <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>touch</code></td><td>0x00000000</td><td></td></tr>
+<tr><td><code>wave</code></td><td>0x00000001</td><td></td></tr>
+</table>
+          @attr name com.example.riccardo.mashape:rd_rippleType
+        */
+        public static final int RippleDrawable_rd_rippleType = 8;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#rd_topLeftCornerRadius}
+          attribute's value can be found in the {@link #RippleDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:rd_topLeftCornerRadius
+        */
+        public static final int RippleDrawable_rd_topLeftCornerRadius = 10;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#rd_topPadding}
+          attribute's value can be found in the {@link #RippleDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:rd_topPadding
+        */
+        public static final int RippleDrawable_rd_topPadding = 16;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#rd_topRightCornerRadius}
+          attribute's value can be found in the {@link #RippleDrawable} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:rd_topRightCornerRadius
+        */
+        public static final int RippleDrawable_rd_topRightCornerRadius = 11;
+        /** Attributes that can be used with a RippleView.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #RippleView_rd_enable com.example.riccardo.mashape:rd_enable}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleView_rd_style com.example.riccardo.mashape:rd_style}</code></td><td></td></tr>
+           </table>
+           @see #RippleView_rd_enable
+           @see #RippleView_rd_style
+         */
+        public static final int[] RippleView = {
+            0x7f010017, 0x7f010018
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#rd_enable}
+          attribute's value can be found in the {@link #RippleView} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:rd_enable
+        */
+        public static final int RippleView_rd_enable = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#rd_style}
+          attribute's value can be found in the {@link #RippleView} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:rd_style
+        */
+        public static final int RippleView_rd_style = 1;
         /** Attributes that can be used with a SearchView.
            <p>Includes the following attributes:</p>
            <table>
@@ -3451,13 +8687,11 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_closeIcon com.example.riccardo.mashape:closeIcon}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_commitIcon com.example.riccardo.mashape:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint com.example.riccardo.mashape:defaultQueryHint}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_goIcon com.example.riccardo.mashape:goIcon}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_iconifiedByDefault com.example.riccardo.mashape:iconifiedByDefault}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_layout com.example.riccardo.mashape:layout}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_queryBackground com.example.riccardo.mashape:queryBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_queryHint com.example.riccardo.mashape:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon com.example.riccardo.mashape:searchHintIcon}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_searchIcon com.example.riccardo.mashape:searchIcon}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_submitBackground com.example.riccardo.mashape:submitBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_suggestionRowLayout com.example.riccardo.mashape:suggestionRowLayout}</code></td><td></td></tr>
@@ -3469,13 +8703,11 @@ containing a value of this type.
            @see #SearchView_android_maxWidth
            @see #SearchView_closeIcon
            @see #SearchView_commitIcon
-           @see #SearchView_defaultQueryHint
            @see #SearchView_goIcon
            @see #SearchView_iconifiedByDefault
            @see #SearchView_layout
            @see #SearchView_queryBackground
            @see #SearchView_queryHint
-           @see #SearchView_searchHintIcon
            @see #SearchView_searchIcon
            @see #SearchView_submitBackground
            @see #SearchView_suggestionRowLayout
@@ -3483,10 +8715,9 @@ containing a value of this type.
          */
         public static final int[] SearchView = {
             0x010100da, 0x0101011f, 0x01010220, 0x01010264,
-            0x7f010037, 0x7f010038, 0x7f010039, 0x7f01003a,
-            0x7f01003b, 0x7f01003c, 0x7f01003d, 0x7f01003e,
-            0x7f01003f, 0x7f010040, 0x7f010041, 0x7f010042,
-            0x7f010043
+            0x7f0100f6, 0x7f0100f7, 0x7f0100f8, 0x7f0100f9,
+            0x7f0100fa, 0x7f0100fb, 0x7f0100fc, 0x7f0100fd,
+            0x7f0100fe, 0x7f0100ff, 0x7f010100
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#focusable}
@@ -3521,7 +8752,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:closeIcon
         */
-        public static final int SearchView_closeIcon = 8;
+        public static final int SearchView_closeIcon = 7;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
@@ -3531,21 +8762,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:commitIcon
         */
-        public static final int SearchView_commitIcon = 13;
-        /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#defaultQueryHint}
-          attribute's value can be found in the {@link #SearchView} array.
-
-
-          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.riccardo.mashape:defaultQueryHint
-        */
-        public static final int SearchView_defaultQueryHint = 7;
+        public static final int SearchView_commitIcon = 11;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
@@ -3555,7 +8772,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:goIcon
         */
-        public static final int SearchView_goIcon = 9;
+        public static final int SearchView_goIcon = 8;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
@@ -3589,7 +8806,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:queryBackground
         */
-        public static final int SearchView_queryBackground = 15;
+        public static final int SearchView_queryBackground = 13;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
@@ -3605,16 +8822,6 @@ containing a value of this type.
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#searchHintIcon}
-          attribute's value can be found in the {@link #SearchView} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.riccardo.mashape:searchHintIcon
-        */
-        public static final int SearchView_searchHintIcon = 11;
-        /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
@@ -3623,7 +8830,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:searchIcon
         */
-        public static final int SearchView_searchIcon = 10;
+        public static final int SearchView_searchIcon = 9;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
@@ -3633,7 +8840,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:submitBackground
         */
-        public static final int SearchView_submitBackground = 16;
+        public static final int SearchView_submitBackground = 14;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
@@ -3643,7 +8850,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:suggestionRowLayout
         */
-        public static final int SearchView_suggestionRowLayout = 14;
+        public static final int SearchView_suggestionRowLayout = 12;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
@@ -3653,7 +8860,873 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:voiceIcon
         */
-        public static final int SearchView_voiceIcon = 12;
+        public static final int SearchView_voiceIcon = 10;
+        /** Attributes that can be used with a SimpleDialog.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #SimpleDialog_di_checkBoxStyle com.example.riccardo.mashape:di_checkBoxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDialog_di_itemHeight com.example.riccardo.mashape:di_itemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDialog_di_itemTextAppearance com.example.riccardo.mashape:di_itemTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDialog_di_messageTextAppearance com.example.riccardo.mashape:di_messageTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDialog_di_messageTextColor com.example.riccardo.mashape:di_messageTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDialog_di_radioButtonStyle com.example.riccardo.mashape:di_radioButtonStyle}</code></td><td></td></tr>
+           </table>
+           @see #SimpleDialog_di_checkBoxStyle
+           @see #SimpleDialog_di_itemHeight
+           @see #SimpleDialog_di_itemTextAppearance
+           @see #SimpleDialog_di_messageTextAppearance
+           @see #SimpleDialog_di_messageTextColor
+           @see #SimpleDialog_di_radioButtonStyle
+         */
+        public static final int[] SimpleDialog = {
+            0x7f010101, 0x7f010102, 0x7f010103, 0x7f010104,
+            0x7f010105, 0x7f010106
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_checkBoxStyle}
+          attribute's value can be found in the {@link #SimpleDialog} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:di_checkBoxStyle
+        */
+        public static final int SimpleDialog_di_checkBoxStyle = 3;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_itemHeight}
+          attribute's value can be found in the {@link #SimpleDialog} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:di_itemHeight
+        */
+        public static final int SimpleDialog_di_itemHeight = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_itemTextAppearance}
+          attribute's value can be found in the {@link #SimpleDialog} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:di_itemTextAppearance
+        */
+        public static final int SimpleDialog_di_itemTextAppearance = 5;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_messageTextAppearance}
+          attribute's value can be found in the {@link #SimpleDialog} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:di_messageTextAppearance
+        */
+        public static final int SimpleDialog_di_messageTextAppearance = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_messageTextColor}
+          attribute's value can be found in the {@link #SimpleDialog} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:di_messageTextColor
+        */
+        public static final int SimpleDialog_di_messageTextColor = 1;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#di_radioButtonStyle}
+          attribute's value can be found in the {@link #SimpleDialog} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:di_radioButtonStyle
+        */
+        public static final int SimpleDialog_di_radioButtonStyle = 2;
+        /** Attributes that can be used with a Slider.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #Slider_android_enabled android:enabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_android_gravity android:gravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_discreteMode com.example.riccardo.mashape:sl_discreteMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_fontFamily com.example.riccardo.mashape:sl_fontFamily}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_interpolator com.example.riccardo.mashape:sl_interpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_maxValue com.example.riccardo.mashape:sl_maxValue}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_minValue com.example.riccardo.mashape:sl_minValue}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_primaryColor com.example.riccardo.mashape:sl_primaryColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_secondaryColor com.example.riccardo.mashape:sl_secondaryColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_stepValue com.example.riccardo.mashape:sl_stepValue}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_textColor com.example.riccardo.mashape:sl_textColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_textSize com.example.riccardo.mashape:sl_textSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_textStyle com.example.riccardo.mashape:sl_textStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_thumbBorderSize com.example.riccardo.mashape:sl_thumbBorderSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_thumbFocusRadius com.example.riccardo.mashape:sl_thumbFocusRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_thumbRadius com.example.riccardo.mashape:sl_thumbRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_trackCap com.example.riccardo.mashape:sl_trackCap}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_trackSize com.example.riccardo.mashape:sl_trackSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_transformAnimDuration com.example.riccardo.mashape:sl_transformAnimDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_travelAnimDuration com.example.riccardo.mashape:sl_travelAnimDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_value com.example.riccardo.mashape:sl_value}</code></td><td></td></tr>
+           </table>
+           @see #Slider_android_enabled
+           @see #Slider_android_gravity
+           @see #Slider_sl_discreteMode
+           @see #Slider_sl_fontFamily
+           @see #Slider_sl_interpolator
+           @see #Slider_sl_maxValue
+           @see #Slider_sl_minValue
+           @see #Slider_sl_primaryColor
+           @see #Slider_sl_secondaryColor
+           @see #Slider_sl_stepValue
+           @see #Slider_sl_textColor
+           @see #Slider_sl_textSize
+           @see #Slider_sl_textStyle
+           @see #Slider_sl_thumbBorderSize
+           @see #Slider_sl_thumbFocusRadius
+           @see #Slider_sl_thumbRadius
+           @see #Slider_sl_trackCap
+           @see #Slider_sl_trackSize
+           @see #Slider_sl_transformAnimDuration
+           @see #Slider_sl_travelAnimDuration
+           @see #Slider_sl_value
+         */
+        public static final int[] Slider = {
+            0x0101000e, 0x010100af, 0x7f010107, 0x7f010108,
+            0x7f010109, 0x7f01010a, 0x7f01010b, 0x7f01010c,
+            0x7f01010d, 0x7f01010e, 0x7f01010f, 0x7f010110,
+            0x7f010111, 0x7f010112, 0x7f010113, 0x7f010114,
+            0x7f010115, 0x7f010116, 0x7f010117, 0x7f010118,
+            0x7f010119
+        };
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#enabled}
+          attribute's value can be found in the {@link #Slider} array.
+          @attr name android:enabled
+        */
+        public static final int Slider_android_enabled = 0;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#gravity}
+          attribute's value can be found in the {@link #Slider} array.
+          @attr name android:gravity
+        */
+        public static final int Slider_android_gravity = 1;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sl_discreteMode}
+          attribute's value can be found in the {@link #Slider} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
+          @attr name com.example.riccardo.mashape:sl_discreteMode
+        */
+        public static final int Slider_sl_discreteMode = 16;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sl_fontFamily}
+          attribute's value can be found in the {@link #Slider} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+          @attr name com.example.riccardo.mashape:sl_fontFamily
+        */
+        public static final int Slider_sl_fontFamily = 17;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sl_interpolator}
+          attribute's value can be found in the {@link #Slider} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:sl_interpolator
+        */
+        public static final int Slider_sl_interpolator = 11;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sl_maxValue}
+          attribute's value can be found in the {@link #Slider} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:sl_maxValue
+        */
+        public static final int Slider_sl_maxValue = 13;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sl_minValue}
+          attribute's value can be found in the {@link #Slider} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:sl_minValue
+        */
+        public static final int Slider_sl_minValue = 12;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sl_primaryColor}
+          attribute's value can be found in the {@link #Slider} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:sl_primaryColor
+        */
+        public static final int Slider_sl_primaryColor = 3;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sl_secondaryColor}
+          attribute's value can be found in the {@link #Slider} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:sl_secondaryColor
+        */
+        public static final int Slider_sl_secondaryColor = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sl_stepValue}
+          attribute's value can be found in the {@link #Slider} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:sl_stepValue
+        */
+        public static final int Slider_sl_stepValue = 14;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sl_textColor}
+          attribute's value can be found in the {@link #Slider} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:sl_textColor
+        */
+        public static final int Slider_sl_textColor = 20;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sl_textSize}
+          attribute's value can be found in the {@link #Slider} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:sl_textSize
+        */
+        public static final int Slider_sl_textSize = 19;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sl_textStyle}
+          attribute's value can be found in the {@link #Slider} array.
+
+
+          <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>normal</code></td><td>0</td><td></td></tr>
+<tr><td><code>bold</code></td><td>1</td><td></td></tr>
+<tr><td><code>italic</code></td><td>2</td><td></td></tr>
+<tr><td><code>bold_italic</code></td><td>3</td><td></td></tr>
+</table>
+          @attr name com.example.riccardo.mashape:sl_textStyle
+        */
+        public static final int Slider_sl_textStyle = 18;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sl_thumbBorderSize}
+          attribute's value can be found in the {@link #Slider} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:sl_thumbBorderSize
+        */
+        public static final int Slider_sl_thumbBorderSize = 6;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sl_thumbFocusRadius}
+          attribute's value can be found in the {@link #Slider} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:sl_thumbFocusRadius
+        */
+        public static final int Slider_sl_thumbFocusRadius = 8;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sl_thumbRadius}
+          attribute's value can be found in the {@link #Slider} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:sl_thumbRadius
+        */
+        public static final int Slider_sl_thumbRadius = 7;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sl_trackCap}
+          attribute's value can be found in the {@link #Slider} array.
+
+
+          <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>butt</code></td><td>0x00000000</td><td></td></tr>
+<tr><td><code>round</code></td><td>0x00000001</td><td></td></tr>
+<tr><td><code>square</code></td><td>0x00000002</td><td></td></tr>
+</table>
+          @attr name com.example.riccardo.mashape:sl_trackCap
+        */
+        public static final int Slider_sl_trackCap = 5;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sl_trackSize}
+          attribute's value can be found in the {@link #Slider} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:sl_trackSize
+        */
+        public static final int Slider_sl_trackSize = 2;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sl_transformAnimDuration}
+          attribute's value can be found in the {@link #Slider} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:sl_transformAnimDuration
+        */
+        public static final int Slider_sl_transformAnimDuration = 10;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sl_travelAnimDuration}
+          attribute's value can be found in the {@link #Slider} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:sl_travelAnimDuration
+        */
+        public static final int Slider_sl_travelAnimDuration = 9;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sl_value}
+          attribute's value can be found in the {@link #Slider} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:sl_value
+        */
+        public static final int Slider_sl_value = 15;
+        /** Attributes that can be used with a SnackBar.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #SnackBar_sb_actionRipple com.example.riccardo.mashape:sb_actionRipple}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_actionText com.example.riccardo.mashape:sb_actionText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_actionTextAppearance com.example.riccardo.mashape:sb_actionTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_actionTextColor com.example.riccardo.mashape:sb_actionTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_actionTextSize com.example.riccardo.mashape:sb_actionTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_backgroundColor com.example.riccardo.mashape:sb_backgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_backgroundCornerRadius com.example.riccardo.mashape:sb_backgroundCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_duration com.example.riccardo.mashape:sb_duration}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_ellipsize com.example.riccardo.mashape:sb_ellipsize}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_height com.example.riccardo.mashape:sb_height}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_horizontalPadding com.example.riccardo.mashape:sb_horizontalPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_inAnimation com.example.riccardo.mashape:sb_inAnimation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_lines com.example.riccardo.mashape:sb_lines}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_marginBottom com.example.riccardo.mashape:sb_marginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_marginStart com.example.riccardo.mashape:sb_marginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_maxHeight com.example.riccardo.mashape:sb_maxHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_maxLines com.example.riccardo.mashape:sb_maxLines}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_maxWidth com.example.riccardo.mashape:sb_maxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_minHeight com.example.riccardo.mashape:sb_minHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_minWidth com.example.riccardo.mashape:sb_minWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_outAnimation com.example.riccardo.mashape:sb_outAnimation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_removeOnDismiss com.example.riccardo.mashape:sb_removeOnDismiss}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_singleLine com.example.riccardo.mashape:sb_singleLine}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_text com.example.riccardo.mashape:sb_text}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_textAppearance com.example.riccardo.mashape:sb_textAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_textColor com.example.riccardo.mashape:sb_textColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_textSize com.example.riccardo.mashape:sb_textSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_verticalPadding com.example.riccardo.mashape:sb_verticalPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_width com.example.riccardo.mashape:sb_width}</code></td><td></td></tr>
+           </table>
+           @see #SnackBar_sb_actionRipple
+           @see #SnackBar_sb_actionText
+           @see #SnackBar_sb_actionTextAppearance
+           @see #SnackBar_sb_actionTextColor
+           @see #SnackBar_sb_actionTextSize
+           @see #SnackBar_sb_backgroundColor
+           @see #SnackBar_sb_backgroundCornerRadius
+           @see #SnackBar_sb_duration
+           @see #SnackBar_sb_ellipsize
+           @see #SnackBar_sb_height
+           @see #SnackBar_sb_horizontalPadding
+           @see #SnackBar_sb_inAnimation
+           @see #SnackBar_sb_lines
+           @see #SnackBar_sb_marginBottom
+           @see #SnackBar_sb_marginStart
+           @see #SnackBar_sb_maxHeight
+           @see #SnackBar_sb_maxLines
+           @see #SnackBar_sb_maxWidth
+           @see #SnackBar_sb_minHeight
+           @see #SnackBar_sb_minWidth
+           @see #SnackBar_sb_outAnimation
+           @see #SnackBar_sb_removeOnDismiss
+           @see #SnackBar_sb_singleLine
+           @see #SnackBar_sb_text
+           @see #SnackBar_sb_textAppearance
+           @see #SnackBar_sb_textColor
+           @see #SnackBar_sb_textSize
+           @see #SnackBar_sb_verticalPadding
+           @see #SnackBar_sb_width
+         */
+        public static final int[] SnackBar = {
+            0x7f01011a, 0x7f01011b, 0x7f01011c, 0x7f01011d,
+            0x7f01011e, 0x7f01011f, 0x7f010120, 0x7f010121,
+            0x7f010122, 0x7f010123, 0x7f010124, 0x7f010125,
+            0x7f010126, 0x7f010127, 0x7f010128, 0x7f010129,
+            0x7f01012a, 0x7f01012b, 0x7f01012c, 0x7f01012d,
+            0x7f01012e, 0x7f01012f, 0x7f010130, 0x7f010131,
+            0x7f010132, 0x7f010133, 0x7f010134, 0x7f010135,
+            0x7f010136
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sb_actionRipple}
+          attribute's value can be found in the {@link #SnackBar} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:sb_actionRipple
+        */
+        public static final int SnackBar_sb_actionRipple = 24;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sb_actionText}
+          attribute's value can be found in the {@link #SnackBar} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+          @attr name com.example.riccardo.mashape:sb_actionText
+        */
+        public static final int SnackBar_sb_actionText = 23;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sb_actionTextAppearance}
+          attribute's value can be found in the {@link #SnackBar} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:sb_actionTextAppearance
+        */
+        public static final int SnackBar_sb_actionTextAppearance = 22;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sb_actionTextColor}
+          attribute's value can be found in the {@link #SnackBar} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:sb_actionTextColor
+        */
+        public static final int SnackBar_sb_actionTextColor = 21;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sb_actionTextSize}
+          attribute's value can be found in the {@link #SnackBar} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:sb_actionTextSize
+        */
+        public static final int SnackBar_sb_actionTextSize = 20;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sb_backgroundColor}
+          attribute's value can be found in the {@link #SnackBar} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:sb_backgroundColor
+        */
+        public static final int SnackBar_sb_backgroundColor = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sb_backgroundCornerRadius}
+          attribute's value can be found in the {@link #SnackBar} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:sb_backgroundCornerRadius
+        */
+        public static final int SnackBar_sb_backgroundCornerRadius = 1;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sb_duration}
+          attribute's value can be found in the {@link #SnackBar} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:sb_duration
+        */
+        public static final int SnackBar_sb_duration = 25;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sb_ellipsize}
+          attribute's value can be found in the {@link #SnackBar} array.
+
+
+          <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>start</code></td><td>0x00000001</td><td></td></tr>
+<tr><td><code>middle</code></td><td>0x00000002</td><td></td></tr>
+<tr><td><code>end</code></td><td>0x00000003</td><td></td></tr>
+<tr><td><code>marquee</code></td><td>0x00000004</td><td></td></tr>
+</table>
+          @attr name com.example.riccardo.mashape:sb_ellipsize
+        */
+        public static final int SnackBar_sb_ellipsize = 19;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sb_height}
+          attribute's value can be found in the {@link #SnackBar} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>match_parent</code></td><td>-1</td><td></td></tr>
+<tr><td><code>wrap_content</code></td><td>-2</td><td></td></tr>
+</table>
+          @attr name com.example.riccardo.mashape:sb_height
+        */
+        public static final int SnackBar_sb_height = 7;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sb_horizontalPadding}
+          attribute's value can be found in the {@link #SnackBar} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:sb_horizontalPadding
+        */
+        public static final int SnackBar_sb_horizontalPadding = 2;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sb_inAnimation}
+          attribute's value can be found in the {@link #SnackBar} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:sb_inAnimation
+        */
+        public static final int SnackBar_sb_inAnimation = 26;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sb_lines}
+          attribute's value can be found in the {@link #SnackBar} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:sb_lines
+        */
+        public static final int SnackBar_sb_lines = 18;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sb_marginBottom}
+          attribute's value can be found in the {@link #SnackBar} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:sb_marginBottom
+        */
+        public static final int SnackBar_sb_marginBottom = 11;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sb_marginStart}
+          attribute's value can be found in the {@link #SnackBar} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:sb_marginStart
+        */
+        public static final int SnackBar_sb_marginStart = 10;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sb_maxHeight}
+          attribute's value can be found in the {@link #SnackBar} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:sb_maxHeight
+        */
+        public static final int SnackBar_sb_maxHeight = 9;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sb_maxLines}
+          attribute's value can be found in the {@link #SnackBar} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:sb_maxLines
+        */
+        public static final int SnackBar_sb_maxLines = 17;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sb_maxWidth}
+          attribute's value can be found in the {@link #SnackBar} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:sb_maxWidth
+        */
+        public static final int SnackBar_sb_maxWidth = 6;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sb_minHeight}
+          attribute's value can be found in the {@link #SnackBar} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:sb_minHeight
+        */
+        public static final int SnackBar_sb_minHeight = 8;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sb_minWidth}
+          attribute's value can be found in the {@link #SnackBar} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:sb_minWidth
+        */
+        public static final int SnackBar_sb_minWidth = 5;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sb_outAnimation}
+          attribute's value can be found in the {@link #SnackBar} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:sb_outAnimation
+        */
+        public static final int SnackBar_sb_outAnimation = 27;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sb_removeOnDismiss}
+          attribute's value can be found in the {@link #SnackBar} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:sb_removeOnDismiss
+        */
+        public static final int SnackBar_sb_removeOnDismiss = 28;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sb_singleLine}
+          attribute's value can be found in the {@link #SnackBar} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:sb_singleLine
+        */
+        public static final int SnackBar_sb_singleLine = 16;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sb_text}
+          attribute's value can be found in the {@link #SnackBar} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+          @attr name com.example.riccardo.mashape:sb_text
+        */
+        public static final int SnackBar_sb_text = 15;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sb_textAppearance}
+          attribute's value can be found in the {@link #SnackBar} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:sb_textAppearance
+        */
+        public static final int SnackBar_sb_textAppearance = 14;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sb_textColor}
+          attribute's value can be found in the {@link #SnackBar} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:sb_textColor
+        */
+        public static final int SnackBar_sb_textColor = 13;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sb_textSize}
+          attribute's value can be found in the {@link #SnackBar} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:sb_textSize
+        */
+        public static final int SnackBar_sb_textSize = 12;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sb_verticalPadding}
+          attribute's value can be found in the {@link #SnackBar} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:sb_verticalPadding
+        */
+        public static final int SnackBar_sb_verticalPadding = 3;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sb_width}
+          attribute's value can be found in the {@link #SnackBar} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>match_parent</code></td><td>-1</td><td></td></tr>
+<tr><td><code>wrap_content</code></td><td>-2</td><td></td></tr>
+</table>
+          @attr name com.example.riccardo.mashape:sb_width
+        */
+        public static final int SnackBar_sb_width = 4;
         /** Attributes that can be used with a Spinner.
            <p>Includes the following attributes:</p>
            <table>
@@ -3666,11 +9739,33 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #Spinner_android_dropDownVerticalOffset android:dropDownVerticalOffset}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_gravity android:gravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_android_minHeight android:minHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_android_minWidth android:minWidth}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_disableChildrenWhenDisabled com.example.riccardo.mashape:disableChildrenWhenDisabled}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_popupPromptView com.example.riccardo.mashape:popupPromptView}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_prompt com.example.riccardo.mashape:prompt}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_spinnerMode com.example.riccardo.mashape:spinnerMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_arrowAnimClockwise com.example.riccardo.mashape:spn_arrowAnimClockwise}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_arrowAnimDuration com.example.riccardo.mashape:spn_arrowAnimDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_arrowColor com.example.riccardo.mashape:spn_arrowColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_arrowInterpolator com.example.riccardo.mashape:spn_arrowInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_arrowPadding com.example.riccardo.mashape:spn_arrowPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_arrowSize com.example.riccardo.mashape:spn_arrowSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_arrowSwitchMode com.example.riccardo.mashape:spn_arrowSwitchMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_dividerAnimDuration com.example.riccardo.mashape:spn_dividerAnimDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_dividerColor com.example.riccardo.mashape:spn_dividerColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_dividerHeight com.example.riccardo.mashape:spn_dividerHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_dividerPadding com.example.riccardo.mashape:spn_dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_label com.example.riccardo.mashape:spn_label}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_labelEllipsize com.example.riccardo.mashape:spn_labelEllipsize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_labelEnable com.example.riccardo.mashape:spn_labelEnable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_labelPadding com.example.riccardo.mashape:spn_labelPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_labelTextAppearance com.example.riccardo.mashape:spn_labelTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_labelTextColor com.example.riccardo.mashape:spn_labelTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_labelTextSize com.example.riccardo.mashape:spn_labelTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_popupItemAnimOffset com.example.riccardo.mashape:spn_popupItemAnimOffset}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_popupItemAnimation com.example.riccardo.mashape:spn_popupItemAnimation}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_background
            @see #Spinner_android_dropDownHorizontalOffset
@@ -3678,16 +9773,44 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            @see #Spinner_android_dropDownVerticalOffset
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_gravity
+           @see #Spinner_android_minHeight
+           @see #Spinner_android_minWidth
            @see #Spinner_android_popupBackground
            @see #Spinner_disableChildrenWhenDisabled
            @see #Spinner_popupPromptView
            @see #Spinner_prompt
            @see #Spinner_spinnerMode
+           @see #Spinner_spn_arrowAnimClockwise
+           @see #Spinner_spn_arrowAnimDuration
+           @see #Spinner_spn_arrowColor
+           @see #Spinner_spn_arrowInterpolator
+           @see #Spinner_spn_arrowPadding
+           @see #Spinner_spn_arrowSize
+           @see #Spinner_spn_arrowSwitchMode
+           @see #Spinner_spn_dividerAnimDuration
+           @see #Spinner_spn_dividerColor
+           @see #Spinner_spn_dividerHeight
+           @see #Spinner_spn_dividerPadding
+           @see #Spinner_spn_label
+           @see #Spinner_spn_labelEllipsize
+           @see #Spinner_spn_labelEnable
+           @see #Spinner_spn_labelPadding
+           @see #Spinner_spn_labelTextAppearance
+           @see #Spinner_spn_labelTextColor
+           @see #Spinner_spn_labelTextSize
+           @see #Spinner_spn_popupItemAnimOffset
+           @see #Spinner_spn_popupItemAnimation
          */
         public static final int[] Spinner = {
-            0x010100af, 0x010100d4, 0x01010175, 0x01010176,
-            0x01010262, 0x010102ac, 0x010102ad, 0x7f010044,
-            0x7f010045, 0x7f010046, 0x7f010047
+            0x010100af, 0x010100d4, 0x0101013f, 0x01010140,
+            0x01010175, 0x01010176, 0x01010262, 0x010102ac,
+            0x010102ad, 0x7f010137, 0x7f010138, 0x7f010139,
+            0x7f01013a, 0x7f01013b, 0x7f01013c, 0x7f01013d,
+            0x7f01013e, 0x7f01013f, 0x7f010140, 0x7f010141,
+            0x7f010142, 0x7f010143, 0x7f010144, 0x7f010145,
+            0x7f010146, 0x7f010147, 0x7f010148, 0x7f010149,
+            0x7f01014a, 0x7f01014b, 0x7f01014c, 0x7f01014d,
+            0x7f01014e
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#background}
@@ -3700,25 +9823,25 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           attribute's value can be found in the {@link #Spinner} array.
           @attr name android:dropDownHorizontalOffset
         */
-        public static final int Spinner_android_dropDownHorizontalOffset = 5;
+        public static final int Spinner_android_dropDownHorizontalOffset = 7;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#dropDownSelector}
           attribute's value can be found in the {@link #Spinner} array.
           @attr name android:dropDownSelector
         */
-        public static final int Spinner_android_dropDownSelector = 2;
+        public static final int Spinner_android_dropDownSelector = 4;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#dropDownVerticalOffset}
           attribute's value can be found in the {@link #Spinner} array.
           @attr name android:dropDownVerticalOffset
         */
-        public static final int Spinner_android_dropDownVerticalOffset = 6;
+        public static final int Spinner_android_dropDownVerticalOffset = 8;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#dropDownWidth}
           attribute's value can be found in the {@link #Spinner} array.
           @attr name android:dropDownWidth
         */
-        public static final int Spinner_android_dropDownWidth = 4;
+        public static final int Spinner_android_dropDownWidth = 6;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#gravity}
           attribute's value can be found in the {@link #Spinner} array.
@@ -3726,11 +9849,23 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Spinner_android_gravity = 0;
         /**
+          <p>This symbol is the offset where the {@link android.R.attr#minHeight}
+          attribute's value can be found in the {@link #Spinner} array.
+          @attr name android:minHeight
+        */
+        public static final int Spinner_android_minHeight = 3;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#minWidth}
+          attribute's value can be found in the {@link #Spinner} array.
+          @attr name android:minWidth
+        */
+        public static final int Spinner_android_minWidth = 2;
+        /**
           <p>This symbol is the offset where the {@link android.R.attr#popupBackground}
           attribute's value can be found in the {@link #Spinner} array.
           @attr name android:popupBackground
         */
-        public static final int Spinner_android_popupBackground = 3;
+        public static final int Spinner_android_popupBackground = 5;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#disableChildrenWhenDisabled}
           attribute's value can be found in the {@link #Spinner} array.
@@ -3744,7 +9879,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.riccardo.mashape:disableChildrenWhenDisabled
         */
-        public static final int Spinner_disableChildrenWhenDisabled = 10;
+        public static final int Spinner_disableChildrenWhenDisabled = 12;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#popupPromptView}
           attribute's value can be found in the {@link #Spinner} array.
@@ -3754,7 +9889,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:popupPromptView
         */
-        public static final int Spinner_popupPromptView = 9;
+        public static final int Spinner_popupPromptView = 11;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#prompt}
           attribute's value can be found in the {@link #Spinner} array.
@@ -3764,7 +9899,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:prompt
         */
-        public static final int Spinner_prompt = 7;
+        public static final int Spinner_prompt = 9;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#spinnerMode}
           attribute's value can be found in the {@link #Spinner} array.
@@ -3781,7 +9916,421 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 </table>
           @attr name com.example.riccardo.mashape:spinnerMode
         */
-        public static final int Spinner_spinnerMode = 8;
+        public static final int Spinner_spinnerMode = 10;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#spn_arrowAnimClockwise}
+          attribute's value can be found in the {@link #Spinner} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:spn_arrowAnimClockwise
+        */
+        public static final int Spinner_spn_arrowAnimClockwise = 27;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#spn_arrowAnimDuration}
+          attribute's value can be found in the {@link #Spinner} array.
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:spn_arrowAnimDuration
+        */
+        public static final int Spinner_spn_arrowAnimDuration = 25;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#spn_arrowColor}
+          attribute's value can be found in the {@link #Spinner} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:spn_arrowColor
+        */
+        public static final int Spinner_spn_arrowColor = 22;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#spn_arrowInterpolator}
+          attribute's value can be found in the {@link #Spinner} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:spn_arrowInterpolator
+        */
+        public static final int Spinner_spn_arrowInterpolator = 26;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#spn_arrowPadding}
+          attribute's value can be found in the {@link #Spinner} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:spn_arrowPadding
+        */
+        public static final int Spinner_spn_arrowPadding = 24;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#spn_arrowSize}
+          attribute's value can be found in the {@link #Spinner} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:spn_arrowSize
+        */
+        public static final int Spinner_spn_arrowSize = 23;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#spn_arrowSwitchMode}
+          attribute's value can be found in the {@link #Spinner} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:spn_arrowSwitchMode
+        */
+        public static final int Spinner_spn_arrowSwitchMode = 28;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#spn_dividerAnimDuration}
+          attribute's value can be found in the {@link #Spinner} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:spn_dividerAnimDuration
+        */
+        public static final int Spinner_spn_dividerAnimDuration = 32;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#spn_dividerColor}
+          attribute's value can be found in the {@link #Spinner} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:spn_dividerColor
+        */
+        public static final int Spinner_spn_dividerColor = 29;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#spn_dividerHeight}
+          attribute's value can be found in the {@link #Spinner} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:spn_dividerHeight
+        */
+        public static final int Spinner_spn_dividerHeight = 30;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#spn_dividerPadding}
+          attribute's value can be found in the {@link #Spinner} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:spn_dividerPadding
+        */
+        public static final int Spinner_spn_dividerPadding = 31;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#spn_label}
+          attribute's value can be found in the {@link #Spinner} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+          @attr name com.example.riccardo.mashape:spn_label
+        */
+        public static final int Spinner_spn_label = 19;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#spn_labelEllipsize}
+          attribute's value can be found in the {@link #Spinner} array.
+
+
+          <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>start</code></td><td>0x00000001</td><td></td></tr>
+<tr><td><code>middle</code></td><td>0x00000002</td><td></td></tr>
+<tr><td><code>end</code></td><td>0x00000003</td><td></td></tr>
+<tr><td><code>marquee</code></td><td>0x00000004</td><td></td></tr>
+</table>
+          @attr name com.example.riccardo.mashape:spn_labelEllipsize
+        */
+        public static final int Spinner_spn_labelEllipsize = 18;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#spn_labelEnable}
+          attribute's value can be found in the {@link #Spinner} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:spn_labelEnable
+        */
+        public static final int Spinner_spn_labelEnable = 13;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#spn_labelPadding}
+          attribute's value can be found in the {@link #Spinner} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:spn_labelPadding
+        */
+        public static final int Spinner_spn_labelPadding = 14;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#spn_labelTextAppearance}
+          attribute's value can be found in the {@link #Spinner} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:spn_labelTextAppearance
+        */
+        public static final int Spinner_spn_labelTextAppearance = 17;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#spn_labelTextColor}
+          attribute's value can be found in the {@link #Spinner} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:spn_labelTextColor
+        */
+        public static final int Spinner_spn_labelTextColor = 16;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#spn_labelTextSize}
+          attribute's value can be found in the {@link #Spinner} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:spn_labelTextSize
+        */
+        public static final int Spinner_spn_labelTextSize = 15;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#spn_popupItemAnimOffset}
+          attribute's value can be found in the {@link #Spinner} array.
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:spn_popupItemAnimOffset
+        */
+        public static final int Spinner_spn_popupItemAnimOffset = 21;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#spn_popupItemAnimation}
+          attribute's value can be found in the {@link #Spinner} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:spn_popupItemAnimation
+        */
+        public static final int Spinner_spn_popupItemAnimation = 20;
+        /** Attributes that can be used with a Switch.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #Switch_android_checked android:checked}</code></td><td></td></tr>
+           <tr><td><code>{@link #Switch_android_gravity android:gravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Switch_sw_animDuration com.example.riccardo.mashape:sw_animDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #Switch_sw_interpolator com.example.riccardo.mashape:sw_interpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Switch_sw_thumbColor com.example.riccardo.mashape:sw_thumbColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Switch_sw_thumbElevation com.example.riccardo.mashape:sw_thumbElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Switch_sw_thumbRadius com.example.riccardo.mashape:sw_thumbRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #Switch_sw_trackCap com.example.riccardo.mashape:sw_trackCap}</code></td><td></td></tr>
+           <tr><td><code>{@link #Switch_sw_trackColor com.example.riccardo.mashape:sw_trackColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Switch_sw_trackSize com.example.riccardo.mashape:sw_trackSize}</code></td><td></td></tr>
+           </table>
+           @see #Switch_android_checked
+           @see #Switch_android_gravity
+           @see #Switch_sw_animDuration
+           @see #Switch_sw_interpolator
+           @see #Switch_sw_thumbColor
+           @see #Switch_sw_thumbElevation
+           @see #Switch_sw_thumbRadius
+           @see #Switch_sw_trackCap
+           @see #Switch_sw_trackColor
+           @see #Switch_sw_trackSize
+         */
+        public static final int[] Switch = {
+            0x010100af, 0x01010106, 0x7f01014f, 0x7f010150,
+            0x7f010151, 0x7f010152, 0x7f010153, 0x7f010154,
+            0x7f010155, 0x7f010156
+        };
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#checked}
+          attribute's value can be found in the {@link #Switch} array.
+          @attr name android:checked
+        */
+        public static final int Switch_android_checked = 1;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#gravity}
+          attribute's value can be found in the {@link #Switch} array.
+          @attr name android:gravity
+        */
+        public static final int Switch_android_gravity = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sw_animDuration}
+          attribute's value can be found in the {@link #Switch} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:sw_animDuration
+        */
+        public static final int Switch_sw_animDuration = 8;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sw_interpolator}
+          attribute's value can be found in the {@link #Switch} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:sw_interpolator
+        */
+        public static final int Switch_sw_interpolator = 9;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sw_thumbColor}
+          attribute's value can be found in the {@link #Switch} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:sw_thumbColor
+        */
+        public static final int Switch_sw_thumbColor = 5;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sw_thumbElevation}
+          attribute's value can be found in the {@link #Switch} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:sw_thumbElevation
+        */
+        public static final int Switch_sw_thumbElevation = 7;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sw_thumbRadius}
+          attribute's value can be found in the {@link #Switch} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:sw_thumbRadius
+        */
+        public static final int Switch_sw_thumbRadius = 6;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sw_trackCap}
+          attribute's value can be found in the {@link #Switch} array.
+
+
+          <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>butt</code></td><td>0x00000000</td><td></td></tr>
+<tr><td><code>round</code></td><td>0x00000001</td><td></td></tr>
+<tr><td><code>square</code></td><td>0x00000002</td><td></td></tr>
+</table>
+          @attr name com.example.riccardo.mashape:sw_trackCap
+        */
+        public static final int Switch_sw_trackCap = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sw_trackColor}
+          attribute's value can be found in the {@link #Switch} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:sw_trackColor
+        */
+        public static final int Switch_sw_trackColor = 3;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#sw_trackSize}
+          attribute's value can be found in the {@link #Switch} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:sw_trackSize
+        */
+        public static final int Switch_sw_trackSize = 2;
         /** Attributes that can be used with a SwitchCompat.
            <p>Includes the following attributes:</p>
            <table>
@@ -3811,9 +10360,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            @see #SwitchCompat_track
          */
         public static final int[] SwitchCompat = {
-            0x01010124, 0x01010125, 0x01010142, 0x7f010048,
-            0x7f010049, 0x7f01004a, 0x7f01004b, 0x7f01004c,
-            0x7f01004d, 0x7f01004e
+            0x01010124, 0x01010125, 0x01010142, 0x7f010157,
+            0x7f010158, 0x7f010159, 0x7f01015a, 0x7f01015b,
+            0x7f01015c, 0x7f01015d
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#textOff}
@@ -3929,63 +10478,107 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           @attr name com.example.riccardo.mashape:track
         */
         public static final int SwitchCompat_track = 3;
-        /** Attributes that can be used with a TextAppearance.
+        /** Attributes that can be used with a TabPageIndicator.
            <p>Includes the following attributes:</p>
            <table>
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TextAppearance_android_textColor android:textColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps com.example.riccardo.mashape:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabPageIndicator_android_textAppearance android:textAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabPageIndicator_tpi_indicatorColor com.example.riccardo.mashape:tpi_indicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabPageIndicator_tpi_indicatorHeight com.example.riccardo.mashape:tpi_indicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabPageIndicator_tpi_mode com.example.riccardo.mashape:tpi_mode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabPageIndicator_tpi_tabPadding com.example.riccardo.mashape:tpi_tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabPageIndicator_tpi_tabRipple com.example.riccardo.mashape:tpi_tabRipple}</code></td><td></td></tr>
            </table>
-           @see #TextAppearance_android_textColor
-           @see #TextAppearance_android_textSize
-           @see #TextAppearance_android_textStyle
-           @see #TextAppearance_android_typeface
-           @see #TextAppearance_textAllCaps
+           @see #TabPageIndicator_android_textAppearance
+           @see #TabPageIndicator_tpi_indicatorColor
+           @see #TabPageIndicator_tpi_indicatorHeight
+           @see #TabPageIndicator_tpi_mode
+           @see #TabPageIndicator_tpi_tabPadding
+           @see #TabPageIndicator_tpi_tabRipple
          */
-        public static final int[] TextAppearance = {
-            0x01010095, 0x01010096, 0x01010097, 0x01010098,
-            0x7f010024
+        public static final int[] TabPageIndicator = {
+            0x01010034, 0x7f01015e, 0x7f01015f, 0x7f010160,
+            0x7f010161, 0x7f010162
         };
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#textColor}
-          attribute's value can be found in the {@link #TextAppearance} array.
-          @attr name android:textColor
+          <p>This symbol is the offset where the {@link android.R.attr#textAppearance}
+          attribute's value can be found in the {@link #TabPageIndicator} array.
+          @attr name android:textAppearance
         */
-        public static final int TextAppearance_android_textColor = 3;
+        public static final int TabPageIndicator_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#textSize}
-          attribute's value can be found in the {@link #TextAppearance} array.
-          @attr name android:textSize
-        */
-        public static final int TextAppearance_android_textSize = 0;
-        /**
-          <p>This symbol is the offset where the {@link android.R.attr#textStyle}
-          attribute's value can be found in the {@link #TextAppearance} array.
-          @attr name android:textStyle
-        */
-        public static final int TextAppearance_android_textStyle = 2;
-        /**
-          <p>This symbol is the offset where the {@link android.R.attr#typeface}
-          attribute's value can be found in the {@link #TextAppearance} array.
-          @attr name android:typeface
-        */
-        public static final int TextAppearance_android_typeface = 1;
-        /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#textAllCaps}
-          attribute's value can be found in the {@link #TextAppearance} array.
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#tpi_indicatorColor}
+          attribute's value can be found in the {@link #TabPageIndicator} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-<p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.example.riccardo.mashape:textAllCaps
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:tpi_indicatorColor
         */
-        public static final int TextAppearance_textAllCaps = 4;
+        public static final int TabPageIndicator_tpi_indicatorColor = 3;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#tpi_indicatorHeight}
+          attribute's value can be found in the {@link #TabPageIndicator} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:tpi_indicatorHeight
+        */
+        public static final int TabPageIndicator_tpi_indicatorHeight = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#tpi_mode}
+          attribute's value can be found in the {@link #TabPageIndicator} array.
+
+
+          <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>scroll</code></td><td>0x00000000</td><td></td></tr>
+<tr><td><code>fixed</code></td><td>0x00000001</td><td></td></tr>
+</table>
+          @attr name com.example.riccardo.mashape:tpi_mode
+        */
+        public static final int TabPageIndicator_tpi_mode = 5;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#tpi_tabPadding}
+          attribute's value can be found in the {@link #TabPageIndicator} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:tpi_tabPadding
+        */
+        public static final int TabPageIndicator_tpi_tabPadding = 1;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#tpi_tabRipple}
+          attribute's value can be found in the {@link #TabPageIndicator} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:tpi_tabRipple
+        */
+        public static final int TabPageIndicator_tpi_tabRipple = 2;
         /** Attributes that can be used with a Theme.
            <p>Includes the following attributes:</p>
            <table>
@@ -4023,23 +10616,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.example.riccardo.mashape:actionOverflowButtonStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.example.riccardo.mashape:actionOverflowMenuStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_activityChooserViewStyle com.example.riccardo.mashape:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle com.example.riccardo.mashape:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogCenterButtons com.example.riccardo.mashape:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogStyle com.example.riccardo.mashape:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogTheme com.example.riccardo.mashape:alertDialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle com.example.riccardo.mashape:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_borderlessButtonStyle com.example.riccardo.mashape:borderlessButtonStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_buttonBarButtonStyle com.example.riccardo.mashape:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle com.example.riccardo.mashape:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle com.example.riccardo.mashape:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle com.example.riccardo.mashape:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_buttonBarStyle com.example.riccardo.mashape:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyle com.example.riccardo.mashape:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyleSmall com.example.riccardo.mashape:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkboxStyle com.example.riccardo.mashape:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkedTextViewStyle com.example.riccardo.mashape:checkedTextViewStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_colorAccent com.example.riccardo.mashape:colorAccent}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_colorButtonNormal com.example.riccardo.mashape:colorButtonNormal}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_colorControlActivated com.example.riccardo.mashape:colorControlActivated}</code></td><td></td></tr>
@@ -4048,18 +10627,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #Theme_colorPrimary com.example.riccardo.mashape:colorPrimary}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_colorPrimaryDark com.example.riccardo.mashape:colorPrimaryDark}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.example.riccardo.mashape:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogPreferredPadding com.example.riccardo.mashape:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogTheme com.example.riccardo.mashape:dialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_dividerHorizontal com.example.riccardo.mashape:dividerHorizontal}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_dividerVertical com.example.riccardo.mashape:dividerVertical}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_dropDownListViewStyle com.example.riccardo.mashape:dropDownListViewStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.example.riccardo.mashape:dropdownListPreferredItemHeight}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_editTextBackground com.example.riccardo.mashape:editTextBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_editTextColor com.example.riccardo.mashape:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextStyle com.example.riccardo.mashape:editTextStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_homeAsUpIndicator com.example.riccardo.mashape:homeAsUpIndicator}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.example.riccardo.mashape:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listDividerAlertDialog com.example.riccardo.mashape:listDividerAlertDialog}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_listPopupWindowStyle com.example.riccardo.mashape:listPopupWindowStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_listPreferredItemHeight com.example.riccardo.mashape:listPreferredItemHeight}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.example.riccardo.mashape:listPreferredItemHeightLarge}</code></td><td></td></tr>
@@ -4071,8 +10646,6 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #Theme_panelMenuListWidth com.example.riccardo.mashape:panelMenuListWidth}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_popupMenuStyle com.example.riccardo.mashape:popupMenuStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_popupWindowStyle com.example.riccardo.mashape:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_radioButtonStyle com.example.riccardo.mashape:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_ratingBarStyle com.example.riccardo.mashape:ratingBarStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_searchViewStyle com.example.riccardo.mashape:searchViewStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_selectableItemBackground com.example.riccardo.mashape:selectableItemBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.example.riccardo.mashape:selectableItemBackgroundBorderless}</code></td><td></td></tr>
@@ -4085,7 +10658,6 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.example.riccardo.mashape:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.example.riccardo.mashape:textAppearanceSearchResultTitle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.example.riccardo.mashape:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorAlertDialogListItem com.example.riccardo.mashape:textColorAlertDialogListItem}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_textColorSearchUrl com.example.riccardo.mashape:textColorSearchUrl}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.example.riccardo.mashape:toolbarNavigationButtonStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_toolbarStyle com.example.riccardo.mashape:toolbarStyle}</code></td><td></td></tr>
@@ -4096,9 +10668,6 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #Theme_windowFixedHeightMinor com.example.riccardo.mashape:windowFixedHeightMinor}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_windowFixedWidthMajor com.example.riccardo.mashape:windowFixedWidthMajor}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_windowFixedWidthMinor com.example.riccardo.mashape:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMajor com.example.riccardo.mashape:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMinor com.example.riccardo.mashape:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowNoTitle com.example.riccardo.mashape:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #Theme_actionBarDivider
            @see #Theme_actionBarItemBackground
@@ -4131,23 +10700,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            @see #Theme_actionOverflowButtonStyle
            @see #Theme_actionOverflowMenuStyle
            @see #Theme_activityChooserViewStyle
-           @see #Theme_alertDialogButtonGroupStyle
-           @see #Theme_alertDialogCenterButtons
-           @see #Theme_alertDialogStyle
-           @see #Theme_alertDialogTheme
-           @see #Theme_android_windowAnimationStyle
            @see #Theme_android_windowIsFloating
-           @see #Theme_autoCompleteTextViewStyle
-           @see #Theme_borderlessButtonStyle
            @see #Theme_buttonBarButtonStyle
-           @see #Theme_buttonBarNegativeButtonStyle
-           @see #Theme_buttonBarNeutralButtonStyle
-           @see #Theme_buttonBarPositiveButtonStyle
            @see #Theme_buttonBarStyle
-           @see #Theme_buttonStyle
-           @see #Theme_buttonStyleSmall
-           @see #Theme_checkboxStyle
-           @see #Theme_checkedTextViewStyle
            @see #Theme_colorAccent
            @see #Theme_colorButtonNormal
            @see #Theme_colorControlActivated
@@ -4156,18 +10711,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            @see #Theme_colorPrimary
            @see #Theme_colorPrimaryDark
            @see #Theme_colorSwitchThumbNormal
-           @see #Theme_dialogPreferredPadding
-           @see #Theme_dialogTheme
            @see #Theme_dividerHorizontal
            @see #Theme_dividerVertical
            @see #Theme_dropDownListViewStyle
            @see #Theme_dropdownListPreferredItemHeight
            @see #Theme_editTextBackground
            @see #Theme_editTextColor
-           @see #Theme_editTextStyle
            @see #Theme_homeAsUpIndicator
            @see #Theme_listChoiceBackgroundIndicator
-           @see #Theme_listDividerAlertDialog
            @see #Theme_listPopupWindowStyle
            @see #Theme_listPreferredItemHeight
            @see #Theme_listPreferredItemHeightLarge
@@ -4179,8 +10730,6 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            @see #Theme_panelMenuListWidth
            @see #Theme_popupMenuStyle
            @see #Theme_popupWindowStyle
-           @see #Theme_radioButtonStyle
-           @see #Theme_ratingBarStyle
            @see #Theme_searchViewStyle
            @see #Theme_selectableItemBackground
            @see #Theme_selectableItemBackgroundBorderless
@@ -4193,7 +10742,6 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            @see #Theme_textAppearanceSearchResultSubtitle
            @see #Theme_textAppearanceSearchResultTitle
            @see #Theme_textAppearanceSmallPopupMenu
-           @see #Theme_textColorAlertDialogListItem
            @see #Theme_textColorSearchUrl
            @see #Theme_toolbarNavigationButtonStyle
            @see #Theme_toolbarStyle
@@ -4204,38 +10752,29 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            @see #Theme_windowFixedHeightMinor
            @see #Theme_windowFixedWidthMajor
            @see #Theme_windowFixedWidthMinor
-           @see #Theme_windowMinWidthMajor
-           @see #Theme_windowMinWidthMinor
-           @see #Theme_windowNoTitle
          */
         public static final int[] Theme = {
-            0x01010057, 0x010100ae, 0x7f01004f, 0x7f010050,
-            0x7f010051, 0x7f010052, 0x7f010053, 0x7f010054,
-            0x7f010055, 0x7f010056, 0x7f010057, 0x7f010058,
-            0x7f010059, 0x7f01005a, 0x7f01005b, 0x7f01005c,
-            0x7f01005d, 0x7f01005e, 0x7f01005f, 0x7f010060,
-            0x7f010061, 0x7f010062, 0x7f010063, 0x7f010064,
-            0x7f010065, 0x7f010066, 0x7f010067, 0x7f010068,
-            0x7f010069, 0x7f01006a, 0x7f01006b, 0x7f01006c,
-            0x7f01006d, 0x7f01006e, 0x7f01006f, 0x7f010070,
-            0x7f010071, 0x7f010072, 0x7f010073, 0x7f010074,
-            0x7f010075, 0x7f010076, 0x7f010077, 0x7f010078,
-            0x7f010079, 0x7f01007a, 0x7f01007b, 0x7f01007c,
-            0x7f01007d, 0x7f01007e, 0x7f01007f, 0x7f010080,
-            0x7f010081, 0x7f010082, 0x7f010083, 0x7f010084,
-            0x7f010085, 0x7f010086, 0x7f010087, 0x7f010088,
-            0x7f010089, 0x7f01008a, 0x7f01008b, 0x7f01008c,
-            0x7f01008d, 0x7f01008e, 0x7f01008f, 0x7f010090,
-            0x7f010091, 0x7f010092, 0x7f010093, 0x7f010094,
-            0x7f010095, 0x7f010096, 0x7f010097, 0x7f010098,
-            0x7f010099, 0x7f01009a, 0x7f01009b, 0x7f01009c,
-            0x7f01009d, 0x7f01009e, 0x7f01009f, 0x7f0100a0,
-            0x7f0100a1, 0x7f0100a2, 0x7f0100a3, 0x7f0100a4,
-            0x7f0100a5, 0x7f0100a6, 0x7f0100a7, 0x7f0100a8,
-            0x7f0100a9, 0x7f0100aa, 0x7f0100ab, 0x7f0100ac,
-            0x7f0100ad, 0x7f0100ae, 0x7f0100af, 0x7f0100b0,
-            0x7f0100b1, 0x7f0100b2, 0x7f0100b3, 0x7f0100b4,
-            0x7f0100b5, 0x7f0100b6, 0x7f0100b7
+            0x01010057, 0x7f010163, 0x7f010164, 0x7f010165,
+            0x7f010166, 0x7f010167, 0x7f010168, 0x7f010169,
+            0x7f01016a, 0x7f01016b, 0x7f01016c, 0x7f01016d,
+            0x7f01016e, 0x7f01016f, 0x7f010170, 0x7f010171,
+            0x7f010172, 0x7f010173, 0x7f010174, 0x7f010175,
+            0x7f010176, 0x7f010177, 0x7f010178, 0x7f010179,
+            0x7f01017a, 0x7f01017b, 0x7f01017c, 0x7f01017d,
+            0x7f01017e, 0x7f01017f, 0x7f010180, 0x7f010181,
+            0x7f010182, 0x7f010183, 0x7f010184, 0x7f010185,
+            0x7f010186, 0x7f010187, 0x7f010188, 0x7f010189,
+            0x7f01018a, 0x7f01018b, 0x7f01018c, 0x7f01018d,
+            0x7f01018e, 0x7f01018f, 0x7f010190, 0x7f010191,
+            0x7f010192, 0x7f010193, 0x7f010194, 0x7f010195,
+            0x7f010196, 0x7f010197, 0x7f010198, 0x7f010199,
+            0x7f01019a, 0x7f01019b, 0x7f01019c, 0x7f01019d,
+            0x7f01019e, 0x7f01019f, 0x7f0101a0, 0x7f0101a1,
+            0x7f0101a2, 0x7f0101a3, 0x7f0101a4, 0x7f0101a5,
+            0x7f0101a6, 0x7f0101a7, 0x7f0101a8, 0x7f0101a9,
+            0x7f0101aa, 0x7f0101ab, 0x7f0101ac, 0x7f0101ad,
+            0x7f0101ae, 0x7f0101af, 0x7f0101b0, 0x7f0101b1,
+            0x7f0101b2, 0x7f0101b3, 0x7f0101b4
         };
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#actionBarDivider}
@@ -4246,7 +10785,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:actionBarDivider
         */
-        public static final int Theme_actionBarDivider = 23;
+        public static final int Theme_actionBarDivider = 19;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #Theme} array.
@@ -4256,7 +10795,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:actionBarItemBackground
         */
-        public static final int Theme_actionBarItemBackground = 24;
+        public static final int Theme_actionBarItemBackground = 20;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #Theme} array.
@@ -4266,7 +10805,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:actionBarPopupTheme
         */
-        public static final int Theme_actionBarPopupTheme = 17;
+        public static final int Theme_actionBarPopupTheme = 13;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#actionBarSize}
           attribute's value can be found in the {@link #Theme} array.
@@ -4290,7 +10829,7 @@ containing a value of this type.
 </table>
           @attr name com.example.riccardo.mashape:actionBarSize
         */
-        public static final int Theme_actionBarSize = 22;
+        public static final int Theme_actionBarSize = 18;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4300,7 +10839,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:actionBarSplitStyle
         */
-        public static final int Theme_actionBarSplitStyle = 19;
+        public static final int Theme_actionBarSplitStyle = 15;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4310,7 +10849,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:actionBarStyle
         */
-        public static final int Theme_actionBarStyle = 18;
+        public static final int Theme_actionBarStyle = 14;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4320,7 +10859,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:actionBarTabBarStyle
         */
-        public static final int Theme_actionBarTabBarStyle = 13;
+        public static final int Theme_actionBarTabBarStyle = 9;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4330,7 +10869,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:actionBarTabStyle
         */
-        public static final int Theme_actionBarTabStyle = 12;
+        public static final int Theme_actionBarTabStyle = 8;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4340,7 +10879,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:actionBarTabTextStyle
         */
-        public static final int Theme_actionBarTabTextStyle = 14;
+        public static final int Theme_actionBarTabTextStyle = 10;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #Theme} array.
@@ -4350,7 +10889,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:actionBarTheme
         */
-        public static final int Theme_actionBarTheme = 20;
+        public static final int Theme_actionBarTheme = 16;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #Theme} array.
@@ -4360,7 +10899,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:actionBarWidgetTheme
         */
-        public static final int Theme_actionBarWidgetTheme = 21;
+        public static final int Theme_actionBarWidgetTheme = 17;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4370,7 +10909,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:actionButtonStyle
         */
-        public static final int Theme_actionButtonStyle = 49;
+        public static final int Theme_actionButtonStyle = 43;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4380,7 +10919,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:actionDropDownStyle
         */
-        public static final int Theme_actionDropDownStyle = 45;
+        public static final int Theme_actionDropDownStyle = 38;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #Theme} array.
@@ -4390,7 +10929,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:actionMenuTextAppearance
         */
-        public static final int Theme_actionMenuTextAppearance = 25;
+        public static final int Theme_actionMenuTextAppearance = 21;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #Theme} array.
@@ -4402,7 +10941,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           @attr name com.example.riccardo.mashape:actionMenuTextColor
         */
-        public static final int Theme_actionMenuTextColor = 26;
+        public static final int Theme_actionMenuTextColor = 22;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #Theme} array.
@@ -4412,7 +10951,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:actionModeBackground
         */
-        public static final int Theme_actionModeBackground = 29;
+        public static final int Theme_actionModeBackground = 25;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4422,7 +10961,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:actionModeCloseButtonStyle
         */
-        public static final int Theme_actionModeCloseButtonStyle = 28;
+        public static final int Theme_actionModeCloseButtonStyle = 24;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #Theme} array.
@@ -4432,7 +10971,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:actionModeCloseDrawable
         */
-        public static final int Theme_actionModeCloseDrawable = 31;
+        public static final int Theme_actionModeCloseDrawable = 27;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #Theme} array.
@@ -4442,7 +10981,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:actionModeCopyDrawable
         */
-        public static final int Theme_actionModeCopyDrawable = 33;
+        public static final int Theme_actionModeCopyDrawable = 29;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #Theme} array.
@@ -4452,7 +10991,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:actionModeCutDrawable
         */
-        public static final int Theme_actionModeCutDrawable = 32;
+        public static final int Theme_actionModeCutDrawable = 28;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #Theme} array.
@@ -4462,7 +11001,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:actionModeFindDrawable
         */
-        public static final int Theme_actionModeFindDrawable = 37;
+        public static final int Theme_actionModeFindDrawable = 33;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #Theme} array.
@@ -4472,7 +11011,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:actionModePasteDrawable
         */
-        public static final int Theme_actionModePasteDrawable = 34;
+        public static final int Theme_actionModePasteDrawable = 30;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4482,7 +11021,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:actionModePopupWindowStyle
         */
-        public static final int Theme_actionModePopupWindowStyle = 39;
+        public static final int Theme_actionModePopupWindowStyle = 35;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #Theme} array.
@@ -4492,7 +11031,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:actionModeSelectAllDrawable
         */
-        public static final int Theme_actionModeSelectAllDrawable = 35;
+        public static final int Theme_actionModeSelectAllDrawable = 31;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #Theme} array.
@@ -4502,7 +11041,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:actionModeShareDrawable
         */
-        public static final int Theme_actionModeShareDrawable = 36;
+        public static final int Theme_actionModeShareDrawable = 32;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #Theme} array.
@@ -4512,7 +11051,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:actionModeSplitBackground
         */
-        public static final int Theme_actionModeSplitBackground = 30;
+        public static final int Theme_actionModeSplitBackground = 26;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4522,7 +11061,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:actionModeStyle
         */
-        public static final int Theme_actionModeStyle = 27;
+        public static final int Theme_actionModeStyle = 23;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #Theme} array.
@@ -4532,7 +11071,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:actionModeWebSearchDrawable
         */
-        public static final int Theme_actionModeWebSearchDrawable = 38;
+        public static final int Theme_actionModeWebSearchDrawable = 34;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4542,7 +11081,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:actionOverflowButtonStyle
         */
-        public static final int Theme_actionOverflowButtonStyle = 15;
+        public static final int Theme_actionOverflowButtonStyle = 11;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4552,7 +11091,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:actionOverflowMenuStyle
         */
-        public static final int Theme_actionOverflowMenuStyle = 16;
+        public static final int Theme_actionOverflowMenuStyle = 12;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4562,83 +11101,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:activityChooserViewStyle
         */
-        public static final int Theme_activityChooserViewStyle = 57;
-        /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#alertDialogButtonGroupStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.riccardo.mashape:alertDialogButtonGroupStyle
-        */
-        public static final int Theme_alertDialogButtonGroupStyle = 90;
-        /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#alertDialogCenterButtons}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.riccardo.mashape:alertDialogCenterButtons
-        */
-        public static final int Theme_alertDialogCenterButtons = 91;
-        /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#alertDialogStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.riccardo.mashape:alertDialogStyle
-        */
-        public static final int Theme_alertDialogStyle = 89;
-        /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#alertDialogTheme}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.riccardo.mashape:alertDialogTheme
-        */
-        public static final int Theme_alertDialogTheme = 92;
-        /**
-          <p>This symbol is the offset where the {@link android.R.attr#windowAnimationStyle}
-          attribute's value can be found in the {@link #Theme} array.
-          @attr name android:windowAnimationStyle
-        */
-        public static final int Theme_android_windowAnimationStyle = 1;
+        public static final int Theme_activityChooserViewStyle = 50;
         /**
           <p>This symbol is the offset where the {@link android.R.attr#windowIsFloating}
           attribute's value can be found in the {@link #Theme} array.
           @attr name android:windowIsFloating
         */
         public static final int Theme_android_windowIsFloating = 0;
-        /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#autoCompleteTextViewStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.riccardo.mashape:autoCompleteTextViewStyle
-        */
-        public static final int Theme_autoCompleteTextViewStyle = 97;
-        /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#borderlessButtonStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.riccardo.mashape:borderlessButtonStyle
-        */
-        public static final int Theme_borderlessButtonStyle = 54;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4648,37 +11117,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:buttonBarButtonStyle
         */
-        public static final int Theme_buttonBarButtonStyle = 51;
-        /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#buttonBarNegativeButtonStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.riccardo.mashape:buttonBarNegativeButtonStyle
-        */
-        public static final int Theme_buttonBarNegativeButtonStyle = 95;
-        /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#buttonBarNeutralButtonStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.riccardo.mashape:buttonBarNeutralButtonStyle
-        */
-        public static final int Theme_buttonBarNeutralButtonStyle = 96;
-        /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#buttonBarPositiveButtonStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.riccardo.mashape:buttonBarPositiveButtonStyle
-        */
-        public static final int Theme_buttonBarPositiveButtonStyle = 94;
+        public static final int Theme_buttonBarButtonStyle = 45;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4688,47 +11127,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:buttonBarStyle
         */
-        public static final int Theme_buttonBarStyle = 50;
-        /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#buttonStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.riccardo.mashape:buttonStyle
-        */
-        public static final int Theme_buttonStyle = 98;
-        /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#buttonStyleSmall}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.riccardo.mashape:buttonStyleSmall
-        */
-        public static final int Theme_buttonStyleSmall = 99;
-        /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#checkboxStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.riccardo.mashape:checkboxStyle
-        */
-        public static final int Theme_checkboxStyle = 100;
-        /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#checkedTextViewStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.riccardo.mashape:checkedTextViewStyle
-        */
-        public static final int Theme_checkedTextViewStyle = 101;
+        public static final int Theme_buttonBarStyle = 44;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#colorAccent}
           attribute's value can be found in the {@link #Theme} array.
@@ -4743,7 +11142,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.riccardo.mashape:colorAccent
         */
-        public static final int Theme_colorAccent = 83;
+        public static final int Theme_colorAccent = 77;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #Theme} array.
@@ -4758,7 +11157,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.riccardo.mashape:colorButtonNormal
         */
-        public static final int Theme_colorButtonNormal = 87;
+        public static final int Theme_colorButtonNormal = 81;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #Theme} array.
@@ -4773,7 +11172,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.riccardo.mashape:colorControlActivated
         */
-        public static final int Theme_colorControlActivated = 85;
+        public static final int Theme_colorControlActivated = 79;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #Theme} array.
@@ -4788,7 +11187,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.riccardo.mashape:colorControlHighlight
         */
-        public static final int Theme_colorControlHighlight = 86;
+        public static final int Theme_colorControlHighlight = 80;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #Theme} array.
@@ -4803,7 +11202,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.riccardo.mashape:colorControlNormal
         */
-        public static final int Theme_colorControlNormal = 84;
+        public static final int Theme_colorControlNormal = 78;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#colorPrimary}
           attribute's value can be found in the {@link #Theme} array.
@@ -4818,7 +11217,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.riccardo.mashape:colorPrimary
         */
-        public static final int Theme_colorPrimary = 81;
+        public static final int Theme_colorPrimary = 75;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #Theme} array.
@@ -4833,7 +11232,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.riccardo.mashape:colorPrimaryDark
         */
-        public static final int Theme_colorPrimaryDark = 82;
+        public static final int Theme_colorPrimaryDark = 76;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #Theme} array.
@@ -4848,33 +11247,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.riccardo.mashape:colorSwitchThumbNormal
         */
-        public static final int Theme_colorSwitchThumbNormal = 88;
-        /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dialogPreferredPadding}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.riccardo.mashape:dialogPreferredPadding
-        */
-        public static final int Theme_dialogPreferredPadding = 43;
-        /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dialogTheme}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.riccardo.mashape:dialogTheme
-        */
-        public static final int Theme_dialogTheme = 42;
+        public static final int Theme_colorSwitchThumbNormal = 82;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #Theme} array.
@@ -4884,7 +11257,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:dividerHorizontal
         */
-        public static final int Theme_dividerHorizontal = 56;
+        public static final int Theme_dividerHorizontal = 49;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dividerVertical}
           attribute's value can be found in the {@link #Theme} array.
@@ -4894,7 +11267,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:dividerVertical
         */
-        public static final int Theme_dividerVertical = 55;
+        public static final int Theme_dividerVertical = 48;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4904,7 +11277,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:dropDownListViewStyle
         */
-        public static final int Theme_dropDownListViewStyle = 73;
+        public static final int Theme_dropDownListViewStyle = 67;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
@@ -4920,7 +11293,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.riccardo.mashape:dropdownListPreferredItemHeight
         */
-        public static final int Theme_dropdownListPreferredItemHeight = 46;
+        public static final int Theme_dropdownListPreferredItemHeight = 39;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#editTextBackground}
           attribute's value can be found in the {@link #Theme} array.
@@ -4930,7 +11303,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:editTextBackground
         */
-        public static final int Theme_editTextBackground = 63;
+        public static final int Theme_editTextBackground = 56;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#editTextColor}
           attribute's value can be found in the {@link #Theme} array.
@@ -4942,17 +11315,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           @attr name com.example.riccardo.mashape:editTextColor
         */
-        public static final int Theme_editTextColor = 62;
-        /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#editTextStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.riccardo.mashape:editTextStyle
-        */
-        public static final int Theme_editTextStyle = 102;
+        public static final int Theme_editTextColor = 55;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #Theme} array.
@@ -4962,7 +11325,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:homeAsUpIndicator
         */
-        public static final int Theme_homeAsUpIndicator = 48;
+        public static final int Theme_homeAsUpIndicator = 42;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #Theme} array.
@@ -4972,17 +11335,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:listChoiceBackgroundIndicator
         */
-        public static final int Theme_listChoiceBackgroundIndicator = 80;
-        /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#listDividerAlertDialog}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.riccardo.mashape:listDividerAlertDialog
-        */
-        public static final int Theme_listDividerAlertDialog = 44;
+        public static final int Theme_listChoiceBackgroundIndicator = 74;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -4992,7 +11345,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:listPopupWindowStyle
         */
-        public static final int Theme_listPopupWindowStyle = 74;
+        public static final int Theme_listPopupWindowStyle = 68;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
@@ -5008,7 +11361,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.riccardo.mashape:listPreferredItemHeight
         */
-        public static final int Theme_listPreferredItemHeight = 68;
+        public static final int Theme_listPreferredItemHeight = 62;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #Theme} array.
@@ -5024,7 +11377,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.riccardo.mashape:listPreferredItemHeightLarge
         */
-        public static final int Theme_listPreferredItemHeightLarge = 70;
+        public static final int Theme_listPreferredItemHeightLarge = 64;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #Theme} array.
@@ -5040,7 +11393,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.riccardo.mashape:listPreferredItemHeightSmall
         */
-        public static final int Theme_listPreferredItemHeightSmall = 69;
+        public static final int Theme_listPreferredItemHeightSmall = 63;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #Theme} array.
@@ -5056,7 +11409,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.riccardo.mashape:listPreferredItemPaddingLeft
         */
-        public static final int Theme_listPreferredItemPaddingLeft = 71;
+        public static final int Theme_listPreferredItemPaddingLeft = 65;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #Theme} array.
@@ -5072,7 +11425,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.riccardo.mashape:listPreferredItemPaddingRight
         */
-        public static final int Theme_listPreferredItemPaddingRight = 72;
+        public static final int Theme_listPreferredItemPaddingRight = 66;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#panelBackground}
           attribute's value can be found in the {@link #Theme} array.
@@ -5082,7 +11435,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:panelBackground
         */
-        public static final int Theme_panelBackground = 77;
+        public static final int Theme_panelBackground = 71;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #Theme} array.
@@ -5092,7 +11445,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:panelMenuListTheme
         */
-        public static final int Theme_panelMenuListTheme = 79;
+        public static final int Theme_panelMenuListTheme = 73;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #Theme} array.
@@ -5108,7 +11461,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.riccardo.mashape:panelMenuListWidth
         */
-        public static final int Theme_panelMenuListWidth = 78;
+        public static final int Theme_panelMenuListWidth = 72;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -5118,7 +11471,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:popupMenuStyle
         */
-        public static final int Theme_popupMenuStyle = 60;
+        public static final int Theme_popupMenuStyle = 53;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -5128,27 +11481,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:popupWindowStyle
         */
-        public static final int Theme_popupWindowStyle = 61;
-        /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#radioButtonStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.riccardo.mashape:radioButtonStyle
-        */
-        public static final int Theme_radioButtonStyle = 103;
-        /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#ratingBarStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.riccardo.mashape:ratingBarStyle
-        */
-        public static final int Theme_ratingBarStyle = 104;
+        public static final int Theme_popupWindowStyle = 54;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -5158,7 +11491,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:searchViewStyle
         */
-        public static final int Theme_searchViewStyle = 67;
+        public static final int Theme_searchViewStyle = 61;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #Theme} array.
@@ -5168,7 +11501,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:selectableItemBackground
         */
-        public static final int Theme_selectableItemBackground = 52;
+        public static final int Theme_selectableItemBackground = 46;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #Theme} array.
@@ -5178,7 +11511,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:selectableItemBackgroundBorderless
         */
-        public static final int Theme_selectableItemBackgroundBorderless = 53;
+        public static final int Theme_selectableItemBackgroundBorderless = 47;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -5188,7 +11521,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:spinnerDropDownItemStyle
         */
-        public static final int Theme_spinnerDropDownItemStyle = 47;
+        public static final int Theme_spinnerDropDownItemStyle = 41;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -5198,7 +11531,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:spinnerStyle
         */
-        public static final int Theme_spinnerStyle = 105;
+        public static final int Theme_spinnerStyle = 40;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#switchStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -5208,7 +11541,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:switchStyle
         */
-        public static final int Theme_switchStyle = 106;
+        public static final int Theme_switchStyle = 57;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #Theme} array.
@@ -5218,7 +11551,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:textAppearanceLargePopupMenu
         */
-        public static final int Theme_textAppearanceLargePopupMenu = 40;
+        public static final int Theme_textAppearanceLargePopupMenu = 36;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #Theme} array.
@@ -5228,7 +11561,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:textAppearanceListItem
         */
-        public static final int Theme_textAppearanceListItem = 75;
+        public static final int Theme_textAppearanceListItem = 69;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #Theme} array.
@@ -5238,7 +11571,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:textAppearanceListItemSmall
         */
-        public static final int Theme_textAppearanceListItemSmall = 76;
+        public static final int Theme_textAppearanceListItemSmall = 70;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #Theme} array.
@@ -5248,7 +11581,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:textAppearanceSearchResultSubtitle
         */
-        public static final int Theme_textAppearanceSearchResultSubtitle = 65;
+        public static final int Theme_textAppearanceSearchResultSubtitle = 59;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #Theme} array.
@@ -5258,7 +11591,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:textAppearanceSearchResultTitle
         */
-        public static final int Theme_textAppearanceSearchResultTitle = 64;
+        public static final int Theme_textAppearanceSearchResultTitle = 58;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #Theme} array.
@@ -5268,19 +11601,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:textAppearanceSmallPopupMenu
         */
-        public static final int Theme_textAppearanceSmallPopupMenu = 41;
-        /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#textColorAlertDialogListItem}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.example.riccardo.mashape:textColorAlertDialogListItem
-        */
-        public static final int Theme_textColorAlertDialogListItem = 93;
+        public static final int Theme_textAppearanceSmallPopupMenu = 37;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #Theme} array.
@@ -5292,7 +11613,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
           @attr name com.example.riccardo.mashape:textColorSearchUrl
         */
-        public static final int Theme_textColorSearchUrl = 66;
+        public static final int Theme_textColorSearchUrl = 60;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -5302,7 +11623,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:toolbarNavigationButtonStyle
         */
-        public static final int Theme_toolbarNavigationButtonStyle = 59;
+        public static final int Theme_toolbarNavigationButtonStyle = 52;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #Theme} array.
@@ -5312,7 +11633,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:toolbarStyle
         */
-        public static final int Theme_toolbarStyle = 58;
+        public static final int Theme_toolbarStyle = 51;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#windowActionBar}
           attribute's value can be found in the {@link #Theme} array.
@@ -5326,7 +11647,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.riccardo.mashape:windowActionBar
         */
-        public static final int Theme_windowActionBar = 2;
+        public static final int Theme_windowActionBar = 1;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #Theme} array.
@@ -5340,7 +11661,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.riccardo.mashape:windowActionBarOverlay
         */
-        public static final int Theme_windowActionBarOverlay = 4;
+        public static final int Theme_windowActionBarOverlay = 2;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #Theme} array.
@@ -5354,7 +11675,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.riccardo.mashape:windowActionModeOverlay
         */
-        public static final int Theme_windowActionModeOverlay = 5;
+        public static final int Theme_windowActionModeOverlay = 3;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #Theme} array.
@@ -5373,7 +11694,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.riccardo.mashape:windowFixedHeightMajor
         */
-        public static final int Theme_windowFixedHeightMajor = 9;
+        public static final int Theme_windowFixedHeightMajor = 7;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #Theme} array.
@@ -5392,7 +11713,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.riccardo.mashape:windowFixedHeightMinor
         */
-        public static final int Theme_windowFixedHeightMinor = 7;
+        public static final int Theme_windowFixedHeightMinor = 5;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
@@ -5411,7 +11732,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.riccardo.mashape:windowFixedWidthMajor
         */
-        public static final int Theme_windowFixedWidthMajor = 6;
+        public static final int Theme_windowFixedWidthMajor = 4;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
@@ -5430,48 +11751,56 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.riccardo.mashape:windowFixedWidthMinor
         */
-        public static final int Theme_windowFixedWidthMinor = 8;
+        public static final int Theme_windowFixedWidthMinor = 6;
+        /** Attributes that can be used with a TimePicker.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #TimePicker_tp_24Hour com.example.riccardo.mashape:tp_24Hour}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePicker_tp_animDuration com.example.riccardo.mashape:tp_animDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePicker_tp_backgroundColor com.example.riccardo.mashape:tp_backgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePicker_tp_fontFamily com.example.riccardo.mashape:tp_fontFamily}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePicker_tp_hour com.example.riccardo.mashape:tp_hour}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePicker_tp_inInterpolator com.example.riccardo.mashape:tp_inInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePicker_tp_minute com.example.riccardo.mashape:tp_minute}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePicker_tp_mode com.example.riccardo.mashape:tp_mode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePicker_tp_outInterpolator com.example.riccardo.mashape:tp_outInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePicker_tp_selectionColor com.example.riccardo.mashape:tp_selectionColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePicker_tp_selectionRadius com.example.riccardo.mashape:tp_selectionRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePicker_tp_textColor com.example.riccardo.mashape:tp_textColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePicker_tp_textHighlightColor com.example.riccardo.mashape:tp_textHighlightColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePicker_tp_textSize com.example.riccardo.mashape:tp_textSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePicker_tp_textStyle com.example.riccardo.mashape:tp_textStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePicker_tp_tickSize com.example.riccardo.mashape:tp_tickSize}</code></td><td></td></tr>
+           </table>
+           @see #TimePicker_tp_24Hour
+           @see #TimePicker_tp_animDuration
+           @see #TimePicker_tp_backgroundColor
+           @see #TimePicker_tp_fontFamily
+           @see #TimePicker_tp_hour
+           @see #TimePicker_tp_inInterpolator
+           @see #TimePicker_tp_minute
+           @see #TimePicker_tp_mode
+           @see #TimePicker_tp_outInterpolator
+           @see #TimePicker_tp_selectionColor
+           @see #TimePicker_tp_selectionRadius
+           @see #TimePicker_tp_textColor
+           @see #TimePicker_tp_textHighlightColor
+           @see #TimePicker_tp_textSize
+           @see #TimePicker_tp_textStyle
+           @see #TimePicker_tp_tickSize
+         */
+        public static final int[] TimePicker = {
+            0x7f0101b5, 0x7f0101b6, 0x7f0101b7, 0x7f0101b8,
+            0x7f0101b9, 0x7f0101ba, 0x7f0101bb, 0x7f0101bc,
+            0x7f0101bd, 0x7f0101be, 0x7f0101bf, 0x7f0101c0,
+            0x7f0101c1, 0x7f0101c2, 0x7f0101c3, 0x7f0101c4
+        };
         /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#windowMinWidthMajor}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.riccardo.mashape:windowMinWidthMajor
-        */
-        public static final int Theme_windowMinWidthMajor = 10;
-        /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#windowMinWidthMinor}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.riccardo.mashape:windowMinWidthMinor
-        */
-        public static final int Theme_windowMinWidthMinor = 11;
-        /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#windowNoTitle}
-          attribute's value can be found in the {@link #Theme} array.
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#tp_24Hour}
+          attribute's value can be found in the {@link #TimePicker} array.
 
 
           <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
@@ -5480,9 +11809,309 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.example.riccardo.mashape:windowNoTitle
+          @attr name com.example.riccardo.mashape:tp_24Hour
         */
-        public static final int Theme_windowNoTitle = 3;
+        public static final int TimePicker_tp_24Hour = 13;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#tp_animDuration}
+          attribute's value can be found in the {@link #TimePicker} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:tp_animDuration
+        */
+        public static final int TimePicker_tp_animDuration = 9;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#tp_backgroundColor}
+          attribute's value can be found in the {@link #TimePicker} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:tp_backgroundColor
+        */
+        public static final int TimePicker_tp_backgroundColor = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#tp_fontFamily}
+          attribute's value can be found in the {@link #TimePicker} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+          @attr name com.example.riccardo.mashape:tp_fontFamily
+        */
+        public static final int TimePicker_tp_fontFamily = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#tp_hour}
+          attribute's value can be found in the {@link #TimePicker} array.
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:tp_hour
+        */
+        public static final int TimePicker_tp_hour = 14;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#tp_inInterpolator}
+          attribute's value can be found in the {@link #TimePicker} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:tp_inInterpolator
+        */
+        public static final int TimePicker_tp_inInterpolator = 10;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#tp_minute}
+          attribute's value can be found in the {@link #TimePicker} array.
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:tp_minute
+        */
+        public static final int TimePicker_tp_minute = 15;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#tp_mode}
+          attribute's value can be found in the {@link #TimePicker} array.
+
+
+          <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>hour</code></td><td>0</td><td></td></tr>
+<tr><td><code>minute</code></td><td>1</td><td></td></tr>
+</table>
+          @attr name com.example.riccardo.mashape:tp_mode
+        */
+        public static final int TimePicker_tp_mode = 12;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#tp_outInterpolator}
+          attribute's value can be found in the {@link #TimePicker} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:tp_outInterpolator
+        */
+        public static final int TimePicker_tp_outInterpolator = 11;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#tp_selectionColor}
+          attribute's value can be found in the {@link #TimePicker} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:tp_selectionColor
+        */
+        public static final int TimePicker_tp_selectionColor = 1;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#tp_selectionRadius}
+          attribute's value can be found in the {@link #TimePicker} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:tp_selectionRadius
+        */
+        public static final int TimePicker_tp_selectionRadius = 2;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#tp_textColor}
+          attribute's value can be found in the {@link #TimePicker} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:tp_textColor
+        */
+        public static final int TimePicker_tp_textColor = 7;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#tp_textHighlightColor}
+          attribute's value can be found in the {@link #TimePicker} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:tp_textHighlightColor
+        */
+        public static final int TimePicker_tp_textHighlightColor = 8;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#tp_textSize}
+          attribute's value can be found in the {@link #TimePicker} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:tp_textSize
+        */
+        public static final int TimePicker_tp_textSize = 6;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#tp_textStyle}
+          attribute's value can be found in the {@link #TimePicker} array.
+
+
+          <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>normal</code></td><td>0</td><td></td></tr>
+<tr><td><code>bold</code></td><td>1</td><td></td></tr>
+<tr><td><code>italic</code></td><td>2</td><td></td></tr>
+<tr><td><code>bold_italic</code></td><td>3</td><td></td></tr>
+</table>
+          @attr name com.example.riccardo.mashape:tp_textStyle
+        */
+        public static final int TimePicker_tp_textStyle = 5;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#tp_tickSize}
+          attribute's value can be found in the {@link #TimePicker} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:tp_tickSize
+        */
+        public static final int TimePicker_tp_tickSize = 3;
+        /** Attributes that can be used with a TimePickerDialog.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #TimePickerDialog_tp_am com.example.riccardo.mashape:tp_am}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePickerDialog_tp_headerHeight com.example.riccardo.mashape:tp_headerHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePickerDialog_tp_leadingZero com.example.riccardo.mashape:tp_leadingZero}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePickerDialog_tp_pm com.example.riccardo.mashape:tp_pm}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePickerDialog_tp_textTimeColor com.example.riccardo.mashape:tp_textTimeColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePickerDialog_tp_textTimeSize com.example.riccardo.mashape:tp_textTimeSize}</code></td><td></td></tr>
+           </table>
+           @see #TimePickerDialog_tp_am
+           @see #TimePickerDialog_tp_headerHeight
+           @see #TimePickerDialog_tp_leadingZero
+           @see #TimePickerDialog_tp_pm
+           @see #TimePickerDialog_tp_textTimeColor
+           @see #TimePickerDialog_tp_textTimeSize
+         */
+        public static final int[] TimePickerDialog = {
+            0x7f0101c5, 0x7f0101c6, 0x7f0101c7, 0x7f0101c8,
+            0x7f0101c9, 0x7f0101ca
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#tp_am}
+          attribute's value can be found in the {@link #TimePickerDialog} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+          @attr name com.example.riccardo.mashape:tp_am
+        */
+        public static final int TimePickerDialog_tp_am = 3;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#tp_headerHeight}
+          attribute's value can be found in the {@link #TimePickerDialog} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:tp_headerHeight
+        */
+        public static final int TimePickerDialog_tp_headerHeight = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#tp_leadingZero}
+          attribute's value can be found in the {@link #TimePickerDialog} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
+          @attr name com.example.riccardo.mashape:tp_leadingZero
+        */
+        public static final int TimePickerDialog_tp_leadingZero = 5;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#tp_pm}
+          attribute's value can be found in the {@link #TimePickerDialog} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+          @attr name com.example.riccardo.mashape:tp_pm
+        */
+        public static final int TimePickerDialog_tp_pm = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#tp_textTimeColor}
+          attribute's value can be found in the {@link #TimePickerDialog} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:tp_textTimeColor
+        */
+        public static final int TimePickerDialog_tp_textTimeColor = 1;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#tp_textTimeSize}
+          attribute's value can be found in the {@link #TimePickerDialog} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:tp_textTimeSize
+        */
+        public static final int TimePickerDialog_tp_textTimeSize = 2;
         /** Attributes that can be used with a Toolbar.
            <p>Includes the following attributes:</p>
            <table>
@@ -5503,6 +12132,7 @@ containing a value of this type.
            <tr><td><code>{@link #Toolbar_popupTheme com.example.riccardo.mashape:popupTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_subtitle com.example.riccardo.mashape:subtitle}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.example.riccardo.mashape:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_theme com.example.riccardo.mashape:theme}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_title com.example.riccardo.mashape:title}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_titleMarginBottom com.example.riccardo.mashape:titleMarginBottom}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_titleMarginEnd com.example.riccardo.mashape:titleMarginEnd}</code></td><td></td></tr>
@@ -5525,6 +12155,7 @@ containing a value of this type.
            @see #Toolbar_popupTheme
            @see #Toolbar_subtitle
            @see #Toolbar_subtitleTextAppearance
+           @see #Toolbar_theme
            @see #Toolbar_title
            @see #Toolbar_titleMarginBottom
            @see #Toolbar_titleMarginEnd
@@ -5534,12 +12165,12 @@ containing a value of this type.
            @see #Toolbar_titleTextAppearance
          */
         public static final int[] Toolbar = {
-            0x010100af, 0x01010140, 0x7f010003, 0x7f010006,
-            0x7f010016, 0x7f010017, 0x7f010018, 0x7f010019,
-            0x7f01001b, 0x7f0100b8, 0x7f0100b9, 0x7f0100ba,
-            0x7f0100bb, 0x7f0100bc, 0x7f0100bd, 0x7f0100be,
-            0x7f0100bf, 0x7f0100c0, 0x7f0100c1, 0x7f0100c2,
-            0x7f0100c3
+            0x010100af, 0x01010140, 0x7f010019, 0x7f01001c,
+            0x7f01002c, 0x7f01002d, 0x7f01002e, 0x7f01002f,
+            0x7f010031, 0x7f0101cb, 0x7f0101cc, 0x7f0101cd,
+            0x7f0101ce, 0x7f0101cf, 0x7f0101d0, 0x7f0101d1,
+            0x7f0101d2, 0x7f0101d3, 0x7f0101d4, 0x7f0101d5,
+            0x7f0101d6, 0x7f0101d7
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#gravity}
@@ -5566,7 +12197,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.riccardo.mashape:collapseContentDescription
         */
-        public static final int Toolbar_collapseContentDescription = 18;
+        public static final int Toolbar_collapseContentDescription = 19;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5576,7 +12207,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:collapseIcon
         */
-        public static final int Toolbar_collapseIcon = 17;
+        public static final int Toolbar_collapseIcon = 18;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5670,7 +12301,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.riccardo.mashape:navigationContentDescription
         */
-        public static final int Toolbar_navigationContentDescription = 20;
+        public static final int Toolbar_navigationContentDescription = 21;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5680,7 +12311,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.riccardo.mashape:navigationIcon
         */
-        public static final int Toolbar_navigationIcon = 19;
+        public static final int Toolbar_navigationIcon = 20;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5715,6 +12346,16 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           @attr name com.example.riccardo.mashape:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 10;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#theme}
+          attribute's value can be found in the {@link #Toolbar} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:theme
+        */
+        public static final int Toolbar_theme = 17;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
@@ -5826,72 +12467,22 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_backgroundTint com.example.riccardo.mashape:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_backgroundTintMode com.example.riccardo.mashape:backgroundTintMode}</code></td><td></td></tr>
            <tr><td><code>{@link #View_paddingEnd com.example.riccardo.mashape:paddingEnd}</code></td><td></td></tr>
            <tr><td><code>{@link #View_paddingStart com.example.riccardo.mashape:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme com.example.riccardo.mashape:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
-           @see #View_android_theme
-           @see #View_backgroundTint
-           @see #View_backgroundTintMode
            @see #View_paddingEnd
            @see #View_paddingStart
-           @see #View_theme
          */
         public static final int[] View = {
-            0x01010000, 0x010100da, 0x7f0100c4, 0x7f0100c5,
-            0x7f0100c6, 0x7f0100c7, 0x7f0100c8
+            0x010100da, 0x7f0101d8, 0x7f0101d9
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#focusable}
           attribute's value can be found in the {@link #View} array.
           @attr name android:focusable
         */
-        public static final int View_android_focusable = 1;
-        /**
-          <p>This symbol is the offset where the {@link android.R.attr#theme}
-          attribute's value can be found in the {@link #View} array.
-          @attr name android:theme
-        */
-        public static final int View_android_theme = 0;
-        /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#backgroundTint}
-          attribute's value can be found in the {@link #View} array.
-
-
-          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.example.riccardo.mashape:backgroundTint
-        */
-        public static final int View_backgroundTint = 5;
-        /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#backgroundTintMode}
-          attribute's value can be found in the {@link #View} array.
-
-
-          <p>Must be one of the following constant values.</p>
-<table>
-<colgroup align="left" />
-<colgroup align="left" />
-<colgroup align="left" />
-<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-<tr><td><code>src_over</code></td><td>3</td><td></td></tr>
-<tr><td><code>src_in</code></td><td>5</td><td></td></tr>
-<tr><td><code>src_atop</code></td><td>9</td><td></td></tr>
-<tr><td><code>multiply</code></td><td>14</td><td></td></tr>
-<tr><td><code>screen</code></td><td>15</td><td></td></tr>
-</table>
-          @attr name com.example.riccardo.mashape:backgroundTintMode
-        */
-        public static final int View_backgroundTintMode = 6;
+        public static final int View_android_focusable = 0;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
@@ -5907,7 +12498,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.riccardo.mashape:paddingEnd
         */
-        public static final int View_paddingEnd = 3;
+        public static final int View_paddingEnd = 2;
         /**
           <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
@@ -5923,17 +12514,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.riccardo.mashape:paddingStart
         */
-        public static final int View_paddingStart = 2;
-        /**
-          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#theme}
-          attribute's value can be found in the {@link #View} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.example.riccardo.mashape:theme
-        */
-        public static final int View_theme = 4;
+        public static final int View_paddingStart = 1;
         /** Attributes that can be used with a ViewStubCompat.
            <p>Includes the following attributes:</p>
            <table>
@@ -5969,5 +12550,216 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           @attr name android:layout
         */
         public static final int ViewStubCompat_android_layout = 1;
+        /** Attributes that can be used with a YearPicker.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #YearPicker_dp_animDuration com.example.riccardo.mashape:dp_animDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #YearPicker_dp_fontFamily com.example.riccardo.mashape:dp_fontFamily}</code></td><td></td></tr>
+           <tr><td><code>{@link #YearPicker_dp_inInterpolator com.example.riccardo.mashape:dp_inInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #YearPicker_dp_outInterpolator com.example.riccardo.mashape:dp_outInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #YearPicker_dp_selectionColor com.example.riccardo.mashape:dp_selectionColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #YearPicker_dp_textColor com.example.riccardo.mashape:dp_textColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #YearPicker_dp_textHighlightColor com.example.riccardo.mashape:dp_textHighlightColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #YearPicker_dp_textStyle com.example.riccardo.mashape:dp_textStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #YearPicker_dp_year com.example.riccardo.mashape:dp_year}</code></td><td></td></tr>
+           <tr><td><code>{@link #YearPicker_dp_yearItemHeight com.example.riccardo.mashape:dp_yearItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #YearPicker_dp_yearMax com.example.riccardo.mashape:dp_yearMax}</code></td><td></td></tr>
+           <tr><td><code>{@link #YearPicker_dp_yearMin com.example.riccardo.mashape:dp_yearMin}</code></td><td></td></tr>
+           <tr><td><code>{@link #YearPicker_dp_yearTextSize com.example.riccardo.mashape:dp_yearTextSize}</code></td><td></td></tr>
+           </table>
+           @see #YearPicker_dp_animDuration
+           @see #YearPicker_dp_fontFamily
+           @see #YearPicker_dp_inInterpolator
+           @see #YearPicker_dp_outInterpolator
+           @see #YearPicker_dp_selectionColor
+           @see #YearPicker_dp_textColor
+           @see #YearPicker_dp_textHighlightColor
+           @see #YearPicker_dp_textStyle
+           @see #YearPicker_dp_year
+           @see #YearPicker_dp_yearItemHeight
+           @see #YearPicker_dp_yearMax
+           @see #YearPicker_dp_yearMin
+           @see #YearPicker_dp_yearTextSize
+         */
+        public static final int[] YearPicker = {
+            0x7f010000, 0x7f010004, 0x7f010005, 0x7f010009,
+            0x7f01000a, 0x7f01000b, 0x7f01000c, 0x7f01000d,
+            0x7f01000e, 0x7f01000f, 0x7f010010, 0x7f0101da,
+            0x7f0101db
+        };
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_animDuration}
+          attribute's value can be found in the {@link #YearPicker} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be an integer value, such as "<code>100</code>".
+          @attr name com.example.riccardo.mashape:dp_animDuration
+        */
+        public static final int YearPicker_dp_animDuration = 0;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_fontFamily}
+          attribute's value can be found in the {@link #YearPicker} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+          @attr name com.example.riccardo.mashape:dp_fontFamily
+        */
+        public static final int YearPicker_dp_fontFamily = 1;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_inInterpolator}
+          attribute's value can be found in the {@link #YearPicker} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:dp_inInterpolator
+        */
+        public static final int YearPicker_dp_inInterpolator = 2;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_outInterpolator}
+          attribute's value can be found in the {@link #YearPicker} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name com.example.riccardo.mashape:dp_outInterpolator
+        */
+        public static final int YearPicker_dp_outInterpolator = 3;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_selectionColor}
+          attribute's value can be found in the {@link #YearPicker} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:dp_selectionColor
+        */
+        public static final int YearPicker_dp_selectionColor = 4;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_textColor}
+          attribute's value can be found in the {@link #YearPicker} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:dp_textColor
+        */
+        public static final int YearPicker_dp_textColor = 5;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_textHighlightColor}
+          attribute's value can be found in the {@link #YearPicker} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+          @attr name com.example.riccardo.mashape:dp_textHighlightColor
+        */
+        public static final int YearPicker_dp_textHighlightColor = 6;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_textStyle}
+          attribute's value can be found in the {@link #YearPicker} array.
+
+
+          <p>May be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+<p>May be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>normal</code></td><td>0</td><td></td></tr>
+<tr><td><code>bold</code></td><td>1</td><td></td></tr>
+<tr><td><code>italic</code></td><td>2</td><td></td></tr>
+<tr><td><code>bold_italic</code></td><td>3</td><td></td></tr>
+</table>
+          @attr name com.example.riccardo.mashape:dp_textStyle
+        */
+        public static final int YearPicker_dp_textStyle = 7;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_year}
+          attribute's value can be found in the {@link #YearPicker} array.
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:dp_year
+        */
+        public static final int YearPicker_dp_year = 8;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_yearItemHeight}
+          attribute's value can be found in the {@link #YearPicker} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:dp_yearItemHeight
+        */
+        public static final int YearPicker_dp_yearItemHeight = 12;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_yearMax}
+          attribute's value can be found in the {@link #YearPicker} array.
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:dp_yearMax
+        */
+        public static final int YearPicker_dp_yearMax = 9;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_yearMin}
+          attribute's value can be found in the {@link #YearPicker} array.
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name com.example.riccardo.mashape:dp_yearMin
+        */
+        public static final int YearPicker_dp_yearMin = 10;
+        /**
+          <p>This symbol is the offset where the {@link com.example.riccardo.mashape.R.attr#dp_yearTextSize}
+          attribute's value can be found in the {@link #YearPicker} array.
+
+
+          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+<p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+          @attr name com.example.riccardo.mashape:dp_yearTextSize
+        */
+        public static final int YearPicker_dp_yearTextSize = 11;
     };
 }

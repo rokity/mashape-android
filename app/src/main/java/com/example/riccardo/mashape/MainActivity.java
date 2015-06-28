@@ -1,12 +1,12 @@
 package com.example.riccardo.mashape;
 
-import android.net.Uri;
 import android.os.AsyncTask;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 import android.widget.Toast;
 
 
@@ -20,11 +20,10 @@ import java.io.InputStreamReader;
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
 import org.apache.http.client.HttpClient;
-import org.apache.http.client.ResponseHandler;
 import org.apache.http.client.methods.HttpGet;
-import org.apache.http.impl.client.BasicResponseHandler;
 import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.util.EntityUtils;
+import org.json.JSONObject;
 
 
 public class MainActivity extends ActionBarActivity {
@@ -34,11 +33,24 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        new HttpAsyncTask().execute("https://rokity-mashape-v1.p.mashape.com/?query=explore");
+
     }
 
 
+    public void explore(View v){
 
+      AsyncTask<String, Void, String> app =  new HttpAsyncTask().execute("https://rokity-mashape-v1.p.mashape.com/?query=explore");
+        try {
+
+            JSONObject obj = new JSONObject(app.toString());
+
+
+
+        } catch (Throwable t) {
+            Log.e("My App", "Could not parse malformed JSON: "+app.toString()+"");
+        }
+
+    }
     private class HttpAsyncTask extends AsyncTask<String, Void, String> {
         @Override
         protected String doInBackground(String... urls) {
