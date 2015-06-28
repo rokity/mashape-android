@@ -50,6 +50,8 @@ public class MainActivity extends ActionBarActivity {
             Log.e("My App", "Could not parse malformed JSON: "+app.toString()+"");
         }
 
+
+
     }
     private class HttpAsyncTask extends AsyncTask<String, Void, String> {
         @Override

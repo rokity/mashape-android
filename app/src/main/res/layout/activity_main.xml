@@ -37,7 +37,7 @@
         android:layout_height="wrap_content"
         android:text="@string/explore"
         app:rd_enable="true"
-        android:onclick="explore"
+        android:onClick="explore"
         android:layout_marginTop="30dp"
         android:id="@+id/tags"
         android:background="#0A88B9"
