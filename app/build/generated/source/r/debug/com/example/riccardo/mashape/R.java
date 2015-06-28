@@ -3493,8 +3493,6 @@ containing a value of this type.
         public static final int aurora_borealis=0x7f020033;
         public static final int baltoro_glacier=0x7f020034;
         public static final int grand_canyon=0x7f020035;
-        public static final int great_barrier_reef=0x7f020036;
-        public static final int ig=0x7f020037;
     }
     public static final class id {
         public static final int action_bar=0x7f0d0056;
@@ -3510,7 +3508,7 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f0d0053;
         public static final int action_mode_bar_stub=0x7f0d0052;
         public static final int action_mode_close_button=0x7f0d0045;
-        public static final int action_settings=0x7f0d006c;
+        public static final int action_settings=0x7f0d006b;
         public static final int activity_chooser_view_content=0x7f0d0046;
         public static final int afterRelease=0x7f0d0039;
         public static final int always=0x7f0d002f;
@@ -3525,6 +3523,7 @@ containing a value of this type.
         public static final int charCounter=0x7f0d0021;
         public static final int checkbox=0x7f0d004e;
         public static final int collapseActionView=0x7f0d0030;
+        public static final int cv=0x7f0d0067;
         public static final int decor_content_parent=0x7f0d0054;
         public static final int default_activity_button=0x7f0d0049;
         public static final int determinate=0x7f0d000e;
@@ -3546,7 +3545,6 @@ containing a value of this type.
         public static final int icon=0x7f0d004b;
         public static final int ifRoom=0x7f0d0031;
         public static final int image=0x7f0d0048;
-        public static final int img_thumbnail=0x7f0d0069;
         public static final int indeterminate=0x7f0d000f;
         public static final int italic=0x7f0d000b;
         public static final int listMode=0x7f0d0011;
@@ -3564,12 +3562,14 @@ containing a value of this type.
         public static final int none=0x7f0d0015;
         public static final int normal=0x7f0d000c;
         public static final int oval=0x7f0d0035;
+        public static final int person_age=0x7f0d006a;
+        public static final int person_name=0x7f0d0069;
+        public static final int person_photo=0x7f0d0068;
         public static final int progress_circular=0x7f0d0005;
         public static final int progress_horizontal=0x7f0d0006;
         public static final int query=0x7f0d0010;
         public static final int radio=0x7f0d0050;
         public static final int rectangle=0x7f0d0036;
-        public static final int recycler_view=0x7f0d0067;
         public static final int round=0x7f0d0027;
         public static final int rtl=0x7f0d001c;
         public static final int scroll=0x7f0d0040;
@@ -3596,10 +3596,7 @@ containing a value of this type.
         public static final int tags=0x7f0d0066;
         public static final int title=0x7f0d004c;
         public static final int top=0x7f0d002e;
-        public static final int top_layout=0x7f0d0068;
         public static final int touch=0x7f0d0037;
-        public static final int tv_des_nature=0x7f0d006b;
-        public static final int tv_nature=0x7f0d006a;
         public static final int untilRelease=0x7f0d003a;
         public static final int up=0x7f0d0008;
         public static final int useLogo=0x7f0d0019;
@@ -3635,8 +3632,8 @@ containing a value of this type.
         public static final int abc_search_view=0x7f040015;
         public static final int abc_simple_dropdown_hint=0x7f040016;
         public static final int activity_main=0x7f040017;
-        public static final int explore=0x7f040018;
-        public static final int recycler_view_card_item=0x7f040019;
+        public static final int cardview=0x7f040018;
+        public static final int explore=0x7f040019;
         public static final int support_simple_spinner_dropdown_item=0x7f04001a;
     }
     public static final class menu {
