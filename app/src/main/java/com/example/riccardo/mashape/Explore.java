@@ -1,5 +1,7 @@
 package com.example.riccardo.mashape;
 
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
@@ -16,8 +18,13 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.nostra13.universalimageloader.core.ImageLoader;
+import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;
+
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
+import org.apache.http.StatusLine;
+import org.apache.http.client.ClientProtocolException;
 import org.apache.http.client.HttpClient;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.DefaultHttpClient;
@@ -28,6 +35,10 @@ import org.json.JSONException;
 import org.json.JSONObject;
 import org.json.JSONString;
 
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -36,129 +47,88 @@ import java.util.List;
  */
 public class Explore extends ActionBarActivity {
 
+    RecyclerView recList;
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.explore);
-        AsyncTask<String, Void, String> app =  new HttpAsyncTask().execute("https://rokity-mashape-v1.p.mashape.com/?query=explore");
+        ImageLoaderConfiguration config = new ImageLoaderConfiguration.Builder(this)
 
-
-
-        /*
-        RecyclerView rv = (RecyclerView)findViewById(R.id.rv);
-        rv.setHasFixedSize(true);
-        LinearLayoutManager llm = new LinearLayoutManager(this);
-        rv.setLayoutManager(llm);
-        initializeData();
-        RVAdapter adapter = new RVAdapter(persons);
-        rv.setAdapter(adapter);
-
-
-*/
-
+        .build();
+        ImageLoader.getInstance().init(config);
+        new HttpAsyncTask().execute("https://rokity-mashape-v1.p.mashape.com/?query=explore");
+       recList = (RecyclerView) findViewById(R.id.cardList);
+        recList.setHasFixedSize(true);
+        LinearLayoutManager llm = new LinearLayoutManager(Explore.this);
+        llm.setOrientation(LinearLayoutManager.VERTICAL);
+        recList.setLayoutManager(llm);
 
     }
 
 
 
 
-    class Person {
-        String name;
-        String owner;
-        String image_owner;
-        String  image_api;
-        String desc;
-        String  prices;
-        String links;
-
-        Person(String name, String owner, String image_owner,String  image_api, String desc,String  prices,String links) {
-            this.name = name;
-            this.owner = owner;
-            this.image_owner = image_owner;
-            this. image_api =  image_api;
-            this.desc = desc;
-            this.prices =prices;
-            this.links = links;
-
-        }
-    }
-
-
-    private List<Person> persons;
-
-    // This method creates an ArrayList that has three Person objects
-// Checkout the project associated with this tutorial on Github if
-// you want to use the same images.
-   /* private void initializeData(){
-        persons = new ArrayList<>();
-        persons.add(new Person("Emma Wilson", "23 years old", R.drawable.aurora_borealis));
-        persons.add(new Person("Lavery Maiss", "25 years old", R.drawable.baltoro_glacier));
-        persons.add(new Person("Lillie Watts", "35 years old", R.drawable.grand_canyon));
-    }
-*/
 
 
 
+    private List<ContactInfo> createList(int size) {
 
+        List<ContactInfo> result = new ArrayList<ContactInfo>();
+        for (int i=1; i < array.get(0).length(); i++) {
+            ContactInfo ci = new ContactInfo();
+            try {
 
+            ci.name = array.get(0).getString(i).toString();
+            ci.owner =array.get(1).getString(i).toString();
+            ci.image_owner = array.get(2).getString(i).toString();
+            ci.image_api=array.get(3).getString(i).toString();
+            ci.desc=array.get(4).getString(i).toString();
+            ci.prices=array.get(5).getString(i).toString();
+            ci.links=array.get(6).getString(i).toString();
 
-
-
-
-/*
-
-
-    public class RVAdapter extends RecyclerView.Adapter<RVAdapter.PersonViewHolder>{
-
-        @Override
-        public PersonViewHolder onCreateViewHolder(ViewGroup viewGroup, int i) {
-            View v = LayoutInflater.from(viewGroup.getContext()).inflate(R.layout.cardview, viewGroup, false);
-            PersonViewHolder pvh = new PersonViewHolder(v);
-            return pvh;
-        }
-
-        @Override
-        public void onBindViewHolder(PersonViewHolder personViewHolder, int i) {
-            personViewHolder.personName.setText(persons.get(i).name);
-            personViewHolder.personAge.setText(persons.get(i).age);
-            personViewHolder.personPhoto.setImageResource(persons.get(i).photoId);
-        }
-
-        @Override
-        public int getItemCount() {
-            return persons.size();
-        }
-        List<Person> persons;
-
-        public RVAdapter(List<Person> persons){
-            this.persons = persons;
-
-        }
-        public class PersonViewHolder extends RecyclerView.ViewHolder {
-            CardView cv;
-            TextView personName;
-            TextView personAge;
-            ImageView personPhoto;
-
-            PersonViewHolder(View itemView) {
-                super(itemView);
-                cv = (CardView)itemView.findViewById(R.id.cv);
-                personName = (TextView)itemView.findViewById(R.id.person_name);
-                personAge = (TextView)itemView.findViewById(R.id.person_age);
-                personPhoto = (ImageView)itemView.findViewById(R.id.person_photo);
+            result.add(ci);
+            } catch (JSONException e) {
+                e.printStackTrace();
             }
+
         }
 
-        @Override
-        public void onAttachedToRecyclerView(RecyclerView recyclerView) {
-            super.onAttachedToRecyclerView(recyclerView);
-        }
-
+        return result;
     }
 
-*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ArrayList<JSONArray> array=new ArrayList<JSONArray>();
 
     private class HttpAsyncTask extends AsyncTask<String, Void, String> {
         @Override
@@ -172,21 +142,32 @@ public class Explore extends ActionBarActivity {
 
 
             try {
-                JSONObject obj = new JSONObject(result.toString());
-                JSONArray name=obj.getJSONArray("name");
-                ArrayList<String> list = new ArrayList<String>();
-                int len = name.length();
+                JSONObject jsonObject=null;
 
-                for (int i=0;i<len;i++){
-                    list.add(name.get(i).toString());
-                   Log.d("VALUE", String.valueOf(name.get(i).toString()));
-                }
+                    jsonObject = new JSONObject(result);
+
+
+
+
+                JSONArray name=jsonObject.getJSONArray("name");
+                JSONArray owner=jsonObject.getJSONArray(("owner"));
+                JSONArray image_owner=jsonObject.getJSONArray(("image_owner"));
+                JSONArray  image_api=jsonObject.getJSONArray("image_api");
+                JSONArray desc=jsonObject.getJSONArray("desc");
+                JSONArray  prices=jsonObject.getJSONArray("prices");
+                JSONArray links=jsonObject.getJSONArray("links");
+                array.add(name);array.add(owner);array.add(image_owner);array.add(image_api);array.add(desc);array.add(prices);array.add(links);
 
 
             } catch (JSONException e) {
-               Log.e("Object",e.getMessage());
+               Log.e("Object", e.getMessage());
             }
+            Log.d("STATUS", "FINISH DOWNLOAD");
 
+
+
+            ContactAdapter ca = new ContactAdapter(createList(30),Explore.this);
+            recList.setAdapter(ca);
 
 
         }
@@ -202,57 +183,45 @@ public class Explore extends ActionBarActivity {
 
         try
         {
-            String SetServerString = "";
 
             // Create Request to server and get response
-
+            StringBuilder builder = new StringBuilder();
             HttpGet httpget = new HttpGet(url);
             httpget.addHeader("X-Mashape-Key", "BIbPcODb1Dmsh7mAVx5Tg830cnrop1pWoxujsnlpCWGNRsgH0P");
             httpget.addHeader("Accept", "application/json");
 
             HttpResponse responseGet = Client.execute(httpget);
-
+            StatusLine statusLine = responseGet.getStatusLine();
+            int statusCode = statusLine.getStatusCode();
+            if(statusCode == 200){
             HttpEntity resEntityGet = responseGet.getEntity();
-            if (resEntityGet != null) {
+
                 //do something with the response
 
-                return EntityUtils.toString(resEntityGet, HTTP.UTF_8);
+                InputStream content = resEntityGet.getContent();
+                BufferedReader reader = new BufferedReader(new InputStreamReader(content));
+                String line;
+                while((line = reader.readLine()) != null){
+                    builder.append(line);
+                }
+                return builder.toString();
             }else {
 
                 return null;
             }
 
         }
-        catch(Exception ex)
-        {
+        catch(Exception ex) {
             Log.d("IO", ex.getMessage());
             return null;
         }
 
 
-    }
+
+        }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    @Override
+        @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.menu_main, menu);

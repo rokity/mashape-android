@@ -2,67 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
-        jumboMode="false"
-        revision="21.0.1"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/classes-ae7600358baf4bfbc2929d33ded41a9871b5f8ab.jar" />
-    </item>
-    <item
-        jar="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
-        <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/classes-2b2fe493fd562d165754bf36d855c683400545d1.jar" />
-    </item>
-    <item
         jar="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
         jumboMode="false"
-        revision="22.0.1"
+        revision="21.0.1"
         sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
         <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-784a70d47b1cd1bb1673a28c58895654269ee900.jar" />
-    </item>
-    <item
-        jar="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/classes-ae7600358baf4bfbc2929d33ded41a9871b5f8ab.jar" />
-    </item>
-    <item
-        jar="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/exploded-aar/com.github.rey5137/material/1.1.1/jars/classes.jar"
-        jumboMode="false"
-        revision="21.0.1"
-        sha1="60dee46bb1ba50fb53b5d064694dc849246596fd">
-        <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/classes-123663943f5462efca87a0975a8d6a4ab347ae16.jar" />
-    </item>
-    <item
-        jar="/home/riccardo/AndroidStudioProjects/Mashape/app/libs/httpclient-4.5.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a1e6cbb3cc2c5f210dd1310ff9fcb2c09c0d1438">
-        <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/httpclient-4.5-b0a5b84d557bd677b1b7110cee31f09a02b2384f.jar" />
-    </item>
-    <item
-        jar="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/exploded-aar/com.github.rey5137/material/1.1.1/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="60dee46bb1ba50fb53b5d064694dc849246596fd">
-        <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/classes-123663943f5462efca87a0975a8d6a4ab347ae16.jar" />
-    </item>
-    <item
-        jar="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/jars/classes.jar"
-        jumboMode="false"
-        revision="21.0.1"
-        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
-        <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/classes-2b2fe493fd562d165754bf36d855c683400545d1.jar" />
-    </item>
-    <item
-        jar="/home/riccardo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-94ef698f248191a54bd9c59120785c5c6d2dff2d.jar" />
     </item>
     <item
         jar="/home/riccardo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
@@ -72,13 +16,6 @@
         <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-94ef698f248191a54bd9c59120785c5c6d2dff2d.jar" />
     </item>
     <item
-        jar="/home/riccardo/AndroidStudioProjects/Mashape/app/libs/unirest-java-1.4.5.jar"
-        jumboMode="false"
-        revision="21.0.1"
-        sha1="674128dedd39ed4f128c8c74a2608c372e2d1a95">
-        <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/unirest-java-1.4.5-d2bf06ba1d68e79c3a87535fb604dfa9d69ce316.jar" />
-    </item>
-    <item
         jar="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/jars/classes.jar"
         jumboMode="false"
         revision="21.0.1"
@@ -86,39 +23,67 @@
         <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/classes-29cac8222bb75695c573999cf644b622d005fe06.jar" />
     </item>
     <item
+        jar="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/classes-ae7600358baf4bfbc2929d33ded41a9871b5f8ab.jar" />
+    </item>
+    <item
         jar="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
         <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/classes-de3681a51624393cedd99129ab40175d8b35b642.jar" />
+    </item>
+    <item
+        jar="/home/riccardo/AndroidStudioProjects/Mashape/app/libs/org.json-20120521.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e04ebf63b984b19433748f06d50c1aba995a6292">
+        <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/org.json-20120521-e6961a73ccab48654d1d904d630370974d0b6435.jar" />
+    </item>
+    <item
+        jar="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/classes-29cac8222bb75695c573999cf644b622d005fe06.jar" />
     </item>
     <item
         jar="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
         jumboMode="false"
-        revision="21.0.1"
+        revision="22.0.1"
         sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
         <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-784a70d47b1cd1bb1673a28c58895654269ee900.jar" />
     </item>
     <item
-        jar="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/jars/classes.jar"
+        jar="/home/riccardo/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.4/dd9eeb557650c4ad7394df23f0f5cf27a7cfc697/universal-image-loader-1.9.4.jar"
         jumboMode="false"
         revision="21.0.1"
-        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
-        <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/classes-de3681a51624393cedd99129ab40175d8b35b642.jar" />
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.4-ab3f9b8385fa5c3ba6fa77954e33e1dd9c8278ef.jar" />
     </item>
     <item
-        jar="/home/riccardo/AndroidStudioProjects/Mashape/app/libs/unirest-java-1.4.5.jar"
+        jar="/home/riccardo/AndroidStudioProjects/Mashape/app/libs/org.json-20120521.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="674128dedd39ed4f128c8c74a2608c372e2d1a95">
-        <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/unirest-java-1.4.5-d2bf06ba1d68e79c3a87535fb604dfa9d69ce316.jar" />
+        revision="21.0.1"
+        sha1="e04ebf63b984b19433748f06d50c1aba995a6292">
+        <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/org.json-20120521-e6961a73ccab48654d1d904d630370974d0b6435.jar" />
     </item>
     <item
-        jar="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/jars/classes.jar"
+        jar="/home/riccardo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
-        <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/classes-29cac8222bb75695c573999cf644b622d005fe06.jar" />
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-94ef698f248191a54bd9c59120785c5c6d2dff2d.jar" />
+    </item>
+    <item
+        jar="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/exploded-aar/info.hoang8f/fbutton/1.0.5/jars/classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="2c12397a785c3b1868fbebeffc9553457b27803f">
+        <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/classes-6ed09a7362f5fd50a689ef745472561c51c311b1.jar" />
     </item>
     <item
         jar="/home/riccardo/AndroidStudioProjects/Mashape/app/libs/httpclient-4.5.jar"
@@ -128,18 +93,67 @@
         <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/httpclient-4.5-b0a5b84d557bd677b1b7110cee31f09a02b2384f.jar" />
     </item>
     <item
-        jar="/home/riccardo/AndroidStudioProjects/Mashape/app/libs/org.json-20120521.jar"
+        jar="/home/riccardo/AndroidStudioProjects/Mashape/app/libs/unirest-java-1.4.5.jar"
         jumboMode="false"
         revision="21.0.1"
-        sha1="e04ebf63b984b19433748f06d50c1aba995a6292">
-        <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/org.json-20120521-e6961a73ccab48654d1d904d630370974d0b6435.jar" />
+        sha1="674128dedd39ed4f128c8c74a2608c372e2d1a95">
+        <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/unirest-java-1.4.5-d2bf06ba1d68e79c3a87535fb604dfa9d69ce316.jar" />
     </item>
     <item
-        jar="/home/riccardo/AndroidStudioProjects/Mashape/app/libs/org.json-20120521.jar"
+        jar="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/classes-ae7600358baf4bfbc2929d33ded41a9871b5f8ab.jar" />
+    </item>
+    <item
+        jar="/home/riccardo/AndroidStudioProjects/Mashape/app/libs/httpclient-4.5.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="e04ebf63b984b19433748f06d50c1aba995a6292">
-        <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/org.json-20120521-e6961a73ccab48654d1d904d630370974d0b6435.jar" />
+        sha1="a1e6cbb3cc2c5f210dd1310ff9fcb2c09c0d1438">
+        <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/httpclient-4.5-b0a5b84d557bd677b1b7110cee31f09a02b2384f.jar" />
+    </item>
+    <item
+        jar="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/classes-2b2fe493fd562d165754bf36d855c683400545d1.jar" />
+    </item>
+    <item
+        jar="/home/riccardo/AndroidStudioProjects/Mashape/app/libs/unirest-java-1.4.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="674128dedd39ed4f128c8c74a2608c372e2d1a95">
+        <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/unirest-java-1.4.5-d2bf06ba1d68e79c3a87535fb604dfa9d69ce316.jar" />
+    </item>
+    <item
+        jar="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/classes-de3681a51624393cedd99129ab40175d8b35b642.jar" />
+    </item>
+    <item
+        jar="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/exploded-aar/com.github.rey5137/material/1.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="60dee46bb1ba50fb53b5d064694dc849246596fd">
+        <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/classes-123663943f5462efca87a0975a8d6a4ab347ae16.jar" />
+    </item>
+    <item
+        jar="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/exploded-aar/com.github.rey5137/material/1.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="60dee46bb1ba50fb53b5d064694dc849246596fd">
+        <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/classes-123663943f5462efca87a0975a8d6a4ab347ae16.jar" />
+    </item>
+    <item
+        jar="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/home/riccardo/AndroidStudioProjects/Mashape/app/build/intermediates/pre-dexed/debug/classes-2b2fe493fd562d165754bf36d855c683400545d1.jar" />
     </item>
 
 </items>
